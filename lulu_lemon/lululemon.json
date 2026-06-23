@@ -1,0 +1,2476 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "ProductGroup",
+    "name": "Mile Maker Mesh Short-Sleeve T-Shirt",
+    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+    "description": "Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699",
+    "sku": "158551049",
+    "category": "Short Sleeve Shirts",
+    "@id": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839",
+    "brand": {
+        "@type": "Brand",
+        "name": "lululemon",
+        "url": "https://shop.lululemon.com"
+    },
+    "productGroupId": "158551049",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 3.9183673469387754,
+        "reviewCount": 49
+    },
+    "variesBy": [
+        "https://schema.org/color",
+        "https://schema.org/size"
+    ],
+    "hasVariant": [
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=S",
+            "sku": "158551049",
+            "color": "Heathered White",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=S",
+                    "sku": "158551049",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XL",
+            "sku": "158551050",
+            "color": "Heathered White",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XL",
+                    "sku": "158551050",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=M",
+            "sku": "158551048",
+            "color": "Heathered White",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=M",
+                    "sku": "158551048",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=L",
+            "sku": "158551047",
+            "color": "Heathered White",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=L",
+                    "sku": "158551047",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XS",
+            "sku": "158551051",
+            "color": "Heathered White",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XS",
+                    "sku": "158551051",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered White - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XXL",
+            "sku": "158551052",
+            "color": "Heathered White",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_3151_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=3151&sz=XXL",
+                    "sku": "158551052",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XS",
+            "sku": "158643532",
+            "color": "Black",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XS",
+                    "sku": "158643532",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XXL",
+            "sku": "158643539",
+            "color": "Light Ivory",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XXL",
+                    "sku": "158643539",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=L",
+            "sku": "158643534",
+            "color": "Light Ivory",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=L",
+                    "sku": "158643534",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=S",
+            "sku": "158643536",
+            "color": "Light Ivory",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=S",
+                    "sku": "158643536",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XL",
+            "sku": "158643537",
+            "color": "Light Ivory",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XL",
+                    "sku": "158643537",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XS",
+            "sku": "158643538",
+            "color": "Light Ivory",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=XS",
+                    "sku": "158643538",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=M",
+            "sku": "158551042",
+            "color": "Heathered Black",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=M",
+                    "sku": "158551042",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=L",
+            "sku": "158551041",
+            "color": "Heathered Black",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=L",
+                    "sku": "158551041",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=S",
+            "sku": "158551043",
+            "color": "Heathered Black",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=S",
+                    "sku": "158551043",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XXL",
+            "sku": "158551046",
+            "color": "Heathered Black",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XXL",
+                    "sku": "158551046",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XS",
+            "sku": "158551045",
+            "color": "Heathered Black",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XS",
+                    "sku": "158551045",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Heathered Black - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XL",
+            "sku": "158551044",
+            "color": "Heathered Black",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GCCS_1966_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=1966&sz=XL",
+                    "sku": "158551044",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=S",
+            "sku": "158643530",
+            "color": "Black",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=S",
+                    "sku": "158643530",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XL",
+            "sku": "158643531",
+            "color": "Black",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XL",
+                    "sku": "158643531",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XXL",
+            "sku": "158643533",
+            "color": "Black",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=XXL",
+                    "sku": "158643533",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=L",
+            "sku": "158643528",
+            "color": "Black",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=L",
+                    "sku": "158643528",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Light Ivory - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=M",
+            "sku": "158643535",
+            "color": "Light Ivory",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_033454_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=33454&sz=M",
+                    "sku": "158643535",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Black - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=M",
+            "sku": "158643529",
+            "color": "Black",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_0001_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=0001&sz=M",
+                    "sku": "158643529",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=L",
+            "sku": "158924553",
+            "color": "Jet Set Blue",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=L",
+                    "sku": "158924553",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=M",
+            "sku": "158924557",
+            "color": "Jet Set Blue",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=M",
+                    "sku": "158924557",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XL",
+            "sku": "158924567",
+            "color": "Jet Set Blue",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XL",
+                    "sku": "158924567",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XS",
+            "sku": "158924572",
+            "color": "Jet Set Blue",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XS",
+                    "sku": "158924572",
+                    "price": "58.00",
+                    "availability": "https://schema.org/OutOfStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XXL",
+            "sku": "158924577",
+            "color": "Jet Set Blue",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=XXL",
+                    "sku": "158924577",
+                    "price": "58.00",
+                    "availability": "https://schema.org/OutOfStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Jet Set Blue - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=S",
+            "sku": "158924561",
+            "color": "Jet Set Blue",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_017583_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=17583&sz=S",
+                    "sku": "158924561",
+                    "price": "58.00",
+                    "availability": "https://schema.org/OutOfStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XL",
+            "sku": "158924597",
+            "color": "Starch Blue",
+            "size": "XL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XL",
+                    "sku": "158924597",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - M",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - M. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=M",
+            "sku": "158924587",
+            "color": "Starch Blue",
+            "size": "M",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=M",
+                    "sku": "158924587",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XS",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XS. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XS",
+            "sku": "158924604",
+            "color": "Starch Blue",
+            "size": "XS",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XS",
+                    "sku": "158924604",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XXL",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - XXL. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XXL",
+            "sku": "158924610",
+            "color": "Starch Blue",
+            "size": "XXL",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=XXL",
+                    "sku": "158924610",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - S",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - S. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=S",
+            "sku": "158924592",
+            "color": "Starch Blue",
+            "size": "S",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=S",
+                    "sku": "158924592",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - L",
+            "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+            "description": "Mile Maker Mesh Short-Sleeve T-Shirt - Starch Blue - L. Take flight. This featherlight, breezy mesh running top is made with lyocell fibres that add natural softness to your long-distance run sessions.",
+            "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=L",
+            "sku": "158924582",
+            "color": "Starch Blue",
+            "size": "L",
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "priceCurrency": "USD",
+                    "seller": {
+                        "@type": "Organization",
+                        "name": "lululemon"
+                    },
+                    "image": "https://images.lululemon.com/is/image/lululemon/LM3GSOS_068839_1",
+                    "url": "https://shop.lululemon.com/p/men-ss-tops/Mile-Maker-Mesh-Short-Sleeve-T-Shirt/_/prod20004699?color=68839&sz=L",
+                    "sku": "158924582",
+                    "price": "58.00",
+                    "availability": "https://schema.org/InStock",
+                    "availableDeliveryMethod": [
+                        "https://schema.org/ParcelService"
+                    ],
+                    "shippingDetails": {
+                        "@type": "OfferShippingDetails",
+                        "shippingDestination": {
+                            "@type": "DefinedRegion",
+                            "addressCountry": "US"
+                        },
+                        "deliveryTime": {
+                            "@type": "ShippingDeliveryTime",
+                            "handlingTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 1,
+                                "maxValue": 2,
+                                "unitCode": "DAY"
+                            },
+                            "transitTime": {
+                                "@type": "QuantitativeValue",
+                                "minValue": 2,
+                                "maxValue": 6,
+                                "unitCode": "DAY"
+                            }
+                        },
+                        "shippingRate": {
+                            "@type": "MonetaryAmount",
+                            "value": "0.00",
+                            "currency": "USD"
+                        }
+                    },
+                    "hasMerchantReturnPolicy": {
+                        "@type": "MerchantReturnPolicy",
+                        "applicableCountry": "US",
+                        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                        "merchantReturnDays": 30,
+                        "returnMethod": [
+                            "https://schema.org/ReturnByMail",
+                            "https://schema.org/ReturnInStore"
+                        ],
+                        "returnFees": "https://schema.org/FreeReturn"
+                    }
+                }
+            ]
+        }
+    ]
+}
