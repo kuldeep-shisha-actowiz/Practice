@@ -1,0 +1,5343 @@
+{
+	"appReducer": {
+		"pageType": null,
+		"statusCode": 200,
+		"storeId": "",
+		"configFlagsFetched": true,
+		"run": 100,
+		"client": {
+			"device": "WEB"
+		},
+		"breadCrumb": null,
+		"isSliderOpen": false,
+		"showBreadcrumb": false,
+		"pathname": "/nike-court-vision-low-men-s-shoes/p/25271378",
+		"region": {
+			"regionHeader": "GJ",
+			"regionHeaderCountry": "IN"
+		}
+	},
+	"auth": {
+		"fetching": false,
+		"dataFetched": false,
+		"isFetchingError": false,
+		"fetchedOverNetwork": false,
+		"user": {
+			"cartItemsCount": 0,
+			"email": "",
+			"firstName": "",
+			"formKey": "",
+			"groupId": "",
+			"id": "",
+			"isLoyal": false,
+			"isPro": false,
+			"lastName": "",
+			"rewardPoints": 0,
+			"userName": "",
+			"wishlist": [],
+			"priveBand": "null"
+		}
+	},
+	"dataLayer": {
+		"pageName": "Nykaa : product page: nike-court-vision-low-men-s-shoes/p/25271378",
+		"pageType": "Product Detail Page",
+		"product": {
+			"categoryLevels": {
+				"0": "7287",
+				"1": "22666",
+				"2": "14287"
+			},
+			"id": "25271378",
+			"image": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+			"inStock": true,
+			"stockStatus": "instock",
+			"mrp": 6495,
+			"name": "Nike Court Vision Low Men's Shoes (UK 9)",
+			"offerPrice": 5521,
+			"sku": "NIKEX00051628",
+			"brandName": "Nike",
+			"packSize": "UK 9",
+			"rating": 4.7,
+			"productType": "configurable",
+			"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+			"categoryLevel": {
+				"l1": {
+					"id": "27491",
+					"name": "Footwear"
+				},
+				"l2": {
+					"id": "83027",
+					"name": null
+				},
+				"l3": {
+					"id": "83497",
+					"name": null
+				}
+			},
+			"discount": 15,
+			"reviewCount": "0",
+			"ratingCount": 15,
+			"variantType": "weight_configure",
+			"tags": [],
+			"variantCount": 8,
+			"selectedVariantName": "UK 9",
+			"cohortSaleTemplate": null,
+			"childId": "25270934"
+		},
+		"hasOffer": "no",
+		"analyticsSdkData": {
+			"pdpProductId": "25271378",
+			"pdpProductName": "Nike Court Vision Low Men's Shoes"
+		}
+	},
+	"productPage": {
+		"loading": false,
+		"isFetchingError": false,
+		"banners": [
+			{
+				"inventoryName": "NM-App-Global-Banner-PDP-Strip",
+				"inventoryId": "62dfbcda7511a209e186444b",
+				"inventoryPageType": "men-pd-page",
+				"inventoryPageSection": "Install-Offer-Strip",
+				"inventoryPageData": "all",
+				"visibility": "Global",
+				"position": 1,
+				"personalization": "none",
+				"pagePrefix": "",
+				"widgetData": {
+					"id": "6874a3b55c85591d33472e1b",
+					"widgetType": "CAROUSEL_V2",
+					"positionInParent": 1,
+					"inventoryName": "NM-App-Global-Banner-PDP-Strip",
+					"params": {
+						"buttonData": {
+							"buttonTitle": "",
+							"buttonAppLinkType": "",
+							"buttonAppLinkData": "",
+							"buttonWebActionType": "url_redirection",
+							"buttonWebActionUrl": "",
+							"buttonTrackingData": {
+								"namespace0": "men-pd-page",
+								"namespace1": "Install-Offer-Strip",
+								"lang": "en",
+								"position1": 1,
+								"pageData1": "",
+								"pageData2": "all",
+								"wtype": "CAROUSEL_V2",
+								"wtype_version": "v2",
+								"brand_ids": [
+									"-1"
+								],
+								"dn_tracking_metadata": "{\"dn_app_source\":\"golang\",\"retina_tracking_title\":\"Install-Offer-Strip\"}"
+							},
+							"buttonTrackingUrl": "?intcmp=men:other:men-pd-page:all:Install-Offer-Strip:CAROUSEL_V2:1::-1:button_widget"
+						},
+						"title": "",
+						"delayTimer": 7000,
+						"autoScroll": "True",
+						"bkgColor": "",
+						"appBkgType": "none",
+						"appBkgColor": "",
+						"appBkgColorEnd": "",
+						"appBkgColorDegree": "",
+						"childBkgColor": "",
+						"carouselType": "edgetoedge",
+						"titleAlign": "center",
+						"description": "",
+						"positionIndicatorFlag": "on",
+						"widgetBackground": {
+							"header": {
+								"image": "",
+								"imageAdType": "none",
+								"aspectRatio": null,
+								"appLinkType": "non_clickable",
+								"appLinkData": "",
+								"webActionType": "none",
+								"webActionUrl": "",
+								"imageLabel": ""
+							},
+							"main": {
+								"image": "",
+								"imageAdType": "none",
+								"aspectRatio": null,
+								"imageLabel": ""
+							},
+							"footer": {
+								"image": "",
+								"imageAdType": "none",
+								"aspectRatio": null,
+								"appLinkType": "non_clickable",
+								"appLinkData": "",
+								"webActionType": "none",
+								"webActionUrl": "",
+								"imageLabel": ""
+							}
+						},
+						"styles": [
+							{
+								"name": "swButton",
+								"style": {
+									"bkg": {
+										"alpha": 0,
+										"color": "#ffffff"
+									},
+									"buttonText": {
+										"alignment": "center",
+										"color": "#E80071",
+										"font": {
+											"app": {
+												"fontSize": 14,
+												"fontWeight": 600,
+												"lineHeight": 20
+											},
+											"desktop": {
+												"fontSize": "14px",
+												"fontWeight": 600,
+												"lineHeight": "20px"
+											},
+											"web": {
+												"fontSize": "14px",
+												"fontWeight": 600,
+												"lineHeight": "20px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type142",
+											"desktop": "type142",
+											"web": "type142"
+										},
+										"fontWeight": 600,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 20,
+											"desktop": "20px",
+											"web": "20px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 14,
+											"desktop": "14px",
+											"web": "14px"
+										}
+									},
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 8,
+											"desktop": "0.5rem",
+											"web": "0.5rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 8,
+											"desktop": "0.5rem",
+											"web": "0.5rem"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "banner",
+								"style": {
+									"border": {
+										"color": "#0000FF",
+										"width": {
+											"app": 0,
+											"desktop": "0px",
+											"web": "0px"
+										}
+									},
+									"cornerRadius": {
+										"app": 0,
+										"desktop": "0",
+										"web": "0"
+									},
+									"divider": {
+										"divider_color": "#16001325",
+										"divider_visibility": "off",
+										"margin": {
+											"bottom": {
+												"app": 0,
+												"desktop": "0rem",
+												"web": "0rem"
+											},
+											"left": {
+												"app": 0,
+												"desktop": "0rem",
+												"web": "0rem"
+											},
+											"right": {
+												"app": 0,
+												"desktop": "0rem",
+												"web": "0rem"
+											},
+											"top": {
+												"app": 0,
+												"desktop": "0rem",
+												"web": "0rem"
+											}
+										}
+									},
+									"individualCornerRadius": {
+										"bottomLeft": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"bottomRight": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"topLeft": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"topRight": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										}
+									},
+									"isRounded": false,
+									"visible": false
+								}
+							},
+							{
+								"name": "bannerCallout",
+								"style": {
+									"bkg": {
+										"alpha": 0.64,
+										"colorEnd": "#111314",
+										"colorStart": "#111314",
+										"degree": 0,
+										"type": "color"
+									},
+									"interItem1": {
+										"app": 8,
+										"desktop": "0.5rem",
+										"web": "0.5rem"
+									},
+									"interItem2": {
+										"app": 8,
+										"desktop": "0.5rem",
+										"web": "0.5rem"
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "center",
+										"color": "#ffffff",
+										"font": {
+											"app": {
+												"fontSize": 12,
+												"fontWeight": 400,
+												"lineHeight": 16
+											},
+											"desktop": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											},
+											"web": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type120",
+											"desktop": "type120",
+											"web": "type120"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 16,
+											"desktop": "16px",
+											"web": "16px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										}
+									},
+									"textCallout2": {
+										"alignment": "center",
+										"color": "#ffffff",
+										"font": {
+											"app": {
+												"fontSize": 12,
+												"fontWeight": 400,
+												"lineHeight": 16
+											},
+											"desktop": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											},
+											"web": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type120",
+											"desktop": "type120",
+											"web": "type120"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 16,
+											"desktop": "16px",
+											"web": "16px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										}
+									},
+									"textCallout3": {
+										"alignment": "center",
+										"color": "#ffffff",
+										"font": {
+											"app": {
+												"fontSize": 12,
+												"fontWeight": 400,
+												"lineHeight": 16
+											},
+											"desktop": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											},
+											"web": {
+												"fontSize": "12px",
+												"fontWeight": 400,
+												"lineHeight": "16px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type120",
+											"desktop": "type120",
+											"web": "type120"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 16,
+											"desktop": "16px",
+											"web": "16px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "bannerTag",
+								"style": {
+									"bkg": {
+										"alpha": 1,
+										"colorEnd": "",
+										"colorStart": "#ffffff",
+										"degree": 0,
+										"type": "color"
+									},
+									"border": {
+										"alpha": 1,
+										"color": "#ffffff",
+										"width": {
+											"app": 0,
+											"desktop": "0px",
+											"web": "0px"
+										}
+									},
+									"cornerRadius": {
+										"app": 0,
+										"desktop": "0",
+										"web": "0"
+									},
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"maxLines": {
+										"app": 1,
+										"desktop": 1,
+										"web": 1
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"tagPosition": "left",
+									"text": {
+										"color": "#006DFF",
+										"font": {
+											"app": {
+												"fontSize": 10,
+												"fontWeight": 600,
+												"lineHeight": 12
+											},
+											"desktop": {
+												"fontSize": "10px",
+												"fontWeight": 600,
+												"lineHeight": "12px"
+											},
+											"web": {
+												"fontSize": "10px",
+												"fontWeight": 600,
+												"lineHeight": "12px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type102",
+											"desktop": "type102",
+											"web": "type102"
+										},
+										"fontWeight": 600,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 10,
+											"desktop": "10px",
+											"web": "10px"
+										}
+									},
+									"textTimer": {
+										"color": "#006DFF",
+										"font": {
+											"app": {
+												"fontSize": 10,
+												"fontWeight": 600,
+												"lineHeight": 12
+											},
+											"desktop": {
+												"fontSize": "10px",
+												"fontWeight": 600,
+												"lineHeight": "12px"
+											},
+											"web": {
+												"fontSize": "10px",
+												"fontWeight": 600,
+												"lineHeight": "12px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type102",
+											"desktop": "type102",
+											"web": "type102"
+										},
+										"fontWeight": 600,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 10,
+											"desktop": "10px",
+											"web": "10px"
+										}
+									},
+									"timerAlignment": "left",
+									"visible": false
+								}
+							},
+							{
+								"name": "bannerLogo",
+								"style": {
+									"alignment": "left",
+									"bkg": {
+										"alpha": 0,
+										"color": "#ffffff",
+										"colorEnd": "#aaaaaa",
+										"colorStart": "#ffffff",
+										"degree": 0,
+										"type": "color"
+									},
+									"borderColor": "#00000000",
+									"cornerRadius": {
+										"app": 0,
+										"desktop": "0",
+										"web": "0"
+									},
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"visible": false,
+									"width": "33"
+								}
+							},
+							{
+								"name": "bannerTitle",
+								"style": {
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "left",
+										"color": "#92001325",
+										"font": {
+											"app": {
+												"fontSize": 16,
+												"fontWeight": 500,
+												"lineHeight": 24
+											},
+											"desktop": {
+												"fontSize": "16px",
+												"fontWeight": 500,
+												"lineHeight": "24px"
+											},
+											"web": {
+												"fontSize": "16px",
+												"fontWeight": 500,
+												"lineHeight": "24px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type161",
+											"desktop": "type161",
+											"web": "type161"
+										},
+										"fontWeight": 500,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 24,
+											"desktop": "24px",
+											"web": "24px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 16,
+											"desktop": "16px",
+											"web": "16px"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "swTitle",
+								"style": {
+									"padding": {
+										"bottom": {
+											"app": 2,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 4,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "center",
+										"color": "#FFFFFF",
+										"font": {
+											"app": {
+												"fontSize": 20,
+												"fontWeight": 600,
+												"lineHeight": 24
+											},
+											"desktop": {
+												"fontSize": "20px",
+												"fontWeight": 600,
+												"lineHeight": "24px"
+											},
+											"web": {
+												"fontSize": "20px",
+												"fontWeight": 600,
+												"lineHeight": "24px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type202",
+											"desktop": "type202",
+											"web": "type202"
+										},
+										"fontWeight": 600,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 24,
+											"desktop": "24px",
+											"web": "24px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 20,
+											"desktop": "20px",
+											"web": "20px"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "bannerDescription",
+								"style": {
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "left",
+										"color": "#92001325",
+										"font": {
+											"app": {
+												"fontSize": 14,
+												"fontWeight": 400,
+												"lineHeight": 20
+											},
+											"desktop": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											},
+											"web": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type140",
+											"desktop": "type140",
+											"web": "type140"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 20,
+											"desktop": "20px",
+											"web": "20px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 14,
+											"desktop": "14px",
+											"web": "14px"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "swDescription",
+								"style": {
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "left",
+										"color": "#92001325",
+										"font": {
+											"app": {
+												"fontSize": 14,
+												"fontWeight": 400,
+												"lineHeight": 20
+											},
+											"desktop": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											},
+											"web": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type140",
+											"desktop": "type140",
+											"web": "type140"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 20,
+											"desktop": "20px",
+											"web": "20px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 14,
+											"desktop": "14px",
+											"web": "14px"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "bannerTextArea",
+								"style": {
+									"bkg": {
+										"alpha": 0,
+										"colorEnd": "",
+										"colorStart": "#ffffff",
+										"degree": 0,
+										"type": "color"
+									},
+									"individualBorders": {
+										"alpha": 0,
+										"bottom": {
+											"alpha": 0,
+											"color": "#FFFFFF",
+											"width": {
+												"app": 0,
+												"desktop": "0px",
+												"web": "0px"
+											}
+										},
+										"color": "#FFFFFF",
+										"left": {
+											"alpha": 0,
+											"color": "#FFFFFF",
+											"width": {
+												"app": 0,
+												"desktop": "0px",
+												"web": "0px"
+											}
+										},
+										"right": {
+											"alpha": 0,
+											"color": "#FFFFFF",
+											"width": {
+												"app": 0,
+												"desktop": "0px",
+												"web": "0px"
+											}
+										},
+										"top": {
+											"alpha": 0,
+											"color": "#FFFFFF",
+											"width": {
+												"app": 0,
+												"desktop": "0px",
+												"web": "0px"
+											}
+										}
+									},
+									"individualCornerRadius": {
+										"bottomLeft": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"bottomRight": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"topLeft": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										},
+										"topRight": {
+											"app": 0,
+											"desktop": "0",
+											"web": "0"
+										}
+									},
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"visible": false
+								}
+							},
+							{
+								"name": "footerButton",
+								"style": {
+									"alignment": "default",
+									"borderColor": "#C0C0C0",
+									"cornerRadius": {
+										"app": 8,
+										"desktop": "0",
+										"web": "0"
+									},
+									"padding": {
+										"bottom": {
+											"app": 4,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 8,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 8,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 4,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"rightArrowColor": "#00FF00",
+									"text": {
+										"alignment": "left",
+										"color": "#00FF00",
+										"font": {
+											"app": {
+												"fontSize": 14,
+												"fontWeight": 400,
+												"lineHeight": 20
+											},
+											"desktop": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											},
+											"web": {
+												"fontSize": "14px",
+												"fontWeight": 400,
+												"lineHeight": "20px"
+											}
+										},
+										"fontFamily": "Graphik",
+										"fontTokens": {
+											"app": "type140",
+											"desktop": "type140",
+											"web": "type140"
+										},
+										"fontWeight": 400,
+										"letterSpacing": {
+											"app": 0.5,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"lineHeight": {
+											"app": 20,
+											"desktop": "20px",
+											"web": "20px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 2,
+											"desktop": 2,
+											"web": 2
+										},
+										"size": {
+											"app": 14,
+											"desktop": "14px",
+											"web": "14px"
+										}
+									},
+									"visible": false,
+									"width": "50"
+								}
+							},
+							{
+								"name": "clposition",
+								"style": {
+									"bkg": {
+										"alpha": 1,
+										"colorEnd": "#64001325",
+										"colorStart": "#E0E3E6",
+										"degree": 0,
+										"type": "color"
+									},
+									"edgeToEdgeIndicator": {
+										"size": {
+											"height": {
+												"app": 2,
+												"desktop": "0.25rem",
+												"web": "0.25rem"
+											},
+											"width": {
+												"app": 24,
+												"desktop": "1.5rem",
+												"web": "1.5rem"
+											}
+										},
+										"type": "bar"
+									},
+									"indicator": {
+										"size": {
+											"height": {
+												"app": 2,
+												"desktop": "0.25rem",
+												"web": "0.25rem"
+											},
+											"width": {
+												"app": 24,
+												"desktop": "1.5rem",
+												"web": "1.5rem"
+											}
+										},
+										"text": {
+											"alignment": "right",
+											"color": "#64000F1D",
+											"font": {
+												"app": {
+													"fontSize": 12,
+													"fontWeight": 500,
+													"lineHeight": 16
+												},
+												"desktop": {
+													"fontSize": "12px",
+													"fontWeight": 500,
+													"lineHeight": "16px"
+												},
+												"web": {
+													"fontSize": "12px",
+													"fontWeight": 500,
+													"lineHeight": "16px"
+												}
+											},
+											"fontFamily": "Inter",
+											"fontTokens": {
+												"app": "type121",
+												"desktop": "type121",
+												"web": "type121"
+											},
+											"fontWeight": 500,
+											"letterSpacing": {
+												"app": 0.5,
+												"desktop": "0px",
+												"web": "0px"
+											},
+											"lineHeight": {
+												"app": 16,
+												"desktop": "16px",
+												"web": "16px"
+											},
+											"lineSpacing": {
+												"app": 0,
+												"desktop": "0rem",
+												"web": "0rem"
+											},
+											"maxLines": {
+												"app": 1,
+												"desktop": 1,
+												"web": 1
+											},
+											"size": {
+												"app": 12,
+												"desktop": "12px",
+												"web": "12px"
+											}
+										},
+										"type": "bar"
+									},
+									"indicatorBkg": {
+										"baseColour": "#000000",
+										"highlightColour": "#828282"
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"text": {
+										"alignment": "right",
+										"color": "#64000F1D",
+										"font": {
+											"app": {
+												"fontSize": 12,
+												"fontWeight": 500,
+												"lineHeight": 16
+											},
+											"desktop": {
+												"fontSize": "12px",
+												"fontWeight": 500,
+												"lineHeight": "16px"
+											},
+											"web": {
+												"fontSize": "12px",
+												"fontWeight": 500,
+												"lineHeight": "16px"
+											}
+										},
+										"fontFamily": "Inter",
+										"fontTokens": {
+											"app": "type121",
+											"desktop": "type121",
+											"web": "type121"
+										},
+										"fontWeight": 500,
+										"letterSpacing": {
+											"app": 0.5,
+											"desktop": "0px",
+											"web": "0px"
+										},
+										"lineHeight": {
+											"app": 16,
+											"desktop": "16px",
+											"web": "16px"
+										},
+										"lineSpacing": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"maxLines": {
+											"app": 1,
+											"desktop": 1,
+											"web": 1
+										},
+										"size": {
+											"app": 12,
+											"desktop": "12px",
+											"web": "12px"
+										}
+									},
+									"visible": true
+								}
+							},
+							{
+								"name": "swSpacing",
+								"style": {
+									"cornerRadius": {
+										"app": 0,
+										"desktop": "0",
+										"web": "0"
+									},
+									"interItem": {
+										"app": 0,
+										"desktop": "0.5rem",
+										"web": "0.5rem"
+									},
+									"margin": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"top": {
+											"app": 2,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"padding": {
+										"bottom": {
+											"app": 0,
+											"desktop": "0rem",
+											"web": "0rem"
+										},
+										"left": {
+											"app": 0,
+											"desktop": "1.25rem",
+											"web": "1.25rem"
+										},
+										"right": {
+											"app": 0,
+											"desktop": "1.25rem",
+											"web": "1.25rem"
+										},
+										"top": {
+											"app": 4,
+											"desktop": "0rem",
+											"web": "0rem"
+										}
+									},
+									"visible": true
+								}
+							},
+							{
+								"name": "bkgImage",
+								"style": {
+									"visible": false
+								}
+							}
+						],
+						"isDesktop": true
+					},
+					"children": [],
+					"inheritParams": {
+						"textAreaOpacity": "",
+						"textPosition": "below_image"
+					},
+					"trackingData": {
+						"namespace0": "men-pd-page",
+						"namespace1": "Install-Offer-Strip",
+						"lang": "en",
+						"position1": 1,
+						"pageData1": "",
+						"pageData2": "all",
+						"wtype": "CAROUSEL_V2",
+						"wtype_version": "v2",
+						"brand_ids": [
+							"-1"
+						],
+						"dn_tracking_metadata": "{\"dn_app_source\":\"golang\",\"retina_tracking_title\":\"Install-Offer-Strip\"}"
+					},
+					"isDesktop": true,
+					"store": "men",
+					"pagePrefix": "",
+					"previewMode": false,
+					"devModeData": "{\"dn_widget_id\":\"6874a3b55c85591d33472e1b\",\"dn_inventory_id\":\"62dfbcda7511a209e186444b\",\"dn_inventory_name\":\"NM-App-Global-Banner-PDP-Strip\",\"dn_page_type\":\"men-pd-page\",\"dn_page_section\":\"Install-Offer-Strip\",\"dn_page_data\":\"all\",\"dn_widget_type\":\"CAROUSEL_V2\"}"
+				}
+			}
+		],
+		"product": {
+			"brandName": "Nike",
+			"brandAuth": {
+				"text": "100% Authentic, directly purchased from Nike.",
+				"icon": "https://images-static.naikaa.com/media/wysiwyg/2023/authentic-badge-man.png",
+				"certificate": null
+			},
+			"buttonText": "ADD TO BAG",
+			"newButtonText": "Add to Bag",
+			"canSubscribe": false,
+			"categoryLevels": {
+				"0": "7287",
+				"1": "22666",
+				"2": "14287"
+			},
+			"description": "<p><b>Description : </b>In love with the old-school style of '80s basketball? Meet the Court Vision. It combines synthetic leather with a rubber cupsole, bringing you all-day comfort inspired by some of the most iconic silhouettes of the past.</p><p><b>Care Instruction : </b>Wipe With Dry Cloth</p><p><b>Color : </b>White</p><p><b>Toe Shape : </b>Round Toe</p><p><b>Occasion : </b>Sports</p><p><b>Pack Contains : </b>1 Pair of Shoes</p><p><b>Sole Material : </b>EVA</p><p><b>Sports Type : </b>Walking</p><p><b>Insole : </b>Comfort</p><p><b>Ankle Height : </b>Low Top</p><p><b>Cushioning : </b>Medium</p><br><br><p>Explore the entire range of <a href=\"https://www.nykaaman.com/fashion-lifestyle/footwear/c/14287?ptype=lst&id=14287\" target=_blank> <u>Footwear</u></font></a> available on Nykaa. Shop more <a href=\"https://www.nykaaman.com/brands/nike/c/710?ptype=brand&id=710\" target=_blank> <u>Nike</u></font></a> products here.You can browse through the complete world of <a href=\"https://www.nykaaman.com/brands/nike/c/710?ptype=brand&id=710&category_filter=14287&sort=popularity\" target=_blank> <u> Nike Footwear </u></font></a>.",
+			"discount": 15,
+			"id": "25271378",
+			"isLux": 0,
+			"isKitCombo": false,
+			"inStock": true,
+			"metaDescription": "Buy Nike Court Vision Low Men's Shoes online at best prices on NykaaMan to avail express shipping with great offers.",
+			"metaKeywords": "Nike Court Vision Low Men's Shoes,Footwear,Sports Shoes,Walking Shoes",
+			"metaTitle": "Buy Nike Court Vision Low Men's Shoes (UK 11) Online",
+			"mrp": 6495,
+			"name": "Nike Court Vision Low Men's Shoes",
+			"multiMrp": {
+				"enabled": false
+			},
+			"offerPrice": 5521,
+			"offers": [],
+			"variants": [
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270940",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 6 (EU 40))",
+					"offerPrice": 5521,
+					"packSize": "UK 6 (EU 40)",
+					"quantity": 369,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051634",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 6 (EU 40)",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "40",
+							"inch": "40"
+						},
+						"foot length": {
+							"cm": "24.5",
+							"inch": "9.6"
+						},
+						"us size": {
+							"cm": "7",
+							"inch": "7"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 6 (EU 40))",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 6 (EU 40))",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270935",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 5.5)",
+					"offerPrice": 5521,
+					"packSize": "UK 5.5",
+					"quantity": 21,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051629",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 5.5",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "38.5",
+							"inch": "38.5"
+						},
+						"foot length": {
+							"cm": "23.7",
+							"inch": "9.3"
+						},
+						"us size": {
+							"cm": "6",
+							"inch": "6"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 5.5)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 5.5)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270936",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 7)",
+					"offerPrice": 5521,
+					"packSize": "UK 7",
+					"quantity": 834,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051630",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 7",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "41",
+							"inch": "41"
+						},
+						"foot length": {
+							"cm": "25.4",
+							"inch": "10.0"
+						},
+						"us size": {
+							"cm": "8",
+							"inch": "8"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 7)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 7)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270937",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 8)",
+					"offerPrice": 5521,
+					"packSize": "UK 8",
+					"quantity": 1067,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051631",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 8",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "42.5",
+							"inch": "42.5"
+						},
+						"foot length": {
+							"cm": "26.2",
+							"inch": "10.3"
+						},
+						"us size": {
+							"cm": "9",
+							"inch": "9"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 8)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 8)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270934",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 9)",
+					"offerPrice": 5521,
+					"packSize": "UK 9",
+					"quantity": 893,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051628",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 9",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "44",
+							"inch": "44"
+						},
+						"foot length": {
+							"cm": "27.1",
+							"inch": "10.7"
+						},
+						"us size": {
+							"cm": "10",
+							"inch": "10"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 9)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 9)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270938",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 10)",
+					"offerPrice": 5521,
+					"packSize": "UK 10",
+					"quantity": 508,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051632",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 10",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "45",
+							"inch": "45"
+						},
+						"foot length": {
+							"cm": "27.9",
+							"inch": "11.0"
+						},
+						"us size": {
+							"cm": "11",
+							"inch": "11"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 10)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 10)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270933",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 11)",
+					"offerPrice": 5521,
+					"packSize": "UK 11",
+					"quantity": 279,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051627",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 11",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "46",
+							"inch": "46"
+						},
+						"foot length": {
+							"cm": "28.8",
+							"inch": "11.3"
+						},
+						"us size": {
+							"cm": "12",
+							"inch": "12"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 11)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 11)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				},
+				{
+					"brandName": "Nike",
+					"buttonText": "ADD TO BAG",
+					"newButtonText": "Add to Bag",
+					"childId": "25270939",
+					"discount": 15,
+					"featured": false,
+					"isBestSeller": false,
+					"inStock": true,
+					"media": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image"
+						}
+					],
+					"carousel": [
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+							"mediaType": "image",
+							"id": "0-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+							"mediaType": "image",
+							"id": "1-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+							"mediaType": "image",
+							"id": "2-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+							"mediaType": "image",
+							"id": "3-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+							"mediaType": "image",
+							"id": "4-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+							"mediaType": "image",
+							"id": "5-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+							"mediaType": "image",
+							"id": "6-main_image"
+						},
+						{
+							"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+							"mediaType": "image",
+							"id": "7-main_image"
+						}
+					],
+					"relatedVideo": [],
+					"mrp": 6495,
+					"name": "Nike Court Vision Low Men's Shoes (UK 12)",
+					"offerPrice": 5521,
+					"packSize": "UK 12",
+					"quantity": 12,
+					"multiMrp": {
+						"enabled": false
+					},
+					"sku": "NIKEX00051633",
+					"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+					"productType": "simple",
+					"variantName": "UK 12",
+					"expiry": null,
+					"returnAvailable": true,
+					"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+					"onlyWishlistButton": 0,
+					"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+					"sizeData": {
+						"insole (cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"eu size": {
+							"cm": "47.5",
+							"inch": "47.5"
+						},
+						"foot length": {
+							"cm": "29.6",
+							"inch": "11.7"
+						},
+						"us size": {
+							"cm": "13",
+							"inch": "13"
+						},
+						"ankle height (+/-0.5cm)": {
+							"cm": "",
+							"inch": ""
+						},
+						"button_text": "size chart",
+						"button_text_new": "Size Chart"
+					},
+					"title": "Nike Court Vision Low Men's Shoes (UK 12)",
+					"categoryLevels": {
+						"0": "7287",
+						"1": "22666",
+						"2": "14287"
+					},
+					"manufacture": [
+						{
+							"originOfCountryName": "India",
+							"manufacturerName": "Nike",
+							"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+							"packerName": null,
+							"packerAddress": null,
+							"importerName": null,
+							"importerAddress": null,
+							"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+							"manufacturerAddressLabel": "Address: ",
+							"packerNameLabel": "Packer: ",
+							"packerAddressLabel": "Address: ",
+							"importerNameLabel": "Importer: ",
+							"importerAddressLabel": "Address: ",
+							"countryOfOriginLabel": "Country of Origin: "
+						}
+					],
+					"primaryCategories": {
+						"l1": {
+							"id": "27491",
+							"name": "Footwear"
+						},
+						"l2": {
+							"id": "83027",
+							"name": null
+						},
+						"l3": {
+							"id": "83497",
+							"name": null
+						}
+					},
+					"isLux": 0,
+					"prData": null,
+					"productTitle": "Court Vision Low Men's Shoes (UK 12)",
+					"cohortSaleTemplate": null,
+					"earlyAccessData": {},
+					"secondaryTag": "",
+					"secondaryTagV2": ""
+				}
+			],
+			"parentId": "25271378",
+			"parentMedia": [
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+					"mediaType": "image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+					"mediaType": "image"
+				}
+			],
+			"parentCarousel": [
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_1.jpg",
+					"mediaType": "image",
+					"id": "0-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_2.jpg",
+					"mediaType": "image",
+					"id": "1-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_3.jpg",
+					"mediaType": "image",
+					"id": "2-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_4.jpg",
+					"mediaType": "image",
+					"id": "3-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_5.jpg",
+					"mediaType": "image",
+					"id": "4-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_6.jpg",
+					"mediaType": "image",
+					"id": "5-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_7.jpg",
+					"mediaType": "image",
+					"id": "6-main_image"
+				},
+				{
+					"url": "https://images-static.nykaa.com/media/catalog/product/3/e/3e4c4e9IM0459-104_8.jpg",
+					"mediaType": "image",
+					"id": "7-main_image"
+				}
+			],
+			"parentRelatedVideo": [],
+			"primaryCategories": {
+				"l1": {
+					"id": "27491",
+					"name": "Footwear"
+				},
+				"l2": {
+					"id": "83027",
+					"name": null
+				},
+				"l3": {
+					"id": "83497",
+					"name": null
+				}
+			},
+			"productType": "configurable",
+			"quantity": 893,
+			"rating": 4.7,
+			"ratingCount": 15,
+			"returnMessage": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+			"reviewCount": "0",
+			"sku": "NIKEX00052072",
+			"slug": "nike-court-vision-low-men-s-shoes/p/25271378",
+			"variantType": "weight_configure",
+			"ingredients": null,
+			"howToUse": null,
+			"originOfCountryName": "India",
+			"countryOfManufacture": null,
+			"manufacturerName": "Nike",
+			"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+			"manufacture": [
+				{
+					"originOfCountryName": "India",
+					"manufacturerName": "Nike",
+					"manufacturerAddress": "Lotus Footwear Enterprises Limited,Plot No 3B Sipcot Industrial Park,Mangal Village Mathur Post,Thiruvannamalai,631701,India",
+					"packerName": "",
+					"packerAddress": "",
+					"importerName": "",
+					"importerAddress": "",
+					"manufacturerNameLabel": "Manufacturer/Importer/Packer: ",
+					"manufacturerAddressLabel": "Address: ",
+					"packerNameLabel": "Packer: ",
+					"packerAddressLabel": "Address: ",
+					"importerNameLabel": "Importer: ",
+					"importerAddressLabel": "Address: ",
+					"countryOfOriginLabel": "Country of Origin: "
+				}
+			],
+			"expiry": null,
+			"exploreMore": {
+				"filters": {
+					"filter_value": "4000-*",
+					"id": "14287",
+					"type": "price",
+					"message": "See more Footwear products in this price range",
+					"url": "/fashion-lifestyle/footwear/c/14287?ptype=lst&id=14287&price_range_filter=4000-*&sort=popularity"
+				},
+				"category": {
+					"id": "14287",
+					"message": "See more Footwear products",
+					"url": "/fashion-lifestyle/footwear/c/14287?ptype=lst&id=14287"
+				},
+				"brand": {
+					"id": "710",
+					"message": "See more products from Nike",
+					"url": "/brands/nike/c/710?ptype=brand&id=710"
+				},
+				"brand_plus_cat": {
+					"category_id": "14287",
+					"message": "See more Footwear products from Nike",
+					"url": "/brands/nike/c/710?ptype=brand&id=710&category_filter=14287&sort=popularity",
+					"brand_id": "710"
+				}
+			},
+			"showBestSeller": false,
+			"tags": [],
+			"returnAvailable": true,
+			"messageOnReturn": "This product is eligible for returns or replacement. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Kindly ensure the product is in its original condition with all tags attached.",
+			"onlyWishlistButton": 0,
+			"imageUrl": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+			"isBackorder": false,
+			"qnaCount": 0,
+			"reviewSplitUp": [
+				{
+					"count": "12",
+					"per": 80,
+					"id": 5
+				},
+				{
+					"count": "2",
+					"per": 13.333333333333334,
+					"id": 4
+				},
+				{
+					"count": "0",
+					"per": 0,
+					"id": 3
+				},
+				{
+					"count": "1",
+					"per": 6.666666666666667,
+					"id": 2
+				},
+				{
+					"count": "0",
+					"per": 0,
+					"id": 1
+				}
+			],
+			"sellerName": "Westbury Holdings Pvt Ltd_Pare",
+			"sizeData": {
+				"enabled": true,
+				"buttonText": "size chart",
+				"unitText": "Select a size and add to bag",
+				"units": [
+					{
+						"id": "cm",
+						"text": "cm"
+					},
+					{
+						"id": "inch",
+						"text": "in"
+					}
+				],
+				"columns": [
+					{
+						"id": "insole (cm)",
+						"text": "INSOLE (CM)"
+					},
+					{
+						"id": "eu size",
+						"text": "EU SIZE"
+					},
+					{
+						"id": "foot length",
+						"text": "FOOT LENGTH"
+					},
+					{
+						"id": "us size",
+						"text": "US SIZE"
+					},
+					{
+						"id": "ankle height (+/-0.5cm)",
+						"text": "ANKLE HEIGHT (+/-0.5CM)"
+					}
+				]
+			},
+			"latestReviews": [],
+			"title": "Nike Court Vision Low Men's Shoes",
+			"defaultPid": "25270934",
+			"tryItOn": 0,
+			"isSearchable": true,
+			"prData": null,
+			"brandsPart": [
+				{
+					"id": "710",
+					"name": "Nike"
+				}
+			],
+			"productTitle": "Court Vision Low Men's Shoes",
+			"cohortSaleTemplate": null,
+			"earlyAccessData": {},
+			"secondaryTag": "",
+			"secondaryTagV2": "",
+			"selectedVariantId": "25270934",
+			"selectedVariantName": "UK 9"
+		},
+		"activeTab": 0,
+		"remaining_inventories_ids": [],
+		"queryParamsObject": {
+			"page_type": "pd-page",
+			"page_section": "*",
+			"device": "desktop",
+			"dn_platform": "dweb",
+			"page_data": "25271378",
+			"api_version": ""
+		},
+		"isNotFound": false
+	},
+	"searchSuggestions": {
+		"productSuggestions": [],
+		"otherSuggestions": [],
+		"trendingSearches": [],
+		"searchAutoSuggestions": [],
+		"searchField": ""
+	},
+	"reviewImages": {
+		"images": [],
+		"imagesWithInfo": {
+			"imageUrl": [],
+			"review": []
+		},
+		"productId": null,
+		"totalImagesAvailable": 0,
+		"loading": false,
+		"isNotFound": false,
+		"isFetchingError": false,
+		"nextPageKey": "",
+		"hasLoaded": false,
+		"isServerError": false,
+		"stopFurtherCall": false
+	},
+	"remoteConfig": {
+		"switches": {
+			"dnSwitches": {
+				"isEmptyWidget": true,
+				"optimizedImageUrlEnabled": true,
+				"isShimmer": false,
+				"isDynamicTAI": true
+			},
+			"showOffersOnPdp": true,
+			"showRewardPoints": true,
+			"showViewSimilar": false,
+			"newRatingForm": true,
+			"showDeliveryOnPd": true,
+			"internationalMode": false,
+			"redirectionList": [
+				{
+					"name": "NewPDP",
+					"status": true,
+					"userPercentage": 100,
+					"cookieName": "NEW_PDP"
+				},
+				{
+					"name": "NewHome",
+					"status": true,
+					"userPercentage": 100,
+					"cookieName": "N_HOM"
+				}
+			],
+			"trackDeviceId": false,
+			"pdPageBanners": true,
+			"offerListingEnabled": false,
+			"appLinkEnabled": false,
+			"featuresEnabled": true,
+			"socialLinksEnabled": true,
+			"newsletterEnabled": true,
+			"helpCenterEnabled": true,
+			"mobileNumberMapping": true,
+			"showUserPortfolio": false,
+			"webOtpAutoRead": true,
+			"vpEnabled": false,
+			"experimentV2Enabled": true,
+			"analyticsV2Enabled": true,
+			"analyticsFetchEnabled": true,
+			"analyticsLoggingEnabled": true,
+			"analyticsBatchMigrationLogic": true,
+			"loadInterFont": true,
+			"dwebPdpCustomVideo": false,
+			"personalizationEnabled": false,
+			"fetchWishlistIds": false,
+			"suggestMobileMap": true,
+			"isPaginationEnabled": true,
+			"universalBanners": false,
+			"mySavedPayment": true,
+			"emailVerification": true,
+			"isWriteReviewElibilityEnabled": true,
+			"urlMapsEnabled": true,
+			"newRelicClientEnable": false,
+			"seoFooterCategoryEnable": true,
+			"isCbsEnabled": false,
+			"enableOmniture": false,
+			"zendeskChatEnabled": true,
+			"showUserPortfolioCTA": false,
+			"isMultiMrpEnabled": false,
+			"eligibleRedirectToSnsp": false,
+			"isSlugRedirectEnabled": true,
+			"isCouponDeltaEnabled": false,
+			"rewardPointRedemptionRestriction": false,
+			"cartFreeSampleNewDesignEnable": true,
+			"cartItemDiscount": true,
+			"cartViewOffersForItem": false,
+			"cartExclusionMessageForOffers": true,
+			"cartShowSavingStrip": true,
+			"cartDesignUpdate": false,
+			"cartAvoidShipping": false,
+			"cartEddWidget": false,
+			"cartMultiCouponEnabled": false,
+			"convenienceChargesEnabled": false,
+			"isNavParamsEnabled": true,
+			"secondaryTagEnabledPDP": true,
+			"secondaryTagEnabledPLP": true,
+			"isOfferApiV2Enabled": false,
+			"differentialPricingEnabled": true,
+			"isNewShoppingBag": false,
+			"authTrackingFixEnabled": true
+		},
+		"configs": {
+			"rootMargin": "0px",
+			"dnConfigs": {
+				"defaultEagerLoadInventories": 3,
+				"ellipsisCategoryFilters": 9,
+				"shimmerHeights": {
+					"hp": {
+						"dweb": "0px",
+						"mweb": "0px"
+					},
+					"sp": {
+						"dweb": "0px",
+						"mweb": "100px"
+					},
+					"plp": {
+						"dweb": "0px",
+						"mweb": "0px"
+					},
+					"pdp": {
+						"dweb": "0px",
+						"mweb": "0px"
+					},
+					"others": {
+						"dweb": "0px",
+						"mweb": "0px"
+					}
+				}
+			},
+			"whitelistedDomains": [
+				"www.nykaaman.com",
+				"api.nykaaman.com",
+				"adn-static2.nykaa.com",
+				"adn-static1.nykaa.com",
+				"prod-events.nykaa.com"
+			],
+			"customersAlsoBought": {
+				"status": false
+			},
+			"customersAlsoViewed": {
+				"status": false
+			},
+			"rewardPointsOnSignUp": 2000,
+			"upiOffer": {
+				"status": false,
+				"message": "Get upto ₹40 OFF on BHIM UPI Payment"
+			},
+			"priceReveal": {
+				"active": false,
+				"productEligibilityActive": false,
+				"data": {
+					"bucket": "BlueSummerBox2026",
+					"pinkBoxUrl": "/saleBox/?ptype=saleBox&saleId=blue-summer-sale",
+					"saleOfferTitle": "SALE OFFER",
+					"colors": {
+						"offerTitle": "#000000",
+						"offerPrice": "#000000",
+						"offerDiscount": "#000000",
+						"offerDescription": "#000000"
+					},
+					"primaryActionLabel": "Add to Blue Box",
+					"secondaryActionLabel": "Go To Blue Box",
+					"alreadyAddedToBoxInfo": "You added this product to your Blue Box",
+					"addedToBoxToastMessage": "Added to Blue Box",
+					"addedToBoxErrorMessage": "Couldn't Add to Blue Box, Try again"
+				}
+			},
+			"productEligibilityService": {
+				"active": false,
+				"eligility": {}
+			},
+			"trendingSearchesToShow": 5,
+			"maxSearchHistoryCount": 5,
+			"storeOptions": {
+				"status": false,
+				"backToBeautyText": "Nykaa Main Store",
+				"exploreMoreStores": "https://images-static.nykaa.com/media/explore_stores_v5.png",
+				"stores": []
+			},
+			"contentPolicy": {
+				"status": true,
+				"value": "img-src 'self' data: *.nykaa.com *.naikaa.com fsnecommerce.sc.omtrdc.net evbk.gamooga.com webevbk.gamooga.com www.google-analytics.com www.google.com www.google.co.in www.facebook.com stats.g.doubleclick.net cm.everesttech.net www.googletagmanager.com csm.hk.as.criteo.net www.youtube.com dpm.demdex.net cm.g.doubleclick.net  www.gstatic.com m.youtube.com cdn-jp.gsecondscreen.com *.nykaaman.com d286adtp3hdk00.cloudfront.net *.googlesyndication.com googleads.g.doubleclick.net;script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nykaa.com *.naikaa.com assets.adobedtm.com www.googletagmanager.com www.google-analytics.com *.criteo.net *.criteo.com sslwidget.criteo.com www.googleadservices.com static.criteo.net connect.facebook.net cdn-jp.gsecondscreen.com googleads.g.doubleclick.net apis.google.com *.netcoresmartech.com ae.gsecondscreen.com evbk.gamooga.com webevbk.gamooga.com *.speedcurve.com nykaa.verloop.io cdn-ops.verloop.io cdn.speedcurve.com *.nykaaman.com lux.speedcurve.com cdn.nykaaman.com https://11310639.fls.doubleclick.net/activityi googleads.g.doubleclick.net *.googlesyndication.com connect.facebook.net rec.smartlook.com *.clarity.ms traqkar.com cakecdn.com/jssdk/lib.js https://script.mfilterit.net/v3/v/client/web.nykaaman.cpv.js accounts.google.com https://cdn.mxpnl.com/libs/mixpanel-js-wrapper.js https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js www.gstatic.com https://www.google.com/recaptcha/api.js https://static.zdassets.com https://pod-29.zendesk.com http://static.clevertap.com/js/clevertap.min.js https://in1.clevertap-prod.com https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js https://bat.bing.com/bat.js https://bat.bing.com/p/action/343149829.js https://js-agent.newrelic.com https://bam.nr-data.net;frame-ancestors 'self' ;upgrade-insecure-requests;form-action 'self' ;object-src 'none' ;child-src 'self' ;frame-src 'self' nykaa.stage.verloop.io nykaa.verloop.io *.criteo.net *.criteo.com xds.gsecondscreen.com https://11310639.fls.doubleclick.net www.googletagmanager.com www.google.com www.gstatic.com www.youtube.com www.facebook.com accounts.google.com;",
+				"userPercentage": 50,
+				"headerKey": "Content-Security-Policy"
+			},
+			"sortForListing": [
+				{
+					"name": "popularity",
+					"key": "popularity"
+				},
+				{
+					"name": "discount",
+					"key": "discount"
+				},
+				{
+					"name": "name",
+					"key": "name"
+				},
+				{
+					"name": "customer top rated",
+					"key": "customer_top_rated"
+				},
+				{
+					"name": "new arrivals",
+					"key": "new_arrival"
+				},
+				{
+					"name": "price: high to low",
+					"key": "price_desc"
+				},
+				{
+					"name": "price: low to high",
+					"key": "price_asc"
+				}
+			],
+			"freeShipping": 299,
+			"homePage": {
+				"initialInventories": 6,
+				"eagerLoadImages": 5,
+				"pageTypeSuffix": {
+					"status": true,
+					"suffix": "sale"
+				}
+			},
+			"meta": {
+				"allReviewsPage": {
+					"title": "Product_Name Reviews | NykaaMan",
+					"description": "Read genuine reviews of Product_Name by verified customers at Nykaaman.com. Shop for 100% authentic products from Nykaaman.com."
+				},
+				"productPage": {
+					"title": "Buy Product_Name Online",
+					"description": "Buy Product_Name online at best prices on NykaaMan to avail express shipping with great offers."
+				},
+				"brandPage": {
+					"title": "Brand_Name: Buy Brand_Name Products Online at Best Price in India",
+					"description": "Buy Brand_Name products at best price from NykaaMan. Shop for 100% authentic & genuine Brand_Name products. ✓COD ✓Free Shipping ✓Easy Returns ✓Verified Reviews"
+				}
+			},
+			"guidedSearch": {
+				"userPercentage": 100,
+				"status": true
+			},
+			"searchSuggestionIcons": {
+				"query": "https://www.nykaa.com/media/wysiwyg/2020/search.svg",
+				"buying_guide": "https://www.nykaa.com/media/wysiwyg/2020/buying-guide.svg",
+				"history": "https://www.nykaa.com/media/wysiwyg/2020/clock.svg",
+				"trending": "https://www.nykaa.com/media/wysiwyg/2020/ic-trending.svg"
+			},
+			"AB": {
+				"rnrCollection": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "EXP_REVIEW_COLLECTION",
+					"cookie": "EXP_REVIEW_COLLECTION"
+				},
+				"dweblstMigration": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_dweb_listingpage",
+					"cookie": "D_LST"
+				},
+				"dwebPdpMigration": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_dweb_pdp",
+					"cookie": "D_PDP"
+				},
+				"dwebMigration": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_dweb",
+					"cookie": "D_HOM"
+				},
+				"autoFillSignUp": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_autoFill"
+				},
+				"emailSuggestion": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_email_suggestion",
+					"emailSuggestionList": {
+						"@": [
+							"gmail.com",
+							"yahoo.com",
+							"hotmail.com"
+						],
+						"g": [
+							"gmail.com"
+						],
+						"y": [
+							"yahoo.com",
+							"yahoo.co.in",
+							"yahoo.in"
+						],
+						"h": [
+							"hotmail.com",
+							"hotmail.co.in"
+						],
+						"o": [
+							"outlook.com"
+						],
+						"r": [
+							"rediffmail.com",
+							"rediff.com"
+						],
+						"f": [
+							"facebook.com"
+						],
+						"i": [
+							"icloud.com"
+						],
+						"p": [
+							"privaterelay.applied.com"
+						]
+					}
+				},
+				"passwordLessFlow": {
+					"status": true,
+					"userPercentage": 100,
+					"keyName": "ab_passwordLess"
+				}
+			},
+			"appLinks": {
+				"title": "experience the nykaaman mobile app",
+				"googlePlay": "https://nykaa.onelink.me/2573509543/aba6fc39",
+				"appStore": "https://nykaa.onelink.me/2573509543/aba6fc39"
+			},
+			"features": {
+				"freeShip": {
+					"iconUrl": "https://adn-static1.nykaa.com/media/listing/nykaaman/nykaaman_shipping.svg",
+					"title": "Free Shipping",
+					"text": "On Orders Above ₹"
+				},
+				"genuineProduct": {
+					"iconUrl": "https://adn-static1.nykaa.com/media/listing/nykaaman/nykaaman_genuine.svg",
+					"title": "Authentic Products",
+					"text": "Sourced Directly from Brands/ Authorised Distributors"
+				}
+			},
+			"socialLinks": {
+				"text": "show us some love on social media",
+				"social": [
+					{
+						"title": "Instagram",
+						"imgUrl": "https://adn-static1.nykaa.com/media/listing/nykaaman/nykaaman_insta.svg",
+						"link": "https://instagram.com/NykaaMan?ref=badge"
+					},
+					{
+						"title": "Facebook",
+						"imgUrl": "https://adn-static1.nykaa.com/media/listing/nykaaman/nykaaman_fb.svg",
+						"link": "https://www.facebook.com/NykaaMan"
+					}
+				]
+			},
+			"footerLinks": {
+				"NykaaMan": [
+					{
+						"displayAs": "Who are we?",
+						"redirectTo": "/who_are_we/lp?utm_source=Desktop_web_footer"
+					},
+					{
+						"displayAs": "Careers",
+						"redirectTo": "/who_are_we/lp#wwrcopen"
+					},
+					{
+						"displayAs": "Authenticity",
+						"redirectTo": "/authenticity-nykaa-guarantee/lp?utm_source=Desktop_web_footer"
+					},
+					{
+						"displayAs": "Press",
+						"redirectTo": "/who_are_we/lp#wwrpress"
+					},
+					{
+						"displayAs": "Testimonials",
+						"redirectTo": "/who_are_we/lp#wwrtestimonial"
+					}
+				],
+				"Help": [
+					{
+						"displayAs": "Contact Us",
+						"redirectTo": "https://www.nykaaman.com/gateway-api/omsApis/helpCenter?domain=NYKAA_MEN"
+					},
+					{
+						"displayAs": "Frequently asked questions",
+						"redirectTo": "https://www.nykaaman.com/gateway-api/omsApis/helpCenter?domain=NYKAA_MEN"
+					},
+					{
+						"displayAs": "Cancellation & Return",
+						"redirectTo": "/cancellation-policy/lp?utm_source=Desktop_web_footer"
+					},
+					{
+						"displayAs": "Shipping & delivery policy",
+						"redirectTo": "/shipping-policy/lp?utm_source=Desktop_web_footer"
+					}
+				],
+				"Quick Links": [
+					{
+						"displayAs": "Brand Stores",
+						"redirectTo": "/brand-directory"
+					},
+					{
+						"displayAs": "Offer Zone",
+						"redirectTo": "/sp/offers-page/offers-page?utm_source=Desktop_web_footer"
+					},
+					{
+						"displayAs": "Sitemap",
+						"redirectTo": "/sitemap/lp?root=nav_footer"
+					}
+				],
+				"Top Categories": [
+					{
+						"displayAs": "Shaving",
+						"redirectTo": "/shaving-beard-care/shaving/c/7288?root=nav_footer",
+						"className": "double"
+					},
+					{
+						"displayAs": "Beard Care",
+						"className": "double",
+						"redirectTo": "/shaving-beard-care/beard-moustache-care/c/15546?root=nav_3&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Hair Care",
+						"className": "double",
+						"redirectTo": "/hair/c/7296?root=nav_2&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Skin Care",
+						"className": "double",
+						"redirectTo": "/skin-care/c/7303?root=nav_2&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Personal Care",
+						"className": "double",
+						"redirectTo": "/personal-care/c/7312?&root=nav_2"
+					},
+					{
+						"displayAs": "Sports Nutrition",
+						"className": "double",
+						"redirectTo": "/health-nutrition/sports-nutrition/c/7240?&root=nav_2"
+					},
+					{
+						"displayAs": "Perfumes & Deos",
+						"className": "double",
+						"redirectTo": "/perfumes-deos/c/7335?root=nav_2&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Fashion & Lifestyle",
+						"className": "double",
+						"redirectTo": "/fashion-lifestyle/c/22666?root=nav_3&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Health and Nutrition",
+						"className": "double",
+						"redirectTo": "/health-nutrition/c/7330?root=nav_2&dir=desc&order=popularity"
+					},
+					{
+						"displayAs": "Gadgets",
+						"className": "double",
+						"redirectTo": "/gadgets-tech-accessories/c/13955?root=nav_2&dir=desc&order=popularity"
+					}
+				],
+				"Luxe": [
+					{
+						"displayAs": "Bath and Body",
+						"redirectTo": "/luxe-man-focus/bath-body/c/7418?root=nav_2"
+					},
+					{
+						"displayAs": "Hair",
+						"redirectTo": "/luxe-man-focus/hair/c/7428?root=nav_2"
+					},
+					{
+						"displayAs": "Fragrance",
+						"redirectTo": "/luxe-man-focus/fragrance/c/7430?root=nav_2"
+					},
+					{
+						"displayAs": "Skin",
+						"redirectTo": "/luxe-man-focus/skin/c/7510?root=nav_2"
+					}
+				]
+			},
+			"helpCenter": {
+				"imgUrl": "https://www.nykaa.com/media/wysiwyg/2020/helpCenter.svg",
+				"title": "HELP CENTER",
+				"link": "https://www.nykaaman.com/gateway-api/omsApis/helpCenter?domain=NYKAA_MEN"
+			},
+			"VP": {
+				"apiKey": "AIzaSyBCiWco5cS6Uja2-642pPZl_Ed0lRROZc4",
+				"authDomain": "nykaa-android-1224.firebaseapp.com",
+				"databaseURL": "https://nykaa-android-1224.firebaseio.com",
+				"projectId": "nykaa-android-1224",
+				"storageBucket": "nykaa-android-1224.appspot.com",
+				"messagingSenderId": "1035734725184",
+				"appId": "1:1035734725184:web:cd91daa8cac5a2baa0e5a5",
+				"measurementId": "G-W9QPFFEM7C",
+				"doc": "api_prioritization",
+				"collection": "nykaaman-web"
+			},
+			"ABV2": [
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_OL",
+					"id": "OL",
+					"nykaaUserVariant": "DEFAULT",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "DEFAULT",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_EMAIL_VERIFICATION_REVAMP",
+					"id": "AB_EMAIL_VERIFICATION_REVAMP",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_NEW_SHOPPING_BAG",
+					"id": "AB_NEW_SHOPPING_BAG",
+					"nykaaUserVariant": "A",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_FOOTER_CTA_TEXT",
+					"id": "AB_FOOTER_CTA_TEXT",
+					"nykaaUserVariant": "DEFAULT",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "DEFAULT",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_REVIEW",
+					"id": "AB_REVIEW_PAGE",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_DWEB_SHOPPING_BAG_URL",
+					"id": "AB_DWEB_SHOPPING_BAG_URL",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "SEO_REDIRECT",
+					"id": "INCORRECT_SLUG_REDIRECT",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_WISHLIST",
+					"id": "AB_WISHLIST",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_ZENDESK_CHAT",
+					"id": "AB_ZENDESK_CHAT",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_AUTH_DWEB",
+					"id": "AB_AUTH_DWEB",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_NEW_GC_PAGE",
+					"id": "AB_NEW_GC_PAGE",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "H_F_M_W",
+					"id": "H_F_M_W",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "H_F_M_W",
+					"id": "H_F_M_W",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "AB_ORDERS_MFE",
+					"id": "AB_ORDERS_MFE",
+					"nykaaUserVariant": "A",
+					"isSSR": true,
+					"variants": [
+						{
+							"name": "A",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "C_W_P_M",
+					"id": "C_W_P_M",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "H_F_M_M_S_P",
+					"id": "H_F_M_M_S_P",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "H_F_M_P_S",
+					"id": "H_F_M_P_S",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				},
+				{
+					"status": true,
+					"sampleRate": {
+						"from": 0,
+						"to": 1
+					},
+					"experimentLayer": "H_F_M_S",
+					"id": "H_F_M_S",
+					"nykaaUserVariant": "1",
+					"isSSR": false,
+					"variants": [
+						{
+							"name": "1",
+							"sampleRate": {
+								"from": 0,
+								"to": 1
+							}
+						}
+					]
+				}
+			],
+			"landingPageABConfig": {},
+			"plpPriceReveal": {
+				"status": false,
+				"categoryId": [],
+				"text": "SALE OFFER INSIDE",
+				"textColor": "#003243",
+				"badgeColor": "#F0F9FC"
+			},
+			"listingPriceReveal": {
+				"isActive": true,
+				"title": "Blue Summer Sale Offer",
+				"styles": {
+					"titleColor": "#195F7B",
+					"spColor": "#132535",
+					"discountColor": "#068743",
+					"bgColor": "#F0F0F0",
+					"border": "4px"
+				}
+			},
+			"pdPriceReveal": {
+				"isActive": true,
+				"title": "Blue Summer Sale Offer",
+				"pinkBoxUrl": "/saleBox/?ptype=saleBox&saleId=blue-summer-sale",
+				"bucket": "BlueSummerBox2026",
+				"styles": {
+					"titleColor": "#09485f",
+					"priceColor": "#132535",
+					"discountColor": "#068743",
+					"bgColor": "#F0F0F0",
+					"border": "4px"
+				},
+				"primaryActionLabel": "Add To Blue Box",
+				"secondaryActionLabel": "Go To Blue Box",
+				"addedToBoxToastMessage": "Added to Blue Box",
+				"addedToBoxErrorMessage": "Couldn't Add to Blue Box, Try again"
+			},
+			"sentrySampleRate": 0.1,
+			"newRelicSampleRate": 0.5,
+			"last9SampleRate": 10,
+			"last9Version": "1.3.8",
+			"policies": [
+				{
+					"title": "Terms & Conditions",
+					"link": "/terms-conditions/lp"
+				},
+				{
+					"title": "Shipping Policy",
+					"link": "/shipping-policy/lp"
+				},
+				{
+					"title": "Cancellation Policy",
+					"link": "/cancellation-policy/lp"
+				},
+				{
+					"title": "Privacy Policy",
+					"link": "/privacy-policy/lp"
+				}
+			],
+			"pdpWidgetConfig": {
+				"status": "1",
+				"algo": [
+					{
+						"cav": "p2v_v2"
+					},
+					{
+						"cab": "p2v_v2"
+					}
+				]
+			},
+			"analyticsIncrementalTimerInMs": 5000,
+			"analyticsDelayTimer": 20000,
+			"analyticsExcludedEventNames": [],
+			"analyticsEventThreshold": 20,
+			"analyticsLoggingSampleRate": 0.3,
+			"analyticsSessionMaxDurationInHours": 12,
+			"analyticsSessionExpireInMinutes": 30,
+			"analyticsBatchEventPayloadSizeLimitInKB": 220,
+			"analyticsIntervalBatchTime": 5000,
+			"dnPaginationConfig": {
+				"bufferSize": 10,
+				"pageLimit": 20
+			},
+			"dynamicPriceRangeToastConfig": {
+				"enabled": true,
+				"timer": 4
+			},
+			"proWarningText": "Please limit address changes in your account. In case of frequent changes, Nykaa PRO reserves the right to discontinue your membership.",
+			"organizationSeoSchema": {
+				"name": "NykaaMan",
+				"url": "https://www.nykaaman.com",
+				"contact": "1800-267-88888",
+				"logo": "https://images-static.nykaa.com/media/favicon_man.png",
+				"socialMedia": [
+					"https://www.instagram.com/NykaaMan",
+					"https://www.facebook.com/NykaaMan"
+				]
+			},
+			"deepSearchSeoSchema": {
+				"url": "https://www.nykaaman.com",
+				"searchUrlTemplate": "https://www.nykaaman.com/search/result/?q={search_term_string}",
+				"queryInput": "required name=search_term_string"
+			},
+			"wakeLockTimer": 0,
+			"pdRedirectTargetBlockList": [
+				".html"
+			],
+			"plpRedirectTargetBlockList": [
+				".html"
+			],
+			"redirectionParamBlackList": [
+				"eq"
+			],
+			"homeh1Tag": "Men's online shopping store",
+			"apiQueryParamConfig": {},
+			"noSearchPage": {},
+			"couponsDeltaCommunication": {},
+			"ordersRevampUrl": "",
+			"skipInlineWidgetIndex": 6,
+			"downloadAppBannerConfig": {
+				"qrCodeUrl": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-5/QR_CODE.svg",
+				"title": "Exclusive Offers On App!",
+				"subtitle": "Scan to download the app and get exclusive offers!",
+				"clearStorageTimeout": 30,
+				"closeCountThreshold": 3
+			},
+			"cartGenericMessages": {
+				"oosMessages": {
+					"status": true,
+					"messages": {
+						"itemsFullyOOS": {
+							"type": "error",
+							"title": "Uh-oh! {count} product(s) out of stock",
+							"message": "Move items from your cart to proceed",
+							"actionCTA": "View Items"
+						},
+						"itemsPartiallyOOS": {
+							"type": "error",
+							"message": "Some items in your bag have run out of stock. Reduce quantity to proceed",
+							"actionCTA": "View Items"
+						},
+						"wholeCartOOS": {
+							"type": "error",
+							"message": "Uh-oh! Products added to bag are currently out of stock. Grab them once they are back."
+						},
+						"itemsFullyAndPartiallyOOSInCart": {
+							"type": "error",
+							"title": "Uh-oh! {count} product(s) out of stock",
+							"message": "Remove items or move to wishlist to proceed",
+							"actionCTA": "View Items"
+						}
+					}
+				}
+			},
+			"cartGratificationTimeoutInMs": 5000,
+			"cartFreeGiftBanner": {
+				"pickGiftBgImage": "https://images-static.nykaa.com/media/nnFreegiftSKU.png",
+				"giftCardBgImage": "https://images-static.nykaa.com/media/FreegiftSKU.png",
+				"borderColor": ""
+			},
+			"configFlags": {
+				"isSmartLockActive": false,
+				"sendOtpCaptcha": true,
+				"signupCaptcha": true,
+				"loginCaptcha": true,
+				"checkExistenceCaptcha": true
+			},
+			"miniOffers": {
+				"bgGradient": "linear-gradient(230deg, #D1F2D5 -40.12%, #FFF 41.87%)",
+				"bgIllustration": "https://images-static.nykaa.com/media/Offer-Branding.png",
+				"borderColor": "#D3E7DE",
+				"showDashedBorder": false,
+				"offerExpireRange": 12,
+				"offerValidityRange": 365
+			},
+			"miniCoupons": {
+				"couponExpireRange": 24,
+				"showBorder": false
+			},
+			"collapsedPriceDetails": {
+				"platformFeeMsg": "{fee} platform fee added",
+				"priveRewardsMsg": "You will earn {reward_points} reward points with",
+				"nonPriveRewardsMsg": "You will earn {reward_points} reward points",
+				"priveBandConfig": {
+					"gold": {
+						"bgImage": "https://images-static.nykaa.com/media/Rewardpoints-1.png",
+						"textColor": "#C18B00",
+						"priveImg": "https://images-static.nykaa.com/media/goldPriveLogo.png"
+					},
+					"platinum": {
+						"bgImage": "https://images-static.nykaa.com/media/Rewardpoints-2.png",
+						"textColor": "#6658AE",
+						"priveImg": "https://images-static.nykaa.com/media/platinumPriveLogo.png"
+					},
+					"silver": {
+						"bgImage": "https://images-static.nykaa.com/media/Rewardpoints.png",
+						"textColor": "#F06C7A",
+						"priveImg": "https://images-static.nykaa.com/media/priveLogo.png"
+					},
+					"non_member": {
+						"bgImage": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2026-2/Rewardpoints1.png",
+						"textColor": "#1C7DFF",
+						"priveImg": ""
+					}
+				}
+			},
+			"aggregatorBreadcrumbFooterTimeout": 300
+		}
+	},
+	"productQna": {
+		"error": false,
+		"QNA": []
+	},
+	"variants": {
+		"loading": false,
+		"isNotFound": false,
+		"isFetchingError": false,
+		"loadingProductId": "",
+		"data": []
+	},
+	"priceReveal": {
+		"items": [],
+		"error": null,
+		"loadingProducts": false,
+		"categories": [],
+		"fetchedCategories": {},
+		"currentCategory": {},
+		"dynamicWishlistSuccessCollection": {},
+		"dynamicWishlistErrorCollection": {},
+		"config": {},
+		"adPlatformData": null,
+		"recentlyAddedProduct": null,
+		"activeFilters": [],
+		"applyingFilters": false
+	},
+	"jsonLdData": [
+		{
+			"@context": "http://schema.org",
+			"@type": "Product",
+			"name": "Nike Court Vision Low Men's Shoes (UK 9)",
+			"image": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/e/3e4c4e9IM0459-104_1.jpg",
+			"mpn": "NIKEX00051628",
+			"sku": "NIKEX00051628",
+			"brand": "Nike",
+			"description": "Nike Court Vision Low Men's Shoes (UK 9)",
+			"offers": {
+				"@type": "Offer",
+				"price": 5521,
+				"priceCurrency": "INR",
+				"availability": "InStock",
+				"url": "https://www.nykaaman.com/nike-court-vision-low-men-s-shoes/p/25271378"
+			}
+		}
+	],
+	"homePage": {
+		"loading": false,
+		"isFetchingError": false,
+		"widgets": null,
+		"styles": {},
+		"metaData": {
+			"title": "",
+			"keywords": "",
+			"description": "",
+			"canonical": ""
+		},
+		"remaining_inventories_ids": [],
+		"queryParams": {}
+	},
+	"fitcode": {
+		"loading": false,
+		"isFetchingError": false,
+		"widgets": null
+	},
+	"categoryListing": {
+		"errorFetchingPage": false,
+		"loading": false,
+		"isFetchingError": false,
+		"isNotFound": false,
+		"pageNumber": 1,
+		"activeFilters": {},
+		"isFilterChanged": false,
+		"isPageChanged": false,
+		"serverError": false,
+		"widgets": [],
+		"activeSort": "",
+		"loadingPage": false,
+		"isClearAll": false,
+		"isEmptyRangeError": false,
+		"remaining_inventories_ids": [],
+		"queryParamsObject": {},
+		"inlineWidgets": null,
+		"interactionData": {
+			"hasInteracted": false,
+			"clickCount": 0,
+			"cardClickCount": 0,
+			"addCartClickCount": 0,
+			"addWishlistClickCount": 0,
+			"bannerClickCount": 0,
+			"inlineWidgetClickCount": 0,
+			"removeWishlistClickCount": 0,
+			"tiptileClickCount": 0,
+			"notifyMeClickCount": 0,
+			"variantClickCount": 0
+		},
+		"fetchFooterDataOnClient": false
+	},
+	"footer": {
+		"priceList": {},
+		"aboutUs": {},
+		"categories": {}
+	},
+	"searchListingPage": {
+		"activeFilters": {},
+		"error": false,
+		"errorFetchingPage": false,
+		"isFilterChanged": false,
+		"isPageChanged": false,
+		"loading": false,
+		"loadingPage": false,
+		"pageNumber": 0,
+		"searchTerm": "",
+		"isClearAll": false,
+		"isEmptyRangeError": false,
+		"inlineWidgets": null,
+		"interactionData": {
+			"hasInteracted": false,
+			"clickCount": 0,
+			"cardClickCount": 0,
+			"addCartClickCount": 0,
+			"addWishlistClickCount": 0,
+			"bannerClickCount": 0,
+			"inlineWidgetClickCount": 0,
+			"removeWishlistClickCount": 0,
+			"tiptileClickCount": 0,
+			"notifyMeClickCount": 0,
+			"variantClickCount": 0
+		}
+	},
+	"pro": {
+		"loadingFirstFoldWidgets": false,
+		"firstFoldWidgetsError": false,
+		"loadingSecondFoldWidgets": false,
+		"secondFoldWidgetsError": false
+	},
+	"VP": {
+		"error": false,
+		"configs": {},
+		"message": "",
+		"scriptLoaded": false
+	},
+	"navigation": {},
+	"abExperiments": {
+		"OL": "DEFAULT",
+		"AB_EMAIL_VERIFICATION_REVAMP": "A",
+		"AB_NEW_SHOPPING_BAG": "A",
+		"AB_DWEB_SHOPPING_BAG_URL": "A",
+		"AB_WISHLIST": "A",
+		"AB_ZENDESK_CHAT": "A",
+		"AB_AUTH_DWEB": "A",
+		"AB_NEW_GC_PAGE": "A",
+		"H_F_M_W": "1",
+		"C_W_P_M": "1",
+		"H_F_M_M_S_P": "1",
+		"H_F_M_P_S": "1",
+		"H_F_M_S": "1"
+	},
+	"proUserInfo": {
+		"personalInfo": null,
+		"businessInfo": null,
+		"businessAddress": null,
+		"savedAddress": [],
+		"documents": null,
+		"loading": false,
+		"status": null,
+		"isLoadingBasicInfo": false,
+		"isLoadingAddressInfo": false,
+		"isLoadingBusinessInfo": false,
+		"isLoadingTerms": false,
+		"isUploadingId": false,
+		"isUploadingPob": false,
+		"idFiles": null,
+		"certificateFiles": null,
+		"documentIdSuccess": false,
+		"documentPobSuccess": false,
+		"userInfoFetched": false
+	},
+	"getReviews": {
+		"Reviews": {
+			"reviews": [],
+			"sorts": [],
+			"filters": []
+		},
+		"isLoading": true,
+		"page": 1,
+		"sort": "",
+		"filter": [
+			"DEFAULT"
+		],
+		"variants": [],
+		"reviewLeft": true,
+		"selectedVariants": []
+	},
+	"RECOProducts": {
+		"loading": false,
+		"isNotFound": false,
+		"isFetchingError": false,
+		"CAV": [],
+		"CAB": [],
+		"recoDataLoaded": false
+	},
+	"wishlistReducer": {
+		"loading": false,
+		"productIdsInWishlist": [],
+		"products": [],
+		"pageNumber": 1,
+		"stopFurtherCall": false
+	},
+	"couponReducer": {
+		"coupons": {
+			"data": [],
+			"isLoading": false,
+			"hasError": false
+		},
+		"collect": {
+			"isLoading": false,
+			"showCard": false,
+			"hasError": false,
+			"code": "",
+			"id": null
+		},
+		"couponDetails": {
+			"isLoading": false,
+			"hasError": false,
+			"data": null
+		},
+		"cartSnackbar": {
+			"autoAppliedText": "",
+			"isVisible": false,
+			"appliedCouponCodes": "",
+			"hasError": false
+		},
+		"sheet": {
+			"isVisible": false,
+			"type": ""
+		}
+	},
+	"myProfile": {
+		"dob": "",
+		"email": "",
+		"isEmailEditAllowed": false,
+		"firstName": "",
+		"gender": "",
+		"hideEmail": false,
+		"isEmailVerified": false,
+		"isPrive": 0,
+		"lastName": "",
+		"isMobileEditAllowed": true,
+		"mobileNumber": "",
+		"profilePic": "https://www.nykaa.com/assets/mobile/images/my_profile/default_avatar.svg",
+		"signUpSource": "",
+		"isMobileUnverified": false,
+		"userVersion": "",
+		"transformedAddressDetails": {
+			"prefix": "",
+			"firstName": "",
+			"lastName": "",
+			"mobile": "",
+			"country": "",
+			"state": "",
+			"postcode": "",
+			"setDefault": 0,
+			"street": "",
+			"isdCode": "",
+			"city": "",
+			"addressId": "",
+			"customerAddressId": ""
+		},
+		"transformedAddresses": [],
+		"isVerified": false
+	},
+	"cmsReducer": {
+		"isFetchingError": false
+	},
+	"authReducer": {
+		"loading": false,
+		"email": "",
+		"mobile": "",
+		"message": "",
+		"otpLength": 0,
+		"otpStatus": null,
+		"retryLeft": 0,
+		"isExists": false,
+		"emailList": [],
+		"signUpSource": "",
+		"origin": "",
+		"linkedEmail": "",
+		"steps": [
+			{
+				"stepName": "MOBILE_INPUT"
+			}
+		],
+		"sendOtpToMail": false,
+		"isVerified": false,
+		"selectedCustomerId": "",
+		"authWidget": [],
+		"status": false,
+		"userAttributesData": {
+			"fetching": false,
+			"fetched": false,
+			"error": null
+		},
+		"affiliateLink": {
+			"fetching": false,
+			"error": null,
+			"affiliateUrl": null,
+			"messageCode": null,
+			"lastFetchedProductId": null,
+			"lastFetchedUrl": null
+		},
+		"error": false,
+		"isApiError": false
+	},
+	"dpMetaData": {
+		"canonicalUrl": "",
+		"title": "",
+		"description": "",
+		"h1Tag": "",
+		"footerContent": "",
+		"dpPageNotFound": false
+	},
+	"footerPopularLinksConfig": [
+		{
+			"name": "Vitamin E Capsule",
+			"link": "/dp/vitamin-e-capsule"
+		},
+		{
+			"name": "Mamaearth Face Wash",
+			"link": "/dp/mamaearth-face-wash"
+		},
+		{
+			"name": "Cetaphil Face Wash",
+			"link": "/dp/cetaphil-face-wash"
+		},
+		{
+			"name": "Mederma Cream",
+			"link": "/dp/mederma-cream"
+		},
+		{
+			"name": "Garnier Face Wash",
+			"link": "/dp/garnier-face-wash"
+		},
+		{
+			"name": "Highlighters",
+			"link": "/dp/highlighters"
+		},
+		{
+			"name": "Himalaya Face Wash",
+			"link": "/dp/himalaya-face-wash"
+		},
+		{
+			"name": "Tresemme Shampoo",
+			"link": "/dp/tresemme-shampoo"
+		},
+		{
+			"name": "Vitamin C Tablet",
+			"link": "/dp/vitamin-c-tablet"
+		},
+		{
+			"name": "Cetaphil Moisturisers",
+			"link": "/dp/cetaphil-moisturisers"
+		},
+		{
+			"name": "Nivea Cream",
+			"link": "/dp/nivea-cream"
+		},
+		{
+			"name": "Ponds Face Wash",
+			"link": "/dp/ponds-face-wash"
+		},
+		{
+			"name": "Coconut Oil",
+			"link": "/dp/coconut-oil"
+		},
+		{
+			"name": "Streax Hair Serum",
+			"link": "/dp/streax-hair-serum"
+		},
+		{
+			"name": "Sunflower Oil",
+			"link": "/dp/sunflower-oil"
+		},
+		{
+			"name": "Lakme Foundation",
+			"link": "/dp/lakme-foundation"
+		},
+		{
+			"name": "Body Lotion",
+			"link": "/dp/body-lotion"
+		},
+		{
+			"name": "Dove Shampoo",
+			"link": "/dp/dove-shampoo"
+		},
+		{
+			"name": "Ponds Cream",
+			"link": "/dp/ponds-cream"
+		},
+		{
+			"name": "Garnier Hair Color",
+			"link": "/dp/garnier-hair-color"
+		},
+		{
+			"name": "Hair Color For Men",
+			"link": "/dp/hair-color-for-men"
+		},
+		{
+			"name": "Lakme Cc Cream",
+			"link": "/dp/lakme-cc-cream"
+		},
+		{
+			"name": "Nivea Face Wash",
+			"link": "/dp/nivea-face-wash"
+		},
+		{
+			"name": "Body Wash",
+			"link": "/dp/body-wash"
+		},
+		{
+			"name": "Mamaearth Shampoo",
+			"link": "/dp/mamaearth-shampoo"
+		},
+		{
+			"name": "Matrix Shampoo",
+			"link": "/dp/matrix-shampoo"
+		},
+		{
+			"name": "Tea Tree Oil",
+			"link": "/dp/tea-tree-oil"
+		},
+		{
+			"name": "Almond Oil",
+			"link": "/dp/almond-oil"
+		},
+		{
+			"name": "Face Wash For Men",
+			"link": "/dp/face-wash-for-men"
+		},
+		{
+			"name": "Cetaphil Cleansers",
+			"link": "/dp/cetaphil-cleansers"
+		},
+		{
+			"name": "Nivea Lip Balms",
+			"link": "/dp/nivea-lip-balms"
+		},
+		{
+			"name": "Exfoliants",
+			"link": "/dp/exfoliants"
+		},
+		{
+			"name": "Indulekha Hair Oil",
+			"link": "/dp/indulekha-hair-oil"
+		},
+		{
+			"name": "Ponds Bb Cream",
+			"link": "/dp/ponds-bb-cream"
+		},
+		{
+			"name": "Livon Hair Serum",
+			"link": "/dp/livon-hair-serum"
+		},
+		{
+			"name": "Wow Face Wash",
+			"link": "/dp/wow-face-wash"
+		},
+		{
+			"name": "Sunsilk Shampoo",
+			"link": "/dp/sunsilk-shampoo"
+		},
+		{
+			"name": "Lacto Calamine Lotion",
+			"link": "/dp/lacto-calamine-lotion"
+		},
+		{
+			"name": "Selsun Shampoo",
+			"link": "/dp/selsun-shampoo"
+		},
+		{
+			"name": "Streax Hair Color",
+			"link": "/dp/streax-hair-color"
+		},
+		{
+			"name": "Vedix Hair Oil",
+			"link": "/dp/vedix-hair-oil"
+		},
+		{
+			"name": "Olay Cream",
+			"link": "/dp/olay-cream"
+		},
+		{
+			"name": "Wow Shampoo",
+			"link": "/dp/wow-shampoo"
+		},
+		{
+			"name": "Turmeric Powder",
+			"link": "/dp/turmeric-powder"
+		},
+		{
+			"name": "Eucalyptus Oil",
+			"link": "/dp/eucalyptus-oil"
+		},
+		{
+			"name": "Clinic Plus Shampoo",
+			"link": "/dp/clinic-plus-shampoo"
+		},
+		{
+			"name": "Simple Face Wash",
+			"link": "/dp/simple-face-wash"
+		},
+		{
+			"name": "Biotique Face Wash",
+			"link": "/dp/biotique-face-wash"
+		},
+		{
+			"name": "Hyaluronic Acid Serum",
+			"link": "/dp/hyaluronic-acid-serum"
+		},
+		{
+			"name": "Face Massagers",
+			"link": "/dp/face-massagers"
+		},
+		{
+			"name": "Hair Removal",
+			"link": "/dp/hair-removal"
+		},
+		{
+			"name": "Biluma Cream",
+			"link": "/dp/biluma-cream"
+		},
+		{
+			"name": "Huda Beauty Foundation",
+			"link": "/dp/huda-beauty-foundation"
+		},
+		{
+			"name": "Indulekha Shampoo",
+			"link": "/dp/indulekha-shampoo"
+		},
+		{
+			"name": "Ponds Powder",
+			"link": "/dp/ponds-powder"
+		},
+		{
+			"name": "Lakme Cream",
+			"link": "/dp/lakme-cream"
+		},
+		{
+			"name": "Pantene Shampoo",
+			"link": "/dp/pantene-shampoo"
+		},
+		{
+			"name": "Vitamin C Capsule",
+			"link": "/dp/vitamin-c-capsule"
+		},
+		{
+			"name": "Nyle Shampoo",
+			"link": "/dp/nyle-shampoo"
+		},
+		{
+			"name": "Garnier Face Wash For Men",
+			"link": "/dp/garnier-face-wash-for-men"
+		},
+		{
+			"name": "Stretch Marks Cream",
+			"link": "/dp/stretch-marks-cream"
+		},
+		{
+			"name": "Talcum Powder",
+			"link": "/dp/talcum-powder"
+		},
+		{
+			"name": "Biotique Shampoo",
+			"link": "/dp/biotique-shampoo"
+		},
+		{
+			"name": "Salicylic Acid Serum",
+			"link": "/dp/salicylic-acid-serum"
+		},
+		{
+			"name": "Tongue Cleaners",
+			"link": "/dp/tongue-cleaners"
+		},
+		{
+			"name": "Neem Oil",
+			"link": "/dp/neem-oil"
+		},
+		{
+			"name": "Shower Gel",
+			"link": "/dp/shower-gel"
+		},
+		{
+			"name": "Vlcc Facial Kits",
+			"link": "/dp/vlcc-facial-kits"
+		},
+		{
+			"name": "Dettol Hand Wash",
+			"link": "/dp/dettol-hand-wash"
+		},
+		{
+			"name": "Himalaya Shampoo",
+			"link": "/dp/himalaya-shampoo"
+		},
+		{
+			"name": "Schwarzkopf Shampoo",
+			"link": "/dp/schwarzkopf-shampoo"
+		},
+		{
+			"name": "Sebamed Shampoo",
+			"link": "/dp/sebamed-shampoo"
+		},
+		{
+			"name": "Almond Hair Oil",
+			"link": "/dp/almond-hair-oil"
+		},
+		{
+			"name": "Floss",
+			"link": "/dp/floss"
+		},
+		{
+			"name": "Hair Serum For Men",
+			"link": "/dp/hair-serum-for-men"
+		},
+		{
+			"name": "Aloe Vera Hair Gels",
+			"link": "/dp/aloe-vera-hair-gels"
+		},
+		{
+			"name": "Dove Conditioner",
+			"link": "/dp/dove-conditioner"
+		},
+		{
+			"name": "Keshking Shampoo",
+			"link": "/dp/keshking-shampoo"
+		},
+		{
+			"name": "Dove Body Wash",
+			"link": "/dp/dove-body-wash"
+		},
+		{
+			"name": "Sesa Hair Oil",
+			"link": "/dp/sesa-hair-oil"
+		},
+		{
+			"name": "Mamaearth Hair Oil",
+			"link": "/dp/mamaearth-hair-oil"
+		},
+		{
+			"name": "Anomaly Shampoo",
+			"link": "/dp/anomaly-shampoo"
+		},
+		{
+			"name": "Vatika Shampoo",
+			"link": "/dp/vatika-shampoo"
+		},
+		{
+			"name": "Matrix Hair Color",
+			"link": "/dp/matrix-hair-color"
+		},
+		{
+			"name": "Moroccanoil Shampoo",
+			"link": "/dp/moroccanoil-shampoo"
+		},
+		{
+			"name": "Herbal Shampoo",
+			"link": "/dp/herbal-shampoo"
+		},
+		{
+			"name": "Hair Wax For Men",
+			"link": "/dp/hair-wax-for-men"
+		},
+		{
+			"name": "Tresemme Conditioner",
+			"link": "/dp/tresemme-conditioner"
+		},
+		{
+			"name": "Keshking Hair Oil",
+			"link": "/dp/keshking-hair-oil"
+		},
+		{
+			"name": "Body Oil",
+			"link": "/dp/body-oil"
+		},
+		{
+			"name": "Herbal Hair Oil",
+			"link": "/dp/herbal-hair-oil"
+		},
+		{
+			"name": "Chik Shampoo",
+			"link": "/dp/chik-shampoo"
+		},
+		{
+			"name": "Meera Shampoo",
+			"link": "/dp/meera-shampoo"
+		},
+		{
+			"name": "Bblunt Hair Color",
+			"link": "/dp/bblunt-hair-color"
+		},
+		{
+			"name": "Hair Spray For Men",
+			"link": "/dp/hair-spray-for-men"
+		},
+		{
+			"name": "Vedix Shampoo",
+			"link": "/dp/vedix-shampoo"
+		},
+		{
+			"name": "Wow Hair Oil",
+			"link": "/dp/wow-hair-oil"
+		},
+		{
+			"name": "De Fabulous Shampoo",
+			"link": "/dp/de-fabulous-shampoo"
+		},
+		{
+			"name": "Garnier Shampoo",
+			"link": "/dp/garnier-shampoo"
+		},
+		{
+			"name": "Streax Shampoo",
+			"link": "/dp/streax-shampoo"
+		}
+	],
+	"gamesConfig": {
+		"games": {
+			"spin-the-wheel": {
+				"gameSEO": {
+					"metaTitle": "Spin The Wheel | Nykaaman",
+					"metaKeyword": "Spin The Wheel Game Nykaaman",
+					"metaDescription": "Ready. Set. SPIN! Go play Nykaaman's Spin The Wheel for exciting rewards on your favourite brands."
+				},
+				"config": {
+					"platform": "Web",
+					"preSelected": 0,
+					"domain": "men",
+					"setId": "Prebuzz-bluesummer-stw",
+					"gameType": "Spin_wheel",
+					"offerId": 0
+				},
+				"bgColor": "#5ac2de",
+				"bgImage": "https://adn-static1.nykaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/desktop-bg-v1.png",
+				"logo": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/main-logo.png",
+				"titleColor": "#ffffff",
+				"titleText": "Spin the wheel and win amazing offers from your favourite brands",
+				"subtitleText": "Redeem Them Between 5th to 12th May",
+				"buttonPrimaryBg": "#E80071",
+				"buttonPrimaryColor": "#ffffff",
+				"buttonSecondaryBg": "#ffffff",
+				"buttonSecondaryColor": "#fc2779",
+				"wheelRim": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/bss-stw-base.png",
+				"wheelSpinButton": "https://adn-static1.nykaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/niddle.png",
+				"wheel": [
+					{
+						"id": 1,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice1.png"
+					},
+					{
+						"id": 2,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice2.png"
+					},
+					{
+						"id": 3,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice3.png"
+					},
+					{
+						"id": 4,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice4.png"
+					},
+					{
+						"id": 5,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice5.png"
+					},
+					{
+						"id": 6,
+						"imagePath": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/bss/slice6.png"
+					}
+				],
+				"terms": [
+					{
+						"text": "Coupon is limited to single use per customer."
+					},
+					{
+						"text": "Discount may not apply if qualifying items are not added to cart when coupon is in effect."
+					},
+					{
+						"text": "Coupon cannot be used with other promotions ongoing on Nykaa.com during redemption."
+					},
+					{
+						"text": "Shipping and handling charges are applicable on all orders."
+					},
+					{
+						"text": "If items purchased with coupons are returned, coupon discount is subtracted from return credit."
+					},
+					{
+						"text": "Should you face any trouble using this promotion code or if the payment process has failed or been interrupted before you have placed your order successfully, please contact Nykaaman support via this link: <a href='https://www.nykaaman.com/help-center'>https://www.nykaaman.com/help-center</a> for further assistance."
+					},
+					{
+						"text": "Orders placed using this coupon will be subject to the <a href='https://www.nykaaman.com/terms-conditions/lp'>Terms and Conditions</a> of Nykaaman.com."
+					}
+				],
+				"winTitle": "Congratulations! You spun the wheel and won",
+				"betterluck": {
+					"icon": "https://images-static.naikaa.com/media/wysiwyg/2023/SpinTheWheelMan/BBS/better-luck.png",
+					"text": "Better Luck Next Time",
+					"subtext": "Spin again to win exciting offers"
+				},
+				"couponApiError": {
+					"icon": "https://images-static.naikaa.com/media/wysiwyg/2022/SpinTheWheelMan/nov-set1-coupon-code-error.png",
+					"text": "Looks like there’s a problem with our coupon vending machine.",
+					"subtext": ""
+				},
+				"offerApiError": {
+					"icon": "https://images-static.naikaa.com/media/wysiwyg/2022/SpinTheWheelMan/nov-set1-coupon-code-error.png",
+					"text": "Something went wrong",
+					"subtext": "Apologies! We’re looking into it."
+				},
+				"share": {
+					"title": "Ready. Set. SPIN! Go play Nykaaman's Spin The Wheel for exciting rewards on your favourite brands test",
+					"url": "https://www.nykaaman.com/spin-the-wheel/lp"
+				}
+			},
+			"scratch-win": {
+				"gameSEO": {
+					"metaTitle": "Scratch and Win | Nykaaman",
+					"metaKeyword": "Scratch and Win Game Nykaaman",
+					"metaDescription": "Scratch the card and win exciting rewards on your favourite brands."
+				},
+				"config": {
+					"platform": "Web",
+					"preSelected": 0,
+					"domain": "men",
+					"setId": "SNWCRM13thFeb25Segment7",
+					"gameType": "Scratch_Win",
+					"offerId": 0
+				},
+				"bgColor": "#fdccdf",
+				"bgImage": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2024-11/SW16Nov-Background.jpg",
+				"logo": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-2/SAW03Feb-Logo-Unit.png",
+				"titleColor": "#000000",
+				"titleText": "Scratch the card and win the exciting offers!",
+				"subtitleText": "",
+				"scratchCardImage": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2024-11/SW16Nov-Scratch-Card.png",
+				"terms": [
+					{
+						"text": "Coupon is limited to single use per customer."
+					},
+					{
+						"text": "Discount may not apply if qualifying items are not added to cart when coupon is in effect."
+					},
+					{
+						"text": "Coupon cannot be used with other promotions ongoing on Nykaa.com during redemption."
+					},
+					{
+						"text": "Shipping and handling charges are applicable on all orders."
+					},
+					{
+						"text": "If items purchased with coupons are returned, coupon discount is subtracted from return credit."
+					},
+					{
+						"text": "Should you face any trouble using this promotion code or if the payment process has failed or been interrupted before you have placed your order successfully, please contact Nykaaman support via this link: <a href='https://www.nykaaman.com/help-center'>https://www.nykaaman.com/help-center</a> for further assistance."
+					},
+					{
+						"text": "Orders placed using this coupon will be subject to the <a href='https://www.nykaaman.com/terms-conditions/lp'>Terms and Conditions</a> of Nykaaman.com."
+					}
+				],
+				"winTitle": "https://images-static.naikaa.com/media/wysiwyg/uiTools/2025-2/SAW03Feb-You-Won-v2.png",
+				"betterluck": {
+					"icon": "https://images-static.naikaa.com/media/wysiwyg/2023/game/quiz/beauty/set1/error-nocoupon.png",
+					"text": "Better Luck Next Time",
+					"subtext": "Spin again to win exciting offers"
+				},
+				"apiError": {
+					"icon": "https://images-static.naikaa.com/media/wysiwyg/2023/game/beauty/icons/apiErrorCoupon-v2.png",
+					"text": "Something went wrong",
+					"subtext": "Apologies! We’re looking into it."
+				},
+				"share": {
+					"title": "Scratch the card and win exciting rewards on your favourite brands.",
+					"url": "https://www.nykaaman.com/cp/scratch-win"
+				}
+			}
+		}
+	},
+	"snsConfig": {},
+	"cartReducer": {
+		"loading": false,
+		"cartInfo": {
+			"addressDTO": null,
+			"appliedCoupons": [],
+			"nonCollectedApplicableCoupon": [],
+			"nonCollectedApplicableCouponSavings": 0,
+			"availablePaymentMethodDTO": null,
+			"cartFlagDTO": null,
+			"cartPriceDTO": null,
+			"cartTotal": null,
+			"couponCode": "",
+			"currencyCode": "",
+			"customerId": "",
+			"deltaCommunicationDTO": null,
+			"error": null,
+			"freeSampleData": null,
+			"giftWrapDTO": null,
+			"giftcard": null,
+			"infoMessageDTO": null,
+			"itemCount": 0,
+			"items": [],
+			"pakkaPromiseData": null,
+			"quantity": 0,
+			"rewardsDTO": null,
+			"shippingDataDTO": null,
+			"applicableCouponsInfo": "",
+			"interactionLocation": "",
+			"cartPageBottomCommunicationMessages": [],
+			"cartId": "",
+			"appliedOffersPopupDetailsDTO": {},
+			"unselectedItems": [],
+			"unselectedItemQuantity": 0,
+			"unselectedItemCount": 0,
+			"collectedNonApplicableCoupon": null,
+			"nonCollectedNonApplicableCoupon": null,
+			"nonApplicableCoupon": null,
+			"passList": [],
+			"appliedPassDetails": []
+		},
+		"freeSamples": {
+			"claimedCount": 0,
+			"eligibleCount": 0,
+			"freeSampleMessage": "",
+			"freeSamplesDataDTOList": []
+		},
+		"bestSellerProducts": null,
+		"freeShippingProducts": null,
+		"dfaProducts": null,
+		"paymentOffers": {
+			"customerType": 0,
+			"nonEligiblePaymentRules": [],
+			"paymentCharges": [],
+			"paymentRules": []
+		},
+		"toastMessage": "",
+		"error": {}
+	}
+}
