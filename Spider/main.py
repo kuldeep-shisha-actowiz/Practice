@@ -187,5 +187,5 @@ def parse_prime_video_payload(data: dict) -> dict:
 daa=read_file(r'D:\Practice\Spider\amazon_spider_noir.json')
 output=parse_prime_video_payload(daa)
 
-with open('spider_noir.json','w',encoding='utf-8')as file:
+with open('spi.json','w',encoding='utf-8')as file:
     json.dump(output,file,ensure_ascii=False,indent=4)
