@@ -7,7 +7,7 @@ def read_file(filepath):
 file_data=read_file(r'D:\Practice\Nike\NYKAA.JSON')
 
 
-def extract_product_details(data):
+def extract_product_details(data,file_name):
     variant=data.get('productPage',{}).get('product',{}).get('variants',[])
 
     Product_rating=data.get('productPage',{}).get('product',{}).get('rating',0.0)
@@ -34,5 +34,7 @@ def extract_product_details(data):
 
     print(json.dumps(All_product,indent=4))
 
+    # with open(f"{file_name}.json",'w') as file:
+    #     json.dump(All_product,file,indent=4)
 
-extract_product_details(file_data)     
+extract_product_details(file_data,'hi')     
