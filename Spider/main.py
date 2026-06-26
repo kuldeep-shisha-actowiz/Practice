@@ -1,7 +1,6 @@
 import json
 import re
 
-
 def read_file(path):
     try:
         with open(path, 'r', encoding='utf-8') as file:
@@ -26,14 +25,27 @@ def read_file(path):
 
 
 
-import json
+
 
 def parse_prime_video_payload(data: dict) -> dict:
+    """
+    Complete production parser for Prime Video payloads.
+    Handles nested structural variables, text/dictionary variants,
+    and regex-filters Spider-Noir trailer assets dynamically.
+    """
+    
+    # --- HELPER FUNCTION: Handles both image link formats safely ---
+    def extract_image_url(image_node) -> str:
+        if isinstance(image_node, dict):
+            return image_node.get("url")  # Handles {"url": "https://..."}
+        return str(image_node) if image_node else None  # Handles "https://..." directly
+
+    # 1. Root State Isolation
     atf_state = data.get("init", {}).get("preparations", {}).get("body", {}).get("atf", {}).get("state", {})
     btf_state = data.get("init", {}).get("preparations", {}).get("body", {}).get("btf", {}).get("state", {})
     atf_strings = data.get("init", {}).get("preparations", {}).get("body", {}).get("atf", {}).get("strings", {})
 
-    # Dynamically resolve active Series ID
+    # 2. Dynamic Series ID Resolution
     series_id = None
     if atf_state.get("self"):
         series_id = next(iter(atf_state["self"].keys()), None)
@@ -47,50 +59,59 @@ def parse_prime_video_payload(data: dict) -> dict:
     action_atf = atf_state.get("action", {}).get("atf", {}).get(series_id, {})
     imdb_data = atf_state.get("imdb", {}).get(series_id, {})
 
-    # --- WIDE NET: Content Advisory Fallbacks ---
-    content_advisory = []
-    # Path 1: Check standard contentAdvisories list
-    raw_advisory = header_detail.get("contentAdvisories") or header_detail.get("contentAdvisory")
+    # 3. Content Advisory Fallbacks
+    content_advisory = header_detail.get("ratingBadge", {}).get("displayText")
     
-    # Path 2: Check maturityRating object text
-    if not raw_advisory and "maturityRating" in header_detail:
-        raw_advisory = header_detail.get("maturityRating", {}).get("advisories", [])
-        
-    # Path 3: Check ratingBadge
-    if not raw_advisory and "ratingBadge" in header_detail:
-        badge_text = header_detail.get("ratingBadge", {}).get("displayText")
-        if badge_text: content_advisory.append(badge_text)
 
-    # Process if Path 1 or Path 2 hit an array
-    if isinstance(raw_advisory, list):
-        for item in raw_advisory:
-            if isinstance(item, dict) and item.get("text"):
-                content_advisory.append(item.get("text"))
-            elif isinstance(item, str):
-                content_advisory.append(item)
-
-   # --- Dynamic Regex Filtering for Spider-Noir Trailers ---
+    # 4. Strict Regex Filter: Trailers & Bonuses
     trailers_and_bonus = []
     containers = btf_state.get("containers", {}).get(series_id, [])
-    
-    # Matches "Spider-Noir...Trailer" or "Spider Noir...Trailer" case-insensitively
     spider_noir_pattern = re.compile(r"spider[- ]*noir.*trailer", re.IGNORECASE)
 
     for container in containers:
         for entity in container.get("entities", []):
             title = entity.get("displayTitle") or entity.get("title") or ""
-            
-            # Extract only if the title matches our Spider-Noir trailer pattern
             if spider_noir_pattern.search(title):
+                video_url = entity.get("link", {}).get("url") or entity.get("playbackUrl")
+                if not video_url:
+                    video_url = f"https://www.primevideo.com/detail/{entity.get('gti')}"
+
+                # Extracting trailer thumbnails utilizing the helper function
+                raw_img = entity.get("images", {}).get("cover") or entity.get("images", {}).get("packshot")
+                
                 trailers_and_bonus.append({
                     "title": title,
-                    "video_stream_url": f"https://www.primevideo.com/detail/{entity.get('link').get('url')}",
-                    "thumbnail_url": entity.get("images", {}).get("cover") or entity.get("images", {}).get("packshot"),
+                    "video_stream_url": f"https://www.primevideo.com{video_url}",
+                    "thumbnail_url": extract_image_url(raw_img),
                     "content_rating": entity.get("maturityRatingBadge", {}).get("displayText"),
                     "duration": entity.get("runtime")
                 })
 
-    # Standard Extractions (Genres, Audio, Crew, Episodes)
+    # 5. Dynamic Episode Processing (with explicit path tracking links)
+    episodes_list = []
+    btf_self_lookup = btf_state.get("self", {})
+    episode_details = btf_state.get("detail", {}).get("detail", {})
+    
+    for ep_gti, ep_data in episode_details.items():
+        if isinstance(ep_data, dict) and "episodeNumber" in ep_data:
+            # Deep play links path mapping lookup
+            ep_link_data = btf_self_lookup.get(ep_gti, {})
+            dynamic_url = ep_link_data.get("link") or f"{ep_gti}"
+            
+            episodes_list.append({
+                "episode_number": int(ep_data.get("episodeNumber", 0)),
+                "episode_title": ep_data.get("title"),
+                "episode_url": f"https://www.primevideo.com{dynamic_url}",
+                # Extracting episode thumbnails utilizing the helper function
+                "thumbnail_url": extract_image_url(ep_data.get("images", {}).get("packshot")),
+                "synopsis": ep_data.get("synopsis"),
+                "content_rating": header_detail.get("ratingBadge", {}).get("displayText"),
+                "duration": ep_data.get("runtime"),
+                "release_date": ep_data.get("releaseDate")
+            })
+    episodes_list.sort(key=lambda x: x["episode_number"])
+
+    # Standard Extractions (Genres, Audio, Crew)
     genres = [g.get("text") for g in header_detail.get("genres", []) if isinstance(g, dict) and g.get("text")]
     audio_languages = [t.get("text") if isinstance(t, dict) else str(t) for t in header_detail.get("audioTracks", []) if t]
     subtitles = [s.get("text") if isinstance(s, dict) else str(s) for s in header_detail.get("subtitles", []) if s]
@@ -99,58 +120,6 @@ def parse_prime_video_payload(data: dict) -> dict:
     directors = [d.get("name") for d in contributors.get("directors", []) if isinstance(d, dict) and d.get("name")]
     producers = [p.get("name") for p in contributors.get("producers", []) if isinstance(p, dict) and p.get("name")]
     cast = [c.get("name") for c in contributors.get("cast", []) if isinstance(c, dict) and c.get("name")]
-
-    # episodes_list = []
-    # episode_details = btf_state.get("detail", {}).get("detail", {})
-    # for ep_gti, ep_data in episode_details.items():
-    #     if isinstance(ep_data, dict) and "episodeNumber" in ep_data:
-    #         episodes_list.append({
-    #             "episode_number": int(ep_data.get("episodeNumber", 0)),
-    #             "episode_title": ep_data.get("title"),
-    #             "episode_url": f"https://www.primevideo.com/detail/{ep_gti}",
-    #             "thumbnail_url": ep_data.get("images", {}).get("packshot"),
-    #             "synopsis": ep_data.get("synopsis"),
-    #             "content_rating": header_detail.get("ratingBadge", {}).get("displayText"),
-    #             "duration": ep_data.get("runtime"),
-    #             "release_date": ep_data.get("releaseDate")
-    #         })
-    # episodes_list.sort(key=lambda x: x["episode_number"])
-
-
-
-    episodes_list = []
-    # 1. Grab the 'self' lookups block from the btf_state path
-    btf_self_lookup = btf_state.get("self", {})
-    
-    episode_details = btf_state.get("detail", {}).get("detail", {})
-    
-    for ep_gti, ep_data in episode_details.items():
-        if isinstance(ep_data, dict) and "episodeNumber" in ep_data:
-            
-            # 2. Dynamically extract the deep-play link path matching this episode's GTI
-            # Maps to: init.preparations.body.btf.state.self[ep_gti]['link']
-            ep_link_data = btf_self_lookup.get(ep_gti, {})
-            dynamic_url = ep_link_data.get("link")
-            
-            # Fallback if the 'link' key is missing or structural paths vary slightly
-            if not dynamic_url:
-                dynamic_url = f"{ep_gti}"
-                
-            episodes_list.append({
-                "episode_number": int(ep_data.get("episodeNumber", 0)),
-                "episode_title": ep_data.get("title"),
-                
-                # --- UPDATED: Uses the exact structural path you provided ---
-                "episode_url": f"https://www.primevideo.com/detail{dynamic_url}",
-                
-                "thumbnail_url": ep_data.get("images", {}).get("packshot",""),
-                "synopsis": ep_data.get("synopsis"),
-                "content_rating": header_detail.get("ratingBadge", {}).get("displayText"),
-                "duration": ep_data.get("runtime"),
-                "release_date": ep_data.get("releaseDate")
-            })
-            
-    episodes_list.sort(key=lambda x: x["episode_number"])
 
     score = imdb_data.get("score")
     max_score = imdb_data.get("maxScore")
@@ -173,7 +142,8 @@ def parse_prime_video_payload(data: dict) -> dict:
             "directors": directors,
             "producers": producers,
             "cast": cast,
-            "studio": header_detail.get("studios")
+            # "studio": header_detail.get("studios")
+            "studio": ", ".join(header_detail.get("studios")) if isinstance(header_detail.get("studios"), list) else header_detail.get("studios")
         },
         "trailers_and_bonus": trailers_and_bonus,
         "seasons": [
@@ -184,8 +154,10 @@ def parse_prime_video_payload(data: dict) -> dict:
             }
         ] if episodes_list else []
     }
+
+
 daa=read_file(r'D:\Practice\Spider\amazon_spider_noir.json')
 output=parse_prime_video_payload(daa)
 
-with open('spi.json','w',encoding='utf-8')as file:
+with open('Spider_noir.json','w',encoding='utf-8')as file:
     json.dump(output,file,ensure_ascii=False,indent=4)
