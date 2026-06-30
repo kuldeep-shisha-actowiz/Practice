@@ -1,0 +1,2263 @@
+[
+  {
+    "propertyId": 108211,
+    "name": "Novotel Hyderabad Airport",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Rajiv Gandhi International Airport",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 622
+    },
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/765376809.jpg?k=190cfc94873d250bf76dcc4f42fe1a644e8f2f4ae728c78a04ca437f81d123fa&o=",
+      "https://pix8.agoda.net/hotelImages/108211/0/a247ca69033bacf95b58725da3e50b6c.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/21636051/0/ad68eba4ed592394ef0fa025f53d3cee.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/108211/-1/27129eae46a267621f2549eaa8165d25.jpg?ca=28&ce=0",
+      "https://pix8.agoda.net/hotelImages/108211/-1/86dd6bed92e2f8b8fd9915482b241633.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/108211/-1/50884668cf48d0c43a99852694489993.jpg?ca=0&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/879146405.jpg?k=374a9bedaa9c2e41ce39ce3b8b8f9fe88ce64d8b2a42a6c6430ea26139cd9978&o=",
+      "https://pix8.agoda.net/hotelImages/21636051/692307094/5aa6268a0dcd33db06afebd072eb3c98.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/108211/-1/cae098ce77437a0c9436a21b80cc60c8.jpg?ca=0&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/337241248.jpg?k=5510296f376786bc75f5efd71922d130d72cf9cb94f91eeb8ef2e834833a24af&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 23514.21,
+      "displayPrice": 11199,
+      "discountPercent": "52%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 255,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "NonRefundable",
+    "propertyPage": "https://www.agoda.com/en-in/novotel-hyderabad-airport-hotel-an-accorhotels-brand/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 80005378,
+    "name": "The 7 Story Hotel Gachibowli",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.4,
+      "count": 285
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/80005378/0/d91f31d7344e0a59dc45c77883b6005f.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/a75543397f5e0995c24ed4735f986fd3.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/b509ed91a62a24be5a31b35e5e4129b5.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/70c603d05e6c06a66dd2276f57c29071.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/e9152aeccc2cbe4f34ecba01b875eb0d.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/36fb269fc4163d1e15c735fb7f29e872.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/b104a0669186a0cd588663343463b434.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/3181ac5d6f471c9029375a29a66be28b.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/2637058efe6117bebd4b58ef57d6ce2c.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/80005378/0/f0bbafa8818a65450c693c770ac6b687.jpg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5000,
+      "displayPrice": 1955.05,
+      "discountPercent": "61%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 545.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 10,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-7-story-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 83260423,
+    "name": "Indigo Line Hotel ",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 5.7,
+      "count": 92
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/83260423/0/25d12b47b79bbe66ee18d24636b884e9.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/f0315bf2619539fd6f2c512d8075c159.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/fee10ccc338fd6a9e55422d7630da217.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/0403cb393d540ad50542c36b336a13fc.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/38927f352c9e20c92966a7d54a567c6a.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/c72816dc538e133ba051fb1b7a2ff003.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/45f415cfae4880098244808e1ce67515.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/8a22d985db2e95b7fb875778ee4a2ac4.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/1350326785/888de897faf648a3b2e45b809f47832a.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/83260423/0/d12ad32169dfe3acf7862b447b2494a6.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 3680,
+      "displayPrice": 1854.12,
+      "discountPercent": "50%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1642.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 2,
+    "bookingActivity": {
+      "count": 12,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-sb-a-business-boutique-hotel-h83260423/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 178188,
+    "name": "The Park Hyderabad Hotel",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 6531
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/178188/0/d3432d176cc8e690af45f8cdf2fcbf72.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/178188/148007272/87c76f963c7e41587b20c34f19af27d2.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/178/178188/178188_14072414170020452204.jpg?ca=2&ce=1",
+      "https://pix8.agoda.net/hotelImages/22032645/0/2e15f27bb6ce65821151a0f3a4614545.jpg?ca=17&ce=1",
+      "https://pix8.agoda.net/hotelImages/22032645/0/da4b32ed068d4430647a802767cbd60a.jpg?ca=17&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/33692350.jpg?k=d8d818ca730808eef23d3ae9847947fcd0fd05b5f3ef2c304d17fe8095473c81&o=",
+      "https://pix8.agoda.net/hotelImages/22032645/0/4d42b3b30fa99ce9d9a1024f2ac3fbaf.jpg?ca=17&ce=1",
+      "https://pix8.agoda.net/hotelImages/22032645/0/961e154d09766f06c5991aab23205471.jpg?ca=17&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/197339753.jpg?k=20135b6b95e12568566a209c0eba78cbc9f713c47785faf356df674d65b679e6&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/197340478.jpg?k=d9bdf70e12c2018b8b285c0877d18939eb027c4b1d80698de8c1cf37c142fa5c&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 28128.58,
+      "displayPrice": 7032.15,
+      "discountPercent": "75%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1368.0
+    },
+    "badges": [
+      "SuperSaver",
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 22,
+    "bookingActivity": {
+      "count": 35,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-park-hyderabad-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 89183482,
+    "name": "Hotel BlueBell Near DLF Cyber City, Gachibowli",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 3,
+      "count": 2
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/89183482/0/9d9a2a0385b260372686166b89e8a007.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/bae0a740dce60cb91d807040f5598000.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/80aff32f8957db42ea2ef63addd03951.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/fd2a14123568dd9668b04286dc6224fc.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/3546a84c9f2a6760e2c7a2240662df18.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/7ddce1cfb9b8033063580a66a27577e2.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/89183482/0/fb4248087601b7266be2d621007e07ae.png?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/889349338.jpg?k=bbacd170f7668892806f693a38ba7d829711f0f1459aaaa40d9c22f00e847ecb&o=",
+      "https://pix8.agoda.net/hotelImages/89183482/0/c56b20f4abb08f660ff8a50c3615a312.png?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/889642084.jpg?k=dbc0c0c34cee7e4c7fe2b4887fe136e14c5fe391a08698e411bc7baf4ee9027c&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5345.34,
+      "displayPrice": 1958.2,
+      "discountPercent": "63%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1605.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 20,
+    "bookingActivity": {
+      "count": 4,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hotel-bluebell-near-dlf-cyber-city-gachibowli/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 78607579,
+    "name": "Novara Hotel Madhapur Hyderabad",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.5,
+      "count": 628
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/78607579/0/7ec33b87a1407417d888cc8bce1bc814.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/1218883613/73ab57735991b98db7c15332d53337df.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/6cd290df4d47587b54d1194db6b924d5.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/46472758736a7ab4ea35d745a3fd7930.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/22774d90db500c3283bb7dfeca2c21aa.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/043c9d2e5eee3e73c841b0c14e951295.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/674b3bc50409cf4613f6fa079cf404c3.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/a0ea6f3af4db9bc14e1c0346c25aad2f.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/0/9a478ecc035dd973bddda37699dd5b26.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/78607579/1218883613/e1d052be93c6cba9e32e568bf3f7a35c.jpg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 1666.51,
+      "displayPrice": 1474.29,
+      "discountPercent": "12%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 426.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 18,
+    "bookingActivity": {
+      "count": 18,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/novara-hotel-madhapur-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 4913707,
+    "name": "Sitara Luxury Hotel - Ramoji Film City",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Ramoji Film City",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.6,
+      "count": 582
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/4913707/-1/3a4a2e2d067b099aed7c66ab1fa9a52a.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/141189116.jpg?k=11fb03a9a0809282862681d6d4305603bd69fa4e12451267ff68a415a8ce0481&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/109604912.jpg?k=e053178edffa07a70b7246a598b2745480789b1c6a62cbc53c7294787ddb3317&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/109604862.jpg?k=61b2dae68b04d094d01ff0b4338c31c9d4045ea67ad5802f4fa21bc7793714b2&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/109604513.jpg?k=487b37c224ebac06f856fa1728999aeaa2bdae266a124a72aec2e80ad3acd1bd&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/141340174.jpg?k=6db1d4b1f5e0f2841f20bed733cc477c92b56b3b132115443b0b0f3d73ad1b1e&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/146939375.jpg?k=5b9ee53d6d77434b4f3a6b008a5597e32b667ddc6e5cc8ffac4111ac33bacbe9&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/109604927.jpg?k=0e4a795cfeb9cbb6241b46006b478dfd97df08ecc7c9954d710c0716d6bd9728&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/141189290.jpg?k=afde8e0a80c119aac281d01857b6a082f8223cd7d7f79e5fb8f9a998fa65ce20&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/140999761.jpg?k=560b31236052be934a36283ce6aa53bfaf1b432f1f291f1ecae92ea3e3c01fa0&o="
+    ],
+    "price": {
+      "currency": null,
+      "crossedOutPrice": null,
+      "displayPrice": null,
+      "discountPercent": null
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": null,
+    "onlyXLeft": null,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": null,
+    "propertyPage": "https://www.agoda.com/en-in/sitara-luxury-hotel-ramoji-film-city/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 72249019,
+    "name": "Grand Continent Premier Banjara Hills",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.4,
+      "count": 510
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/72249019/0/3beafdc140c67d80e2b70124a63371c5.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/72249019/1172716892/da15536ebb99421b04e55d4cf55a33f6.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/72249019/0/49695a89edf063e54e0573b06c4d5034.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72249019/0/caeee1e94282976c4493128449ecc6dc.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/699542795.jpg?k=3260c3f749e2d3db48d6ed3fde2444a02ea5d803fa3fc54274f258495259821f&o=",
+      "https://pix8.agoda.net/hotelImages/90311027/0/1d1e17b43530ecdc5bd32faf6374b7b6.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/699538016.jpg?k=f485a8a2b18eac71b64339d027e3fc71d8c89ad1a8c13ae95322b4da84d03f2a&o=",
+      "https://pix8.agoda.net/hotelImages/72249019/0/f3f97a28eea5a91cd6320f0158981e3b.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72249019/1172721734/75e44c7e7d638c4370e3b21c146af07c.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/699553188.jpg?k=55ef550a20b0dd04277bc8c7d232123e146c0271cb9d79c462b983569082889c&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 7096.09,
+      "displayPrice": 5606.26,
+      "discountPercent": "21%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 6,
+    "bookingActivity": {
+      "count": 12,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/grand-continent-premier-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 79529000,
+    "name": "HOTEL SIGNATURE BANJARA HILLS Hyderabad",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 345
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/79529000/0/117ee7516c2beb9202b5d83d1c71edcd.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/1244624415/fdd9add3576c44fabecc5cb0ba2faa53.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/2d1e92cf6509dbb8ee7b50f0d7bb7e95.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/c3fab5ea03e5b5097c769d578dbb7189.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/e1114237cdca77e25d6f5506b0f43593.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/73e0172d3dfe3bd2bba24f8fa527f014.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/6489ba897536fe5cf5dfaad46299cdef.png?ce=2",
+      "https://pix8.agoda.net/hotelImages/79529000/0/fa6ecb63b5c34d2e25a7a1754918fa60.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/0/8f30e411fa88e2d3f133d22c9ed7c016.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/79529000/1244624417/62aa7f8385faac07d28bad3c6b0d6a63.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 3376.77,
+      "displayPrice": 2710.41,
+      "discountPercent": "20%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 666.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 10,
+    "bookingActivity": {
+      "count": 26,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hotel-signature-banjara-hills-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 33862388,
+    "name": "Hotel Deccan Serai Grand\u00e9 , Gachibowli, Hyderabad",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.7,
+      "count": 1913
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/33862388/0/76602117f6c29d2d87ec76deab0f5747.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/28afd18112510d65417ba8c51dae2c87.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/f5d9e78baf924a9f91bd859d7d55ae8c.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/675054447.jpg?k=19fc38195be51ecde48fe3e4182179a40ad5d52075c99e816c24a803aa5d4e77&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/583317398.jpg?k=d7265533f258a9e7370d9e4e9c934612192cc5f24945b71f54007f2b0186ec4e&o=",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/821ff45d58ead5f8ce43ca7dadd4cd0d.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/ff0c4c1bce1308b07c377e480c1d13bb.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/fbbab6088c52e6f617f4bba783353726.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/b915b16682bf4b628aa72200dc2e17bb.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/33862388/-1/6c3ee64390aaa1ebcd6e8eb70560a5a2.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 15529.08,
+      "displayPrice": 6477.11,
+      "discountPercent": "58%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1012.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 21,
+    "bookingActivity": {
+      "count": 4,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hotel-deccan-serai-grande-gachibowli-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 34369054,
+    "name": "Embassy Suites",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.3,
+      "count": 231
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/34369054/0/272f3989cdf24636675ea289d66c80af.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/34369054/568062657/aeb172f69f447f2af1ab55f6efd7599a.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/679245027.jpg?k=3143eed8e0fd71e3389d3e50c0cddd61639172e7a0dfb04f547318a2c32163e1&o=",
+      "https://pix8.agoda.net/hotelImages/34369054/0/76af56adc8f0cda73289bda8b2251abf.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/533417324.jpg?k=92226aefa53632c7560efd763acf03a40fa3fa8e19f0cdc288fbd57a4cffee34&o=",
+      "https://pix8.agoda.net/property/57414396/0/7ac87634d5b9f7388f7f7245a4ac4a24.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/503090777.jpg?k=1a4b36975b6a141426c14601bc3f932f97ea49836a8c29c3c6e1b2f50b943a6e&o=",
+      "https://pix8.agoda.net/hotelImages/34369054/568062657/1d96bb371b80335babd0fe60e0ad323c.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/533417327.jpg?k=a774f09c9cea215ab7fe903f0e88eba24352f454134a768d0b655670e3db724a&o=",
+      "https://pix8.agoda.net/property/34369054/0/b6e4741ac95b00012c97aeb8f4de61cf.jpeg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 4500,
+      "displayPrice": 1702.76,
+      "discountPercent": "62%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 592.0
+    },
+    "badges": [
+      "SuperSaver",
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 5,
+    "bookingActivity": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/embassy-suites/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 79142503,
+    "name": "Hotel Aurora Bliss Gachibowli",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.9,
+      "count": 119
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/79142503/0/1765497376cfc5c16410078199959040.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315484.jpg?k=f60a612bf0f860f17bed1e73657ec77366d88562db8b4621e007ce15407b6f79&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315483.jpg?k=975b77bc41648126e73b54f8fdbccdd8773fe5051bd6f5f0d5fbe6b82041a71a&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315558.jpg?k=2bc80ed6b01b285874e822070cb70b8f33ea1d25f6a42ebf3a9abcd9e2df8f21&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315580.jpg?k=dddc884309a9b3d2e3ffc8430020ff4d373409d3782f4166565efd9f89493773&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315589.jpg?k=d46835b01e40604d062fa9863becd2b2f4ef2fca22fdb95e4590893271fa946e&o=",
+      "https://pix8.agoda.net/hotelImages/79142503/0/1c590d07b2151ba2058dac4db52e44d4.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315590.jpg?k=95e077923dc0099e44fbd3078dd0491699f3f71d2e250f2e540b4f24fa09466a&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315596.jpg?k=0ba1e274af1b2bbe7da6b35071524a558c57ac8db7212775974dcd8b3b26d2e5&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/836315480.jpg?k=1cf390e8febfe7bc073c6280a1098255e652ab5fdf686c6b7701fa9467e949ae&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 2326.11,
+      "displayPrice": 1513.7,
+      "discountPercent": "35%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 540.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 15,
+    "bookingActivity": {
+      "count": 15,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hotel-aurora-bliss/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 35353236,
+    "name": "Super Townhouse SR Nagar Metro Station Hyderabad",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Begumpet",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 6.7,
+      "count": 28
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/35353236/0/f79919d36bebf2415751ca56aec1d24f.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/91f62147d5d8fc65e235d09ab2d4d062.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/600b6842777baef733b0767aa3b977d9.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/17d74fc997ae013a45a2ffa37722c171.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/581e0d92b0518e60f98f6ae61796e53b.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/f1179a904ac9aab815cded610c80524e.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/0317287a935d06ef8cae83766b72c919.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/95bab56293f68591245ecac125470ba0.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/35353236/0/6d0a6eed7fa77ad2ac2da0063ceb7ddf.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/871686523.jpg?k=79893a9c09572bc75583fbccede766cb2be306e8925b3e83047414a590a17edf&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 2310.03,
+      "displayPrice": 1546.09,
+      "discountPercent": "33%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 38,
+    "bookingActivity": {
+      "count": 5,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/townhouse-1118-oyo-townhouse-s-r-nagar/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 37002742,
+    "name": "La Hometel Hotel - HITECH City Hyderabad",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.7,
+      "count": 760
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/37002742/-1/2844d8abfb41472012b9c83369041ea9.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/2ddf6b5fb7521865c12e77887e6e599b.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/3c91233014c20da9ae096cfc3c456b6e.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/484eb95223136f2578d594d15d290b12.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/a0b22bcf1c0cdd02d8eb353725eef342.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/0efd496558c267a722db5df4f6fea154.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/d8aea1e19b3d1c2e64949ffc6c6f71a5.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/ca3414e35c62166281ba00d9d71135d7.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/37002742/-1/07649d5cb81e848a242fdb6430883168.jpg?ce=0",
+      "https://pix8.agoda.net/property/37002742/0/f4533ba9b2abec0c2f59b5792a18f822.jpeg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 4222.6,
+      "displayPrice": 1267.34,
+      "discountPercent": "70%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 269.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 25,
+    "bookingActivity": {
+      "count": 25,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/la-hometel-hotel-hitech-city-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 63418449,
+    "name": "Clarion Hotel Hyderabad",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.2,
+      "count": 386
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/63418449/0/56a3cff57486ce1bdb7e984c575734eb.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/736795723.jpg?k=150edb4ff0a25063f546bbe80e237fab50ea3f736d2374ce636b21a443645a46&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/872311709.jpg?k=d9ce9fd082afa630461bb0828d57cdd71a9207639176b80c35609c83e0ef2fc2&o=",
+      "https://pix8.agoda.net/hotelImages/63418449/0/e1353c39207366edf60f324ae5b9e10c.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/63418449/0/4a8d76bbbeaa18db600cdcdf2c16a5d6.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/63418449/0/90a705a90e4099e9b44b002116d8d762.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/63418449/0/964fc3c2b051005b43e4ff93be5bfc6e.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/614162252.jpg?k=4cbfd324db5b55efb18f6cb03246e0c5f8929b2e75dfe761fb1798ece6155781&o=",
+      "https://pix8.agoda.net/hotelImages/63418449/0/fdd984ff1b49b5a435cfa41180c83f5a.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/738348169.jpg?k=eb77758b7e87ea933be4510052582e42c29053650a90ed4bb1a2ce7c9c933052&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 9162.88,
+      "displayPrice": 4828.63,
+      "discountPercent": "47%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 955.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 2,
+    "bookingActivity": {
+      "count": 9,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/clarion-hotel-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 6993923,
+    "name": "CITADEL Hotel By Vinnca",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Rajiv Gandhi International Airport",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.1,
+      "count": 840
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/6993923/0/b64dd8bb0125b02d980d2b8e03d67977.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/286365164.jpg?k=c3fee5d4f1ff92370799cdec66982cebf32c5191fa4c47fd30177ec57d301e16&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/287327211.jpg?k=968237b438ec01d85ff85c80ced6db10e7daa7a8cf5c6ac51b174a4bfc3d4767&o=",
+      "https://pix8.agoda.net/hotelImages/699/6993923/6993923_19042120160073875725.jpg?ca=8&ce=1",
+      "https://pix8.agoda.net/property/6993923/0/cfec4233efacf3694ee4160163b6a29a.jpeg?ce=2",
+      "https://pix8.agoda.net/property/6993923/0/d3330cbc0aa46710ca1ad76f16a2b7e7.jpeg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/287327249.jpg?k=77ec1b63843018ff9ccca0a8a3d7501985648633a6117ed48ab7cf129f9a3110&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/287327225.jpg?k=403629f223e926a5bf05229010887130c7f0203b0e080f299aeb0a03ab70fd55&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/287326386.jpg?k=51451eabd24db5978e76d5767dc2c50bebe51a827e4541b3dd9c49b9ec33ae96&o=",
+      "https://pix8.agoda.net/hotelImages/699/6993923/6993923_19042120160073875720.jpg?ca=8&ce=1"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 9652.11,
+      "displayPrice": 2822.81,
+      "discountPercent": "71%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 677.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 6,
+    "bookingActivity": {
+      "count": 17,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/citadel-hotel-by-vinnca/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 61381090,
+    "name": "Ginger Hyderabad, Airport Road",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Rajiv Gandhi International Airport",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 137
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/61381090/0/fdea6392c8553dd94b7aad97f07653dc.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/61381090/0/b64de124d2d5b3e4077139c5e573aa5a.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/61381090/0/6ae2b26dea78ade9d57c078ed7f84594.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/61381090/0/e35005d1747e949b27355cd7eaf6bfab.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/603482075.jpg?k=a1d1e6d768ba1063b333cea08e4f90736fc250215b3f1ea916a3daf76dacaf71&o=",
+      "https://pix8.agoda.net/hotelImages/61381090/0/28d85b0711a38388e13343369cf41a03.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/61381090/0/c13d5307ff7bf8100f8536057b33ca7d.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/61381090/0/dcf9b656a26ab0534cc580aadd23faba.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/61381090/0/3be184dfbc72d6a7815cd19301164096.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/61381090/0/64e2cb874cc6a4128ef1aa71e2fe4489.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 4899,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 14,
+    "bookingActivity": {
+      "count": 6,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/clarks-inn-suites-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 63152252,
+    "name": "Casa Hotel, Jubilee Hills",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Jubliee Hill",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.2,
+      "count": 250
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/63152252/984316295/3edec91ba0c309e16e97df2d9fe26c9f.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/984316295/600642e8aa776a9ac7f7b0e5d86e06b7.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/7355c35a9753c12a10d85eb2b7c30a75.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/354d8c34a34618405efc730703c64272.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/4742082db4fa761b935bb4fd267b10b7.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/a928f0e81e20f06fcfbb6e824307471d.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/46e983e237440b8d3cb6ff4a615fc81d.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/924fce89f4839819f61aec18084ad2c0.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/0/bc0cc23d300ebbe5b8faf38e2a7e561a.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63152252/989880729/51b4b310c392d192316905cd423185a0.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5030.09,
+      "displayPrice": 1749.65,
+      "discountPercent": "65%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 39,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/oyo-rooms-jubilee-hills_4/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 294119,
+    "name": "Vivanta Hyderabad, Begumpet",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Begumpet",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.7,
+      "count": 614
+    },
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/43310573.jpg?k=93ec9e816da66c93a336d9ba91cccbbc602e3abf187c06cceeb6bf1f3b334923&o=",
+      "https://pix8.agoda.net/property/56141412/1286507074/272c9728d6a1db4dfe4c180ff18c7dba.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/43200661.jpg?k=395e353a46731085c355a5d09603b9a41478785434c2fa0c91dbee136c9b86fc&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/43201859.jpg?k=48a346d7b10cc8ab2c891225031562a8aba172fc8730e02aff09e8cfe0a7580e&o=",
+      "https://pix8.agoda.net/hotelImages/294/294119/294119_15081816200034518358.jpg?ca=5&ce=1",
+      "https://pix8.agoda.net/hotelImages/5673424/0/d05cbb76663717ae8ca179daf051ccb3.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/43200996.jpg?k=37f581dac40998dea29f728d264dc8d272cffaec7ad8c9f381c2a07f6022585a&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/821892865.jpg?k=c78f9974f028d479370ad81967f2226477f84793ac41ba46caacdd3f377b8116&o=",
+      "https://pix8.agoda.net/hotelImages/5673424/0/4869d431a8810c067ef3e3f5143e8507.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/821891342.jpg?k=598c6b249c0643d09dec449f41141220f06cb9f6e410cf236a20eec2924d1561&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 7700,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 6,
+    "bookingActivity": {
+      "count": 0,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/vivanta-hyderabad-begumpet/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 241516,
+    "name": "Hotel Daspalla",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.3,
+      "count": 1220
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/241516/0/46a8ff8e71f6682420060ae8d2d0b47b.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/166711140.jpg?k=e13df0ff77ea194d5ab3ecc8bb578e6588157d1cf46374b14d11319d0c9a0049&o=",
+      "https://pix8.agoda.net/hotelImages/241/241516/241516_16031215360040710745.jpg?ca=6&ce=1",
+      "https://pix8.agoda.net/hotelImages/241516/0/4affbe49d5190f51e1dc4a57504e4d6f.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/241516/0/e1d5454adc982737ec4c8aff61f9a5b0.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/126184993.jpg?k=f04b4ac769ac19f475ed9e155d43d0d7e7389dd606b4512591f54dafb4710c82&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/166711151.jpg?k=5980dd2943987f1fde7c29f85a0ca172a8dca131a1c70bf62fd5c6ccb74de3bc&o=",
+      "https://pix8.agoda.net/hotelImages/241516/0/4a49e751138d2884dd1accc4f4a13a54.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/148560956.jpg?k=22eb5212ee928e8fa20c6b4b8d09c7c74ef89d0984ac2b2b043c97a2168759be&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/14129760.jpg?k=f016aff95153be926b202c09228719656cd64a158c41c16648ef12c51ee7be18&o="
+    ],
+    "price": {
+      "currency": null,
+      "crossedOutPrice": null,
+      "displayPrice": null,
+      "discountPercent": null
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": null,
+    "onlyXLeft": null,
+    "bookingActivity": {
+      "count": 4,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": null,
+    "propertyPage": "https://www.agoda.com/en-in/hotel-daspalla/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 4503815,
+    "name": "Deccan Serai Hotel",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.3,
+      "count": 1434
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/4503815/0/c699661fd3a2fc6d02a01689c64b8267.jpeg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/584589379.jpg?k=4a6e1bc94902a6a83cbc5a3f171e03757e0044cf7158dac4d89b689f2dcd0c21&o=",
+      "https://pix8.agoda.net/hotelImages/38045968/0/5d764bbc3827c438dcc408183d64b77b.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/130782264.jpg?k=52c775f0afff511d52eb2ca43dc7ae142735f5aa2d62f3dd19584e4e9482e0ee&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/130782274.jpg?k=9b342a61f2c8bc7e6472a163601f26bf012db4ec18e8843a7abc649efbb4bfb5&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/584589507.jpg?k=23a30a88129a4ffc44397b816a148d1829038e8b54a0dea3e4e19947ab618588&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/130782267.jpg?k=adcca5a4dd397f62fbf526127ccc48bb5cb60cb0dc2a94759751223e8e20b235&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/130790681.jpg?k=20581b50d4290ebaf536dad7033cd96256ea9325992808885696613de5f2d02c&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/79067257.jpg?k=0165f9c60e76cf1b10d53fbc8c2c5ddd3689b18c207db689572a640f4218ffaa&o=",
+      "https://pix8.agoda.net/hotelImages/38045968/0/e32618de473277fc0ae7f83bda9df3a1.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 13346.09,
+      "displayPrice": 8573.9,
+      "discountPercent": "36%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1066.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 4,
+    "bookingActivity": {
+      "count": 4,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/deccan-serai-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 5835271,
+    "name": "Holiday Inn Express Hyderabad Banjara Hills By IHG",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7,
+      "count": 2248
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/5835271/-1/8b9a9137f4348e2c3aec419fca4bf15f.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/7154626/1153935291/4e2f7b94d8b67e72eca71088110e134e.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/7154626/0/1e69b913cfadfd3ff6e3f552bc1d6078.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/7154626/0/bc484ed9abb36a67a223f19ec58abe6e.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/766157786.jpg?k=599d1bcdab9033e8cd4bc9c48eb3a423bfbe7f5f2ff73169edae30717eb7e44f&o=",
+      "https://pix8.agoda.net/hotelImages/7154626/0/f6a05e9af046b9f1efd23859120009d1.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/766157804.jpg?k=26275407fb97b48f7f5323c761a36e01bafe634038ef659adc7f38a575f4f0e9&o=",
+      "https://pix8.agoda.net/hotelImages/5835271/-1/957634b1e8c00335b70d9eb670138323.jpg?ca=11&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/234759308.jpg?k=ac7a7522356308b717b66e97ce053f9b22bad576e50e8a305a3f1bf08b02ce98&o=",
+      "https://pix8.agoda.net/hotelImages/7154626/0/c8d4fcd79211d1bc1fbe1e64fc9958c8.jpeg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 11098.51,
+      "displayPrice": 3559,
+      "discountPercent": "61%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 9,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/holiday-inn-express-hyderabad-banjara-hills/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 89398,
+    "name": "Hyderabad Marriott Hotel & Convention Centre",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Indira Park",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.6,
+      "count": 630
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/89398/-1/7acfecc4537174cecc2d33346e18f826.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/5105341/995613092/c95605f6f60088d9fb93046116a2c3e5.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/5105341/0/a4c8dabc6aca1ff485708c72ceb33c5d.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5105341/0/6b6be20cb26c023c8072338672e37e68.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5105341/0/e4666295f4b48d45e01da0240dd8e29b.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/475467708.jpg?k=ab70878e17af9354c9fb9d462902536e570e5fedbb78ca2df964f496e1a5ddf0&o=",
+      "https://pix8.agoda.net/hotelImages/5105341/0/55ccd4e229bee1dbe8f6019ef0d4665f.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5105341/1016659033/2912f7bbb0779c59f258a9cd30fa03bd.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/5105341/0/a2d61ebf6b5ff010be02b3c232286057.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5105341/0/1d06f2a4a8140159b6aacd3f11a6b99a.jpeg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 23141.1,
+      "displayPrice": 7000,
+      "discountPercent": "70%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "SuperSaver",
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 5,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hyderabad-marriott-hotel-convention-centre/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 65721822,
+    "name": "GRAND CONTINENT HOTEL GACHIBOWLI US CONSULATE",
+    "starRating": 0,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.5,
+      "count": 248
+    },
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/646824994.jpg?k=27272a2be9b92ab172fb9cc4a5fd434ff8f7442afc1bbbbb9d3d06710dc7f99e&o=",
+      "https://pix8.agoda.net/hotelImages/65721822/0/0f85a899664baa58851ce8d0e6bfdf52.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/681708982.jpg?k=977fe786dad7c55393fbf4f2cf6bc7ca85a7b9a7af62254d1a582a77a2b01678&o=",
+      "https://pix8.agoda.net/hotelImages/65721822/0/43eb94ae80168e03a38966383df8df4c.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/65721822/0/58262db1598ed6dcc4d91eaecc9f0c20.jpg?ce=0",
+      "https://pix8.agoda.net/property/67780142/0/1f2dfb30cec68069e3b51aa68fb03ad8.jpeg?ce=2",
+      "https://pix8.agoda.net/hotelImages/65721822/0/f1769ab16420607f194d1e1f7b388f51.jpg?ce=0",
+      "https://pix8.agoda.net/property/67780142/0/724a9b1190a100085ace6d06bdc5f458.jpeg?ce=2",
+      "https://pix8.agoda.net/hotelImages/65721822/0/d2535585e2b6468514560377da87c3ab.jpg?ce=0",
+      "https://pix8.agoda.net/property/67780142/0/9c26efa1cc8e517288723c06ad91a41a.jpeg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5700,
+      "displayPrice": 3100.51,
+      "discountPercent": "42%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 499.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 19,
+    "bookingActivity": {
+      "count": 6,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/grand-continent-hotel-us-consulate/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 335523,
+    "name": "The Purple Leaf Hotels",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Secunderabad",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.7,
+      "count": 1648
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/335523/0/e7f859407d63fa4df19503ce17d9cffb.jpeg",
+      "https://pix8.agoda.net/hotelImages/335523/3448096/2d0da12de62db28a0b7f804cb30fd49a.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/335523/-1/12b668f9859583acb7487639de80f670.jpg?ca=10&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/54639474.jpg?k=f986fc5e2872aea5ff0bebfbc70a4c8bc68f6f584b74f0672e5ef4bb36588456&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/39060783.jpg?k=794000068dacb4b7234e03ea2bd1cc618eb4b138280c6ee800b1c0b938cbc8a1&o=",
+      "https://pix8.agoda.net/hotelImages/335523/-1/8a760d5c629c4d7050c1f40d581625f5.jpg?ca=10&ce=1",
+      "https://pix8.agoda.net/hotelImages/335523/-1/7a480c14ec8f9255db4ed896e13c3a2f.jpg?ca=10&ce=1",
+      "https://pix8.agoda.net/hotelImages/335523/-1/ae9b804ea5c312911d90c965de4f699b.jpg?ca=10&ce=1",
+      "https://pix8.agoda.net/hotelImages/335523/-1/68f455c2b9829efd391506e797a4055c.jpg?ca=10&ce=1",
+      "https://pix8.agoda.net/hotelImages/335523/3448096/0e5d037251ff1ddc54244a13edfa6b62.jpeg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5550.83,
+      "displayPrice": 2900.2,
+      "discountPercent": "48%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 407.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 12,
+    "bookingActivity": {
+      "count": 15,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-purple-leaf-hotels/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 86719296,
+    "name": "Yellow Sapphire Hotel DLF Cyber City",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 9.1,
+      "count": 36
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/86719296/0/5f57f28b539c712edd1ab0ad0a0f2042.png?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/858778997.jpg?k=f0b81b474687fdff460f31264709e89860b94e28603a6103802277c5f870b6f8&o=",
+      "https://pix8.agoda.net/hotelImages/86719296/0/c95b5160c427cd5f784c39fcc4f13334.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/858781734.jpg?k=a77503ef8c824cf44b12356d7867423d5636273ce07eb7b23a3c0051bcbea29d&o=",
+      "https://pix8.agoda.net/hotelImages/86719296/0/2eec78c3a01dc343e5100a4c21679e4a.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/86719296/0/6ac0ad0e3fae3b56a144c70d1b810f23.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/858781719.jpg?k=480314c2df2f73392e3176aca7e2d8784b03b16bf467b74a94425fc99402b2b0&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/858781709.jpg?k=d87e8e17c02809b05647254178c5a8891b87cd93ec1c759bfa5d4b52f608e7ce&o=",
+      "https://pix8.agoda.net/hotelImages/86719296/0/a1048576f013580076629e9b4f454af3.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/86719296/1358882318/9b952fa983fea035c00b26773bfb0c32.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 4205.98,
+      "displayPrice": 2736.09,
+      "discountPercent": "35%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 264.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 10,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/yellow-sapphire-hotel-dlf-cyber-city/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 72584336,
+    "name": "Elysium Studio Suites",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.9,
+      "count": 267
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/72584336/0/e5c32f5b87b06f6202fcb370bb0b2ec0.png?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/723302526.jpg?k=1a58bc1f2e818f17e36f64a48987c9453b15e3156596e788fcbdc4e8391d2b04&o=",
+      "https://pix8.agoda.net/hotelImages/72584336/0/be44fc35400deec9803040f1ec7f0ad6.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/723300726.jpg?k=e684b481a4cb171b36950603003e0d6ae2f4c0c6014d943cc952b3a59994bf93&o=",
+      "https://pix8.agoda.net/hotelImages/72584336/0/0ec2eedba71ea71bf2dfe911fd1954f5.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/723301695.jpg?k=a678c0e96d1404c75ca6a7120aae621a848c3118a7fdbd63fc85d90513a6d24b&o=",
+      "https://pix8.agoda.net/hotelImages/72584336/0/39f912ffe7dfc00dbea7e0c60659bf27.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72584336/0/a5212928c18db94013fb6c7349a85160.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72584336/0/8cb92228fc5cc313439cbfb64acb84f0.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72584336/1142416379/b8c462490d869012c4f8f4b00fdd625d.jpg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 2539.39,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 129.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 10,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "NonRefundable",
+    "propertyPage": "https://www.agoda.com/en-in/elysium-suites/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 344317,
+    "name": "Radisson Blu Plaza Hotel Hyderabad Banjara Hills",
+    "starRating": 4.5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.2,
+      "count": 1018
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/9455132/0/03d73b3b7a164d05a364445bab451b27.jpg?ca=12&ce=1",
+      "https://pix8.agoda.net/hotelImages/9455132/354984327/3d81fbe22386a97650be7f4ac05875ce.jpg?ca=20&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/199250968.jpg?k=f807322203cf84254514f645a5777831c198fc1ab5de57b0dc5ea71c04cfb9ff&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/199236641.jpg?k=7e9aadfde291b08bd2b180d4a40f6c192555a5a79a7fc9621a7d1e74e7c0cb9d&o=",
+      "https://pix8.agoda.net/hotelImages/344/344317/344317_15012616160024836250.jpg?ca=3&ce=1",
+      "https://pix8.agoda.net/hotelImages/344/344317/344317_13080916500014215631.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/344/344317/344317_15012713480024859909.jpg?ca=3&ce=1",
+      "https://pix8.agoda.net/hotelImages/9455132/116375489/1677eb16eb4095f44b3316f38c70df97.jpg?ca=13&ce=1",
+      "https://pix8.agoda.net/hotelImages/9455132/0/40bcd00dd93dc8aa281907f1c8c39107.jpg?ca=9&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/199236599.jpg?k=239c571122735fc017938bc10ce874b9b49de5c3e1acf036a5120ba01281ce72&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 20049.47,
+      "displayPrice": 7962.5,
+      "discountPercent": "58%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 9,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "NonRefundable",
+    "propertyPage": "https://www.agoda.com/en-in/radisson-blu-plaza-hotel-hyderabad-banjara-hills/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 173206,
+    "name": "Courtyard by Marriott Hyderabad",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Indira Park",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.6,
+      "count": 359
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/5106460/1154062590/f4191643b1151fb4b4ec4213f5ea8c51.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5106460/1154062590/caec288071ca2ffd7a792d3baf09db21.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/173206/-1/45a18eb1fef7ac99b307b4abf978c1bb.jpg?ca=7&ce=1",
+      "https://pix8.agoda.net/hotelImages/5106460/0/09df7a49fb96ecdb3e744ede860fbf67.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5106460/0/11bd4fe581fad78ce5dd10dfe4ca2f43.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/643492492.jpg?k=0b8ad43066fae4e7604a86ef9fcc3fab6e38ced96784f4160071f421b82a30c0&o=",
+      "https://pix8.agoda.net/hotelImages/5106460/0/e7dd942bfa31a84ee82f094a78fccd63.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/793114872.jpg?k=3a1738dd980c4d1f221baad9468ef18ac05d92faecad9ca7eaa39ffb604e1a2e&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/887073191.jpg?k=e77321a1d562def0d7d4759b16443d194e101032d0ccf0b8b619642f2dcd0f17&o=",
+      "https://pix8.agoda.net/hotelImages/173/173206/173206_14041519240019082355.jpg?ca=2&ce=1"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 11127.42,
+      "displayPrice": 6000,
+      "discountPercent": "46%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 5,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/courtyard-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 9365578,
+    "name": "iStay Hotels Hitec City Hyderabad",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 651
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19081418540079285383.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19081617370079512836.jpg?ca=13&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/621288909.jpg?k=9451e09609445bfd299d92c85ae5e9f1b3c5309a93da11a029dbc47d539f652e&o=",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082020380079731211.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082022130079737972.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082022130079737964.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082020380079731207.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19081617490079513866.jpg?ca=13&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082022130079737975.jpg?ca=9&ce=1",
+      "https://pix8.agoda.net/hotelImages/936/9365578/9365578_19082022130079737971.jpg?ca=9&ce=1"
+    ],
+    "price": {
+      "currency": null,
+      "crossedOutPrice": null,
+      "displayPrice": null,
+      "discountPercent": null
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": null,
+    "onlyXLeft": null,
+    "bookingActivity": {
+      "count": 9,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": null,
+    "propertyPage": "https://www.agoda.com/en-in/istay-hotels-hitec-city-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 89059885,
+    "name": "Treebo Saffron Suites, Near Financial District & US Consulate",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.5,
+      "count": 2
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/89059885/0/b5c1eb64bc6bf4e046763b8620c90a30.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/d613b22a97a0f028f5f17132b161759f.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/ed0765aeb80e6fb3030dae7b2e608e15.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/672b21fa3ef2e381fb6726cc541820cb.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/186390f8420c14a3af7cce1dcd5ab5a9.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/88072c6b60edfab8729d42b37f460657.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/fb7dc008e0cc85f930809be34b0bdf4c.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/232cd9bf9ac6202f930bde46be30164a.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/23b1c5a61eadf996ae87f202ae5f0869.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/89059885/0/c6c36534097291a17ca4b1d0ce0fac3e.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 4578,
+      "displayPrice": 1762.53,
+      "discountPercent": "62%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 24,
+    "bookingActivity": {
+      "count": 1,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/treebo-saffron-suites-h89059885/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 64584337,
+    "name": "The Leela Hyderabad Banjara Hills",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 9,
+      "count": 181
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/51056987/0/00d34212f9dc1a9c78495ea6de185a7b.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/64584337/1014244295/db76757fde0b61dd5c7abc57695b6795.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/51056987/0/2255cebb3a5bfa9f8b9e77df7ef033fe.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/51056987/0/8010fc909ea383c17b00f0d73a3db13e.jpeg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/625123141.jpg?k=1ea04dbddc19fd4ab8648f0386efbeae4aef01aaabd86ffc68599798f909a09d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/625125604.jpg?k=448593413089a161dbfd8c2b7edc618a9aaf78599f5ca3f1009bf3479375d47e&o=",
+      "https://pix8.agoda.net/hotelImages/64584337/0/3292f8a8450bc5dd11996f9bc2432723.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/64584337/1014244083/cf6b12d2577afaa5b581194403effa04.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/51056987/0/28fc05c424df14bd6a72497657bd1653.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/51056987/0/20f3eb980d568cf0d4e6c5c6f756593d.jpeg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 27145.96,
+      "displayPrice": 18500,
+      "discountPercent": "32%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 6,
+    "bookingActivity": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-leela-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 5500129,
+    "name": "Holiday Inn Express Hyderabad Hitec City By IHG",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.1,
+      "count": 2154
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/5500129/-1/1a77d77ddf9422b802c0f3395d600edb.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/7192671/995523671/428791ca13662da832fd073259e52fb4.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/7192671/0/842fc96260a51595315be09b1a8742cb.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/7192671/0/e12ae649337ed82601700a58b3f61170.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/7192671/0/3b5865e7699dd732c5b0fbca293eff08.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/234072701.jpg?k=1b03044324b2d53c96f1740f858ef3c9c207d900a2162b5559dc1cddfc297ebd&o=",
+      "https://pix8.agoda.net/hotelImages/7192671/0/9dc12603a7ee316552e64f1fd36a23f6.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/5500129/-1/a699dc9f30c14b8f0f19cd1b53f5303b.jpg?ca=11&ce=1",
+      "https://pix8.agoda.net/hotelImages/7192671/0/c5c568b18a3608d81c1b019a93a22a01.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/7192671/0/b18ed1c07dc574314e4f77589cafa452.jpeg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 11123.71,
+      "displayPrice": 5466.5,
+      "discountPercent": "46%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 1,
+    "bookingActivity": {
+      "count": 10,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/holiday-inn-express-hyderabad-hitec-city/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 72047090,
+    "name": "Trunk and Trolley, Financial District, A Luxury Boutique Hotel",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.4,
+      "count": 252
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/72047090/0/547b8159823b1a0b3cfb8abe1987d4ed.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72047090/0/cdd9b7e58757d0cc38618716fc9b48f3.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72047090/0/7b1a8acb5f265688e26db26a0b7f46b4.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72047090/0/4b106e2f68772a09c2245ad898548a55.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/702487273.jpg?k=8fb03c115348f90fbd55929dd2e53c3e1af1852784e355996e4d58f08f470e30&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/702487500.jpg?k=446fc0ca5f9c0839cb17a552c18a89b26df47fc1dd7c93fbb81b1bac5769ca0c&o=",
+      "https://pix8.agoda.net/hotelImages/72047090/0/56e19af2f8c5dd189643fe079d577ee9.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/702487586.jpg?k=d5956fcd4278b990cb109514f917e5e0cedf795730e1f931dc1a12985a54be3b&o=",
+      "https://pix8.agoda.net/hotelImages/72047090/0/b669b7dc40a9174e1bfd5f48efb61f9d.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/72047090/0/4e6f9f8a6fa10e90da1691d40d380b14.jpg?ce=2"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5509.42,
+      "displayPrice": 4559.52,
+      "discountPercent": "17%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 46,
+    "bookingActivity": {
+      "count": 5,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/trunk-trolley-a-luxury-boutique-hotel-gachibowli/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 52114985,
+    "name": "Swanotel Gachibowli",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.3,
+      "count": 1096
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/52114985/0/545e7c546a98e34a1579bb0a4ce3b008.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/535506879.jpg?k=ef989b37d241ee7d9568cee57f2a97ba88843f86f269b5da48a9bd67a383e94f&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538062000.jpg?k=35ad9f39cc3b85cd5bfcfaa167a714af4cf7856e024e58a3932f2e5f59ceca8a&o=",
+      "https://pix8.agoda.net/property/52114985/0/762a23f45c44f22c3781f52c9cc8e413.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538062358.jpg?k=7fbdef2776d6c786a728076cd28c646ea3ab46e3b7ae70948e8ec4afb7bf1957&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538062125.jpg?k=741306ad678809e9100df97719a7fa836914eaed542bf37a90260fafa3783708&o=",
+      "https://pix8.agoda.net/property/57414957/0/43bdf443f5acd349e3f327c82338148b.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538046584.jpg?k=01789a36a8acd38bbcb008b243de3adab204520fc9f63cc7217474c377fed85d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/630970324.jpg?k=46703ceddc21344430af6fd1aa32a71f2a7d36e619a85f4c661e4953095d6872&o=",
+      "https://pix8.agoda.net/hotelImages/52114985/-1/ae32408a0f5265f811138915a8dcf57b.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 8913.15,
+      "displayPrice": 2897.36,
+      "discountPercent": "67%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 943.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 1,
+    "bookingActivity": {
+      "count": 8,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/swanotel-gachibowli/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 110363,
+    "name": "The Golkonda Hotel",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.8,
+      "count": 1489
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/110/110363/110363_14021719310018365355.jpg?ca=2&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/397048973.jpg?k=94c4d1da54fe326518fdedb3111974d4f7c8828ece5243aed1a6a196b62eeb01&o=",
+      "https://pix8.agoda.net/hotelImages/10557763/0/09c16a47eef2bf3520dbad13979d55c1.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/10557763/0/37ee66b1df8de623a1fc72b36ab8c04c.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/10557763/0/bc46327d3f0082d61e70c98b1054db34.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/10557763/0/56de496af290859fb0d8b5c1e8fba836.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/10557763/0/c63c3eeea1b27851c4874b2e9c9260a3.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/377739837.jpg?k=87be7fd59ec89b594488c590640f759992325d5cd14a64ba547b0bae6b57736d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/536418384.jpg?k=a6613d5091274f3e170919c5a60cf86488cf56c1bc21c6e430e94a76686f3f6d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/15010257.jpg?k=cb639b79e9c5c7ab2c861024876d0ab257e00808ddf72d72e782cc5a80a5027c&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 18266.69,
+      "displayPrice": 6600,
+      "discountPercent": "64%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "SuperSaver",
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 26,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-golkonda-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 43812,
+    "name": "Amrutha Castle Hotel",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Abids",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 5.5,
+      "count": 513
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/43812/0/b18d505d82697fa35b7742a770808286.jpeg?ce=0",
+      "https://pix8.agoda.net/property/43812/0/c0cb1b4625cd845b68b7e07db065088c.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/43812/0/d910ad75dc5323e722a87d1fcc0582f6.jpeg",
+      "https://pix8.agoda.net/hotelImages/43812/0/8b8a5c7f57211c0e90c7a92f7fa06164.jpeg?ce=0",
+      "https://pix8.agoda.net/property/43812/0/80b17d1b95ee0c826743c60302704975.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/43812/0/d9d218189817df13b5fa8e0318e71ec6.jpeg",
+      "https://pix8.agoda.net/hotelImages/43812/0/9c6a0bfe6e1ae8177bed7a0e0f74020d.jpeg",
+      "https://pix8.agoda.net/hotelImages/43812/0/a47462e8aa52f5b9058a21f87a4588c3.jpeg",
+      "https://pix8.agoda.net/property/43812/0/a864565c8326611b46251da3546d09b9.jpeg?ce=0",
+      "https://pix8.agoda.net/property/41523114/1312485904/0751848656c7791de368572dc4d65a51.jpeg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5000,
+      "displayPrice": 2390.77,
+      "discountPercent": "52%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 459.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 4,
+    "bookingActivity": {
+      "count": 6,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/amrutha-castle-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 81214057,
+    "name": "RCC Hotels Gachibowli",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.6,
+      "count": 748
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/81214057/0/d015fb85f408223d761ee14ca9027e11.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/81214057/1320502896/a67c1ed5da9dad930fd66b2c66ab3c40.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783392872.jpg?k=752333c62d4b822d30266eaa173bc749e658286825ef467b35db644a65241528&o=",
+      "https://pix8.agoda.net/hotelImages/81214057/0/ab3063bbb9f6a6784d2858efbea77f73.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783388618.jpg?k=1f5c00f7752e85f7233984445cbe3aa085d75dad7f4e8634c539a5066c7efde2&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783392789.jpg?k=9f130885730c64219cf03af51843142a5b0eb67da2b30ed212dc8e74aa0a74ac&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783392775.jpg?k=043095126e4aa3adc8d21e71a8ac6a1d09cc53c3862859d2caf67db8d75ebbb3&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783388671.jpg?k=0c8755f928f0438f04859654ff41d74ad67cb313e88385a2cf9a37084e0ff4fe&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783379274.jpg?k=58b1b12ab5361847c5f7343d66dbb2cb75340df597ae8ef03de1d3790e58c867&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/783379195.jpg?k=985ba068709082181c23a5c1396221a196b426c9eb6d17ea0e90f31adf51e550&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5000,
+      "displayPrice": 2470.01,
+      "discountPercent": "51%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1130.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 24,
+    "bookingActivity": {
+      "count": 14,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/rcc-hotels-gachibowli/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 75331014,
+    "name": "Western Banjara",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.1,
+      "count": 22
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/75331014/0/22d5e3f536670f31164842d0727973be.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/691700348.jpg?k=dae1168c9001db30aa0ba47fac34c8a4a3be6c8b2427e1316e096530b6035034&o=",
+      "https://pix8.agoda.net/hotelImages/75331014/0/b96f8cdb1632d10e5f4296c0b9ea7f78.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/691701423.jpg?k=87741e2a38789cdc3533e016eccfa1d5136bf33537c1e8166fdc67d600a48c07&o=",
+      "https://pix8.agoda.net/hotelImages/75331014/0/1f20a9157fe7db54aa682d92779f74c5.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/75331014/0/e08000d08ac307f5361624e3bb9347f8.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/691699699.jpg?k=771cc1bad684eacb72606857bf34542ff61945d0473b16f5e00bcb9d57effd33&o=",
+      "https://pix8.agoda.net/hotelImages/75331014/0/18bec9a756347fc95ae203b808bc5860.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/75331014/0/32e0d038de12ce41083060556f937c3f.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/75331014/1171892594/19edc22ce05396dd3605d6157263b0bf.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 2663.07,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 532.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 3,
+    "bookingActivity": {
+      "count": 9,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "NonRefundable",
+    "propertyPage": "https://www.agoda.com/en-in/western-banjara/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 49449220,
+    "name": "The Hoften Eastin Hotel, Hyderabad",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8,
+      "count": 791
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/49449220/0/1ecc2d89447f41e049cc904e71488bf0.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/778045191/61ff86af206edccd836f3d760ba6b138.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/49449220/0/d739168fd81169484ea10a8462d05044.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/0/9c6c2d7ad2b6a996d6333ab9b36530e5.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/-1/b6f52d032a7740aaa11c7b83df3744c8.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/49449220/0/8465ee5b556c7323f8a5ef5e327af0cc.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/0/23b43f10766a0fcabbb110ee12548764.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/0/51e1cfd28a5ed9a3295eb7d8f9597f29.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/0/ec7e1cc3ada41d2ee334b9d44ecb2150.jpg?ce=2",
+      "https://pix8.agoda.net/hotelImages/49449220/930733571/d327afadcba4a4069a563158a6ccaa38.jpg?ce=2"
+    ],
+    "price": {
+      "currency": null,
+      "crossedOutPrice": null,
+      "displayPrice": null,
+      "discountPercent": null
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": null,
+    "onlyXLeft": null,
+    "bookingActivity": {
+      "count": 0,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": null,
+    "propertyPage": "https://www.agoda.com/en-in/eastin-hotels/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 111373,
+    "name": "Taj Tristar",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Secunderabad",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.8,
+      "count": 1371
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/111/111373/111373_16082323370045749014.jpg?ca=6&ce=1",
+      "https://pix8.agoda.net/hotelImages/111373/3203465/ca00f339ca6fffcb023a5919921ca615.jpeg",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/27723970.jpg?k=dc27460eab2045316c61d2b02922faa2f674389fe752d9a248d21376004adea1&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/23838820.jpg?k=614e2b71fd5320bdda71a527a65a00b404bd5451097780c99634d8267a68b736&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/27723653.jpg?k=bb99884e0a2b2a2de4b0ba345c52c2191a2d3343f8e16819e1779158a1db6d37&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/77826828.jpg?k=fd1f74c5d7e6dc49f06b7fceafbbd3644916e3c4e8f005627ae796e5987f183e&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/77826633.jpg?k=b94ce529b970f1d10e18c3d9bc79d94bdd5c9a3a1cdf7006be9c62be78617578&o=",
+      "https://pix8.agoda.net/hotelImages/111373/0/96b02844417a1e1190fa90d120962dd5.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/111/111373/111373_16082323370045749023.jpg?ca=6&ce=1",
+      "https://pix8.agoda.net/hotelImages/111373/9441437/808a2bb6dd71b39f8221c670b9757783.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 6942.87,
+      "displayPrice": 3406.92,
+      "discountPercent": "51%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 11,
+    "bookingActivity": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/taj-tristar/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 29850015,
+    "name": "The Landmark Banjara Hills",
+    "starRating": 3.5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.9,
+      "count": 1260
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/298/29850015/29850015_220129150700110842387.jpg",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/478429245.jpg?k=fadec96de26fb37ecaa9fb92216acafc47af04d8c6313bbcf7b50f750c2a1f5c&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/382859245.jpg?k=52ca1a07fbc9fd67781228c0cc23db27ffa529e6caf57d29adb3f56a613850b3&o=",
+      "https://pix8.agoda.net/hotelImages/29850015/-1/0391134b5ee9017b815b867060c79322.jpg?ca=26&ce=0",
+      "https://pix8.agoda.net/hotelImages/29850015/-1/180de71bbec158d2f80446ba7fefd9f1.jpg?ca=26&ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/382859216.jpg?k=07b70d6c1464f71bc3163d54f8f59c47674ac3fa9b1f8229046ec9be1933d748&o=",
+      "https://pix8.agoda.net/hotelImages/29850015/-1/fb16f999d7c9df3ca3e4be76f6d60266.jpg?ca=26&ce=0",
+      "https://pix8.agoda.net/hotelImages/298/29850015/29850015_220129160300110843217.jpg",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/382859243.jpg?k=09c2b48ff97286e2bbac322dc30cd99b4a6b6a72be56907b1fa930745c8d71e9&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/755647952.jpg?k=868e970c55ed10cede31427e312b92a4ed276afef9f7b5e3882b32540ddaea86&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 5389.33,
+      "displayPrice": 2146.3,
+      "discountPercent": "60%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 454.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 33,
+    "bookingActivity": {
+      "count": 7,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/the-landmark-banjara-hills/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 62101562,
+    "name": "Hotel Kyzen Smart Stays - Hitec City ",
+    "starRating": 1,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.4,
+      "count": 18
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/62101562/0/362ca52f6223856a4066d157e54b5727.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/967046308/f325969fcab2def541ecebc7a35f1a15.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/0/caa81c9dd1fc6b17ac7aa4897ad5ac59.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/0/564526b2747786e93b245442f1ac4b6a.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/0/13cbab640d4c92cf8fe8312eff22d3f8.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/0/f0934e00bf0cb9a010da88ed28574186.png?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/616874138.jpg?k=ba46b68d53e33f0ce61e962eedd5f71606a21c07aa653a4563486370b976f309&o=",
+      "https://pix8.agoda.net/hotelImages/62101562/0/d19e4f9002b0253af88cd3e15ab5a3db.png?ce=3",
+      "https://pix8.agoda.net/hotelImages/62101562/0/21864c4a4f23b7ecaab43124e0490d36.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/62101562/967046346/7e272b9986339f71d6d2c10250118093.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 2557.2,
+      "displayPrice": 2215.2,
+      "discountPercent": "13%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 1509.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 33,
+    "bookingActivity": {
+      "count": 5,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/kyzen-smart-stays/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 77009272,
+    "name": "LUSHVISTAS Serviced Apartment",
+    "starRating": 4,
+    "propertyType": "NonHotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.7,
+      "count": 12
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/77009272/0/3266ab6216b66b061d563ae5cef984cc.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633836.jpg?k=eac8a6dddf6b9e6024a6ffc1f6979a912c9c7e8a4b4dd225f97f465b8cceaf4d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633830.jpg?k=bd088e0c1c32d49ff98be5f7d22b93264e64ab8839581d42047f3b5ff73ab561&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633845.jpg?k=d1f9443299385003f46d09aa09fdac4d7b41d0533d1b631ed817d53396686c93&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/731803970.jpg?k=0c8d9ae43a9c946064c960b76c62904561ecf810aedc809c60c91526368a6c06&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633822.jpg?k=488188a1eb4df8341a9dff20a71510ab9a67dfb1f3bf1188d5a1ae15e28980ba&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633837.jpg?k=1182123a831eebb7a16cb18d37c4d39156054b4ac36a2df5696f5a2d17805e93&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633847.jpg?k=d0b5aee8ec1d5fed6b65e5616be132a8ee263a45d8a57f10346a3aa25afe1030&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/732633840.jpg?k=ee4234a6fba1e28aecdb772aa8a45b55b3784520c3b1edc0ab77c8cffb640cca&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/731805035.jpg?k=3d508bbc5d0e9699e8e03df8c62240f953d06f8b4d56985f0c76914afafb753d&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 2224,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 176.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 7,
+    "bookingActivity": {
+      "count": 0,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/lushvistas-serviced-apartment/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 992,
+    "name": "Taj Krishna, Hyderabad",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Banjara Hills",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.7,
+      "count": 435
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/992/0/073f3a2de9c7abb93851a772e8fc592f.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/992/991242990/4d7a9052c80215957244a9823a4db799.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/0/e5e3aaf24800d7ccbcb02ea4b73e9954.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/0/5380ddb8da70f1c8cc606b5a97e349fc.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/0/20e18587a8cc44c7797c28d50d8d1c6f.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/4880007/0/201a8a815d8c8b0754887323cd3b23ee.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/0/4124fcb789fd56f120a7bf428ce5ae48.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/991242992/9c1a47752f3636beee43f52a4d1f95a1.jpg?ce=3",
+      "https://pix8.agoda.net/hotelImages/992/0/e9201e268da8a1b26eef0900ddeed8cc.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/992/0/be0a5db7c4666cff1c058f2c9dc4be98.jpg?ce=3"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 11050,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 77,
+    "bookingActivity": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/taj-krishna-hotel/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 4949755,
+    "name": "ITC Kohenur, a Luxury Collection Hotel, Hyderabad",
+    "starRating": 5,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Madhapur",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.6,
+      "count": 388
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/4949755/-1/5be59ea902d55e0b7cfb3fd377854429.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/38061200/1332129969/9f7e003e326c0c7be02bbc018a95eaf3.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/4949755/-1/b5f8097c6e8d376a504440b211ddfcd6.jpg?ca=0&ce=1",
+      "https://pix8.agoda.net/hotelImages/38061200/0/45b5b52cb5ab7f8a4898d0eb03d5d162.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/38061200/0/d7ca7305c2039f344370280d6eed91c1.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/578692984.jpg?k=7228b42c984bcfd67effce92ebc80c968a77f01d1b44e44adbc905ed39c76514&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/677628234.jpg?k=3f95697fe5ac47d3da9c1f9c87912f7ac1ea3145aa7791754c91112ca51dfc38&o=",
+      "https://pix8.agoda.net/hotelImages/38061200/1332129961/106ff24e59f0e1a400a83b0a8b106197.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/38061200/0/79fa4588efdc59a46cc5bedb1b889d21.jpeg?ce=3",
+      "https://pix8.agoda.net/hotelImages/4949755/-1/0456335ea80bbda0026bdc8d6eda1f24.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 0,
+      "displayPrice": 14400,
+      "discountPercent": "0%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 5,
+    "bookingActivity": {
+      "count": 2,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/itc-kohenur-a-luxury-collection-hotel-hyderabad/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 63998273,
+    "name": "SID Royale",
+    "starRating": 5,
+    "propertyType": "NonHotel",
+    "address": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 8.4,
+      "count": 102
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/63998273/-1/d52a6ad9cb4920e38fd54b7b1f638748.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/63998273/995978219/0369bc22e28eae72103ddcdedc1793a0.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/714582308.jpg?k=fb42a59f24ebb8ba3e0e7ec085782db93f5729421e9bc37900bef3e34c454c19&o=",
+      "https://pix8.agoda.net/hotelImages/63998273/0/7ff0dbff8f6dd8df8e5d643a4191da2c.jpg?ce=2",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/702973246.jpg?k=2786015e1f436fe4aaeac61f6d44236d1b1b23a13aecb8052190a2bd5a0a52a0&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/633091261.jpg?k=bd4f1b0bad83eb22de32d99725aa216dee8692750d2a56c9e29ad388d5e6cb34&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/639509048.jpg?k=b80fec0a4edd32e8940c7ea6bea3bfa6e36e788af42b1f9069964b3f1ee9df0b&o=",
+      "https://pix8.agoda.net/hotelImages/63998273/995984616/0c635e1cb3200bcbe6293d99bc51b066.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/639507334.jpg?k=cc098486d0ae950e17c5a96aeb1970b6d1c517ad35fbda9ecbed5da3c660195d&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/613102993.jpg?k=f3a9742c1dbe3eb0c5f3ef6220c41f9ac1b26b585357ae2af3500baf58ed19ab&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 2471.32,
+      "displayPrice": 1754.47,
+      "discountPercent": "29%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 520.0
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 3,
+    "bookingActivity": {
+      "count": 3,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/sid-royale/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 186766,
+    "name": "Hotel Royalton Hyderabad Abids",
+    "starRating": 4,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Abids",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.5,
+      "count": 2299
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/186766/0/49e4064f0b7bce66ea1806d35589f252.jpeg?ce=0",
+      "https://pix8.agoda.net/hotelImages/186/186766/186766_16121519290049705170.jpg?ca=13&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/29151544.jpg?k=144296521169f417d18bd1df3b4ca55df9d46a42dc3093424c9974a6437086fb&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/212073692.jpg?k=ec4958e588460426fd10ab531deddd685e5c4f458deee9af127da4b6234cf3a5&o=",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/80328545.jpg?k=dd494371e1ec94ff736694400ecebf0ba97e17bbc7ec85b2258d288fac54fd87&o=",
+      "https://pix8.agoda.net/hotelImages/186766/-1/5ac2c3c249111b495776dfe48717c8b1.jpg?ca=0&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/29151978.jpg?k=ae185e2b659dd82e58d2db351f09b4c9a827c8af5c5b2afb7dc1833e843520db&o=",
+      "https://pix8.agoda.net/hotelImages/186/186766/186766_20031313570089364292.jpg?ca=10&ce=1",
+      "https://pix8.agoda.net/hotelImages/186/186766/186766_15013018330024971192.jpg?ca=3&ce=1",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/212073698.jpg?k=65a8918b463cb37b8dc7e1ba0ab18295b02cd732a94fcdd5596e1478aaac5e4e&o="
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 7929.19,
+      "displayPrice": 3421.88,
+      "discountPercent": "57%"
+    },
+    "coupon": {
+      "code": "WEEKENDSALE",
+      "amountOff": 678.0
+    },
+    "badges": [
+      "WeekendDeal"
+    ],
+    "soldOut": false,
+    "onlyXLeft": 25,
+    "bookingActivity": {
+      "count": 15,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/hotel-royalton-hyderabad-abids/hotel/hyderabad-in.html"
+  },
+  {
+    "propertyId": 781236,
+    "name": "Grand Continent Secunderabad  A Sarovar Portico Affiliate Hotel",
+    "starRating": 3,
+    "propertyType": "Hotel",
+    "address": {
+      "area": "Secunderabad",
+      "city": "Hyderabad"
+    },
+    "review": {
+      "score": 7.5,
+      "count": 181
+    },
+    "images": [
+      "https://pix8.agoda.net/hotelImages/781236/0/13fead0c274722045247dbfa9a203470.jpg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/536769239.jpg?k=0b6331c3f8a899a24623744f59cbc6eadd4f2ced8174b8cd3c59e85273dbe8d2&o=",
+      "https://pix8.agoda.net/property/781236/0/dfcfc04f64d3091258ca3979d5989ef8.jpeg?ce=3",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538335918.jpg?k=370e20ae38912ff8c823ec7406c898ca9a408a69d0519e76c427d89de90b63f3&o=",
+      "https://pix8.agoda.net/hotelImages/781236/-1/cc698ff2d7acc4951300e155cc8210ad.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/781236/-1/94e965b131f6752ab7a84796d1263468.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/781236/-1/379765efbaf535517b438b200a5dabbf.jpg?ce=0",
+      "https://q-xx.bstatic.com/xdata/images/hotel/max500/538335907.jpg?k=ba8989445fd6684901580b33d546afc15b88f7d3964ae3be06778cf089e13264&o=",
+      "https://pix8.agoda.net/hotelImages/781236/-1/e1d82e84b17eea8de63fe763074aae2b.jpg?ce=0",
+      "https://pix8.agoda.net/hotelImages/781236/-1/f59a811b13b71c899bba1ca5c6a590d6.jpg?ce=0"
+    ],
+    "price": {
+      "currency": "INR",
+      "crossedOutPrice": 6084.17,
+      "displayPrice": 4235.5,
+      "discountPercent": "27%"
+    },
+    "coupon": {
+      "code": null,
+      "amountOff": null
+    },
+    "badges": [],
+    "soldOut": false,
+    "onlyXLeft": 12,
+    "bookingActivity": {
+      "count": 1,
+      "timeFrame": "PastTwentyFourHours"
+    },
+    "freeCancellation": "FreeCancellation",
+    "propertyPage": "https://www.agoda.com/en-in/time-square-hotel/hotel/hyderabad-in.html"
+  }
+]
