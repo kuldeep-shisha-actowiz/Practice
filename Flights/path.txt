@@ -1,0 +1,34 @@
+j[0].s[0].segKeyArr  #first find that key and if get only key then flight is non-stop and if get 2 keys then only 1 stops then like that count stops of flight and also add key to one variable for further process 
+
+ j[0].s[0].segKeyArr #there more detail in s[0] change indexes length of s list  
+
+
+
+{
+        "total_stops": j[0].s[0].segKeyArr #len of segkeyarr if len=1 then flight is nonstop if not then get data like that "1 stop" , "2 stop" ,
+
+	# we already store segkeyarr to variable and find if any key match with       [ dctFltDtl[1].LegKey ] that path then extract flight detail from that extract every flight detail when segkeyarr are available for all key 
+        "flight_details": [
+            {
+                "flight_id": dctFltDtl[0].AC + dctFltDtl[0].FN   # merge both path both  value in string,
+                "flight_name": dctFltDtl[0].FlightName,
+                "day": dctFltDtl[0].ADT  #date in "Mon-01Jun2026" extract only day in form of monday,
+                "date": dctFltDtl[0].ADT  #date in "Mon-01Jun2026" extract only date,
+
+                "departure_city": dctFltDtl[0].OG  # in that data get like that "DEL" and i want from only value {"DEL": "New Delhi"} and that data in  that path   [ A  ] and A is dictionary,
+                "departure_time":dctFltDtl[0].DTM,
+                "departure_terminal": dctFltDtl[0].DTER   # in that data in form of "1"  and i want data "Terminal - 1" ,
+                "arrival_city": dctFltDtl[0].DT # in that data get like that "DEL" and i want from only value {"DEL": "New Delhi"} and that data in  that path   [ A  ] and A is dictionary,
+                "arrival_time": dctFltDtl[0].ATM,
+                "arrival_temrinal":dctFltDtl[0].ATER  # in that data in form of "2"  and i want data in form of "Terminal - 2" ,
+                "time_duration": dctFltDtl[0].DUR   #,
+                "flight_class": dctFltDtl[0].CB
+            },
+            
+        ],
+        "flight_information": {
+            "total_base_far": j[0].s[0].AP,
+            "tax": j[0].s[0].APT,
+            "total": j[0].s[0].PT,
+        }
+    }

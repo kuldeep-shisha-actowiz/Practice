@@ -1,32 +1,51 @@
 import re
 import json
 
-
 # ---------------------------
 # PATH PARSER
 # ---------------------------
 def parse_path(path):
     tokens = []
-    parts = path.split(".")
+    i = 0
 
-    for part in parts:
-        while part:
-            # key name
-            m = re.match(r"([^\[\]]+)", part)
-            if m:
-                tokens.append(m.group(1))
-                part = part[m.end():]
+    while i < len(path):
 
-            # [index] or [*]
-            m = re.match(r"\[(\d+|\*)\]", part)
-            if m:
-                val = m.group(1)
-                tokens.append("*" if val == "*" else int(val))
-                part = part[m.end():]
+        # Skip dots
+        if path[i] == ".":
+            i += 1
+            continue
+
+        # Normal key
+        if path[i] != "[":
+            j = i
+            while j < len(path) and path[j] not in ".[":
+                j += 1
+            tokens.append(path[i:j])
+            i = j
+            continue
+
+        # Inside brackets
+        if path[i] == "[":
+            j = path.find("]", i)
+            content = path[i + 1:j].strip()
+
+            # ['key'] or ["key"]
+            if (
+                (content.startswith("'") and content.endswith("'"))
+                or
+                (content.startswith('"') and content.endswith('"'))
+            ):
+                tokens.append(content[1:-1])
+
+            elif content == "*":
+                tokens.append("*")
+
+            else:
+                tokens.append(int(content))
+
+            i = j + 1
 
     return tokens
-
-
 # ---------------------------
 # CORE EXTRACTOR
 # ---------------------------
@@ -87,7 +106,6 @@ def extract(data, path, safe=False):
 
     return walk(data, tokens)
 
-
 # ---------------------------
 # JSON LOADER
 # ---------------------------
@@ -99,27 +117,61 @@ def read_json_file(file_path):
         print(f"Error reading JSON file: {e}")
         return None
 
-data=read_json_file(r'D:\Practice\Flights\easemytrip.json')
+js1=read_json_file(r'D:\Practice\gorgez\gorgez_6720.json')
+js2=read_json_file(r'D:\Practice\gorgez\traits.json')
 
-leg=extract(data,'j[0].s[*].segKeyArr')
-City=extract(data,'A')
+def get_traits(js2):
+    traits = []
+    attributes = extract(js2, "data.itemByIdentifier.attributes")
 
-data1={
-        "total_stops": f"{len(extract(data,'j[0].s[0].segKeyArr'))-1} Stops",
-        "flight_details": [
-            {
-                "flight_id": f"{extract(data,'dctFltDtl[0].AC')}{extract(data,'dctFltDtl[0].FN')}",
-                "flight_name": extract(data,'dctFltDtl[0].FlightName'),
-                "day": extract(data,'dctFltDtl[0].ADT')[:3],
-                "date": extract(data,'dctFltDtl[0].ADT')[4:],
-                "departure_city": City.get(f"{extract(data,'dctFltDtl[0].OG')}"),
-                "departure_time": extract(data,'dctFltDtl[0].DTM'),
-                "departure_terminal": extract(data,'dctFltDtl[0].DTER'),
-                "arrival_city":City.get(f"{extract(data,'dctFltDtl[0].DT')}"),
-                "arrival_time": extract(data,'dctFltDtl[0].ATM'),
-                "arrival_terminal": extract(data,'dctFltDtl[0].ATER'),
-                "time_duration": extract(data,'dctFltDtl[0].DUR'),
-                "flight_class": extract(data,'dctFltDtl[0].CB')
-            }
-        ]}
-print(data1)
+    for i in range(len(attributes)):
+        trait = {
+            "trait_type": extract(js2, f"data.itemByIdentifier.attributes[{i}].traitType"),
+            "value": extract(js2, f"data.itemByIdentifier.attributes[{i}].value"),
+            "count": extract(js2, f"data.itemByIdentifier.attributes[{i}].stats.itemCount"),
+            "percentage": extract(js2, f"data.itemByIdentifier.attributes[{i}].stats.percent"),
+            "floor_price": extract(js2, f"data.itemByIdentifier.attributes[{i}].floorPrice.usd", safe=True)
+        }
+        traits.append(trait)
+
+    return traits
+
+
+
+
+Data1= {
+   "item_title": extract(js1, "rehydrate['-14034333087'].data.itemByIdentifier.name"),
+    "collection_name": extract(js1, "rehydrate['-14034333087'].data.itemByIdentifier.collection.name"),
+    "owner_username": extract(js1, "rehydrate['-14034333087'].data.itemByIdentifier.collection.owner.displayName"),
+    "token_number": extract(js1, "rehydrate['-14034333087'].data.itemByIdentifier.tokenId"),
+
+    # --- Pricing & Market Valuation ---
+    "market_data": [{
+        "top_offer": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.bestOffer.pricePerItem.token.unit"),           # Highest active WETH bid placeholder amount
+        "collection_floor": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.collection.floorPrice.pricePerItem.token.unit"),    # Minimum entry floor price metric baseline
+        "rarity_rank": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.rarity.rank"),         # Numeric global rarity index ordering placement
+        "last_sale_price": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.lastSale.token.unit"),     # Final closed marketplace transaction price
+        "buy_now_price_eth": None, # Current direct immediate purchase listing price in ETH
+        "buy_now_price_usd": None, # Estimated fiat USD equivalent valuation index
+        "listing_expiration": None   # Timeframe deadline window flag for current listing
+    }],
+
+    # --- Generative Properties & Traits ---
+    "traits":get_traits(js2)  ,
+
+    # --- Project Context & Origin ---
+    "about":[ {
+        "description": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.description"),         # Textual collection baseline contextual background
+        "creator_username": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.name")     # Primary collection smart contract deployer target handle
+    }],
+
+    # --- Ledger & Blockchain Specifications ---
+    "blockchain_details": [{
+        "contract_address": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.contractAddress"),    # Ethereum hexadecimal mainnet deployment address
+        "token_id": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.tokenId"),            # Specific asset identifier tag index matching network token
+        "token_standard": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.standard"),      # Network asset interface standard (e.g., 'ERC721-C')
+        "chain": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.collection.chain.name"),               # Native settlement network layer host platform name ('Ethereum')
+        "metadata_status": extract(js1,"rehydrate['-14034333087'].data.itemByIdentifier.metadataStorageLabel")      # Decentralization hosting infrastructure status flag
+    }]
+}
+print(json.dumps(Data1,indent=4))

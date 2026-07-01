@@ -1,0 +1,135 @@
+{
+    "data": {
+        "itemByIdentifier": {
+            "__typename": "Item",
+            "id": "312dd8f34cbb3995b6f57d242b55a9a8",
+            "attributes": [
+                {
+                    "traitType": "Background",
+                    "value": "Soft Blue",
+                    "__typename": "StaticItemAttributeType",
+                    "isNumericTrait": false,
+                    "floorPrice": {
+                        "native": {
+                            "unit": 0.04,
+                            "__typename": "TokenPrice"
+                        },
+                        "usd": 62.6988,
+                        "token": {
+                            "unit": 0.04,
+                            "symbol": "ETH",
+                            "contractAddress": "0x0000000000000000000000000000000000000000",
+                            "chain": {
+                                "identifier": "ethereum",
+                                "__typename": "Chain"
+                            },
+                            "__typename": "TokenPrice"
+                        },
+                        "__typename": "Price"
+                    },
+                    "stats": {
+                        "itemCount": 987,
+                        "percent": 0.11,
+                        "__typename": "ItemAttributeStats"
+                    },
+                    "topOfferPrice": {
+                        "native": {
+                            "unit": 0.0356,
+                            "__typename": "TokenPrice"
+                        },
+                        "usd": 0.0,
+                        "token": {
+                            "unit": 0.0356,
+                            "symbol": "",
+                            "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                            "chain": {
+                                "identifier": "ethereum",
+                                "__typename": "Chain"
+                            },
+                            "__typename": "TokenPrice"
+                        },
+                        "__typename": "Price"
+                    }
+                },
+                {
+                    "traitType": "Bones",
+                    "value": "Tilsit",
+                    "__typename": "StaticItemAttributeType",
+                    "isNumericTrait": false,
+                    "floorPrice": {
+                        "native": {
+                            "unit": 0.045,
+                            "__typename": "TokenPrice"
+                        },
+                        "usd": 70.53614999999999,
+                        "token": {
+                            "unit": 0.045,
+                            "symbol": "ETH",
+                            "contractAddress": "0x0000000000000000000000000000000000000000",
+                            "chain": {
+                                "identifier": "ethereum",
+                                "__typename": "Chain"
+                            },
+                            "__typename": "TokenPrice"
+                        },
+                        "__typename": "Price"
+                    },
+                    "stats": {
+                        "itemCount": 213,
+                        "percent": 0.02,
+                        "__typename": "ItemAttributeStats"
+                    },
+                    "topOfferPrice": null
+                },
+                {
+                    "traitType": "Hat and Hair",
+                    "value": "Fro Brown",
+                    "__typename": "StaticItemAttributeType",
+                    "isNumericTrait": false,
+                    "floorPrice": {
+                        "native": {
+                            "unit": 0.042,
+                            "__typename": "TokenPrice"
+                        },
+                        "usd": 65.83374,
+                        "token": {
+                            "unit": 0.042,
+                            "symbol": "ETH",
+                            "contractAddress": "0x0000000000000000000000000000000000000000",
+                            "chain": {
+                                "identifier": "ethereum",
+                                "__typename": "Chain"
+                            },
+                            "__typename": "TokenPrice"
+                        },
+                        "__typename": "Price"
+                    },
+                    "stats": {
+                        "itemCount": 186,
+                        "percent": 0.02,
+                        "__typename": "ItemAttributeStats"
+                    },
+                    "topOfferPrice": null
+                }
+            ],
+            "collection": {
+                "slug": "gorgez",
+                "isPlaceholderCollection": false,
+                "flags": {
+                    "isRarityDisabled": false,
+                    "__typename": "CollectionFlags"
+                },
+                "__typename": "Collection"
+            }
+        }
+    },
+    "extensions": {
+        "debugInfo": {
+            "additionalInformation": {
+                "cache-control": "public, max-age=2, stale-while-revalidate=3",
+                "x-trace-id": "981e85f81aee89764c0fe01343695ce1",
+                "x-ratelimit-remaining": 399
+            }
+        }
+    }
+}

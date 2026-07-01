@@ -1,0 +1,3350 @@
+{
+    "usedCarDetails": {
+        "carInfo": {
+            "data": {
+                "profileId": "D7024098",
+                "stockId": "ud3j2bx3",
+                "price": "8.25 Lakh",
+                "color": "Silver",
+                "kilometers": "22,000",
+                "fuelName": "Diesel",
+                "additionalFuelName": "",
+                "transmissionType": "Manual - 6 Gears",
+                "sellerId": 1,
+                "insurance": "Comprehensive",
+                "insuranceExpiry": "04 Feb 2027",
+                "interiorColor": "",
+                "insuranceLink": "/insurance/?car=5905&reg=yyyy-MM-dd&utm=musedcarspage&cityId=128",
+                "makeId": 9,
+                "makeName": "Mahindra",
+                "makeMaskingName": "mahindra",
+                "modelName": "Marazzo [2018-2020]",
+                "versionName": "M4 7 STR",
+                "mainImageUrl": "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164503.jpg?qp=80&fit=true",
+                "photoCount": 21,
+                "makeYear": "2019",
+                "makeMonth": "Jan",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "cityId": 128,
+                "noOfOwners": "First",
+                "registerCity": "Not Available",
+                "carAvailbaleAt": "Makarba, Ahmedabad",
+                "lastUpdatedDate": "2 day(s) ago",
+                "totalPhotosUploaded": 0,
+                "similarCarsUrl": "/api/used/v3/stocks/ud3j2bx3/similarcars",
+                "cwBasePackageId": 6,
+                "ctePackageId": 146,
+                "modelId": 1098,
+                "versionId": 5905,
+                "registrationNumber": "GJ01HZ6809",
+                "regType": "Individual",
+                "priceNumeric": "825000",
+                "isCertified": false,
+                "videoUrl": "https://www.youtube.com/watch?v=bDPRaK4BYxQ",
+                "modelMaskingName": "marazzo-2018-2020",
+                "rootName": "Marazzo",
+                "bodyStyleId": "6",
+                "isSellCarOfferAvailable": false,
+                "allowBooking": false,
+                "virtualPhoneNumber": "7045756026",
+                "emiPrice": "14,848",
+                "isHomeTestDrive": false,
+                "vendorDetails": {
+                    "vendor": 0,
+                    "vendorStockId": ""
+                },
+                "dealerRecoType": 0,
+                "homeTestDriveSlug": {
+                    "titlePrefix": "Take Free",
+                    "title": "Home Test Drive",
+                    "subtitle": "Contact the Seller Now",
+                    "fee": 0,
+                    "testDriveAvailable": true
+                },
+                "registrationDate": "02/22/2019 00:00:00",
+                "formattedRegistrationDate": "Feb 2019",
+                "fuelEconomy": "Not Available",
+                "dealershipLogoUrl": "https://d9qgigtestb1c.cloudfront.net/thumbs/p-certprog-ver1/certprogs_images/jollymotors_1531485596741.jpg",
+                "isSold": false,
+                "dealerId": "1758",
+                "dealerReviews": [],
+                "isLuxuryCar": false,
+                "legitimacyStatus": 0,
+                "rootId": 471,
+                "sellerDetailsType": 0,
+                "seoName": "",
+                "isTopVariant": false,
+                "isPremium": false,
+                "isE20Compatible": false
+            },
+            "isFetching": false,
+            "isSuccess": false,
+            "isFailure": false
+        },
+        "inspectionReport": {
+            "inquiryId": 0,
+            "isCertified": false,
+            "isActive": false,
+            "overallScore": 0,
+            "overallScoreColorId": 0,
+            "entryDateTime": "0001-01-01T00:00:00",
+            "isDentMapCreated": false,
+            "description": [],
+            "disclaimerSubText": [],
+            "warrantyType": 0,
+            "warrantyDetails": {
+                "type": 0
+            },
+            "isNewCertification": false,
+            "ratingsBreakdown": {},
+            "tyresPercentage": {}
+        },
+        "isRightPrice": false,
+        "ownersComment": {
+            "sellerNote": "CLEAN TITLE\nEXCELLENCE CONDITION \nSERVICE HISTORY AVAILABLE \nABS:\nPower Windows:\nIntegrated (In-Dash) Music System:\nLeather Seats:\nPower Steering:\nCentral Locking:\nRear AC Vent:\nChild Safety Locks:\nAirbags:\nRear Parking Sensor:\nElectrically Adjustable ORVMs:\nLED Tail Light:\nTilt steering:\nRear Spoiler:",
+            "reasonForSell": "",
+            "specialMessage": "",
+            "modificationComment": ""
+        },
+        "isListingSummaryCityAndAbTestActive": false,
+        "features": [],
+        "specifications": [],
+        "finance": {
+            "isEligibleForFinance": false
+        },
+        "isCarwaleReferrer": false,
+        "dealerStocks": [],
+        "similarCars": [],
+        "imageList": [
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164503.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164653.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164706.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164757.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164826.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164892.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164947.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165002.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165064.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165164.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165256.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165366.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165482.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165587.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722165684.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198112.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198281.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198359.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198437.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198548.jpg?qp=80&fit=true",
+            "https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722198669.jpg?qp=80&fit=true"
+        ],
+        "bestMatchedCars": [],
+        "popularCars": [
+            {
+                "carName": "Mahindra Thar",
+                "minimumPrice": 772012,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/40087/thar-exterior-right-front-three-quarter-38.png?isig=0",
+                "price": "12.15 Lakh",
+                "url": "/used/ahmedabad/mahindra-thar/",
+                "rootName": "Thar",
+                "makeMaskingName": "mahindra",
+                "rootMaskingName": "thar",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 52,
+                "formattedMinPrice": "7.72 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 9,
+                "rootId": 174,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Mahindra XUV 3XO",
+                "minimumPrice": 1000000,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/156405/xuv-3xo-exterior-right-front-three-quarter-33.png?isig=0",
+                "price": "11.69 Lakh",
+                "url": "/used/ahmedabad/mahindra-xuv-3xo/",
+                "rootName": "XUV 3XO",
+                "makeMaskingName": "mahindra",
+                "rootMaskingName": "xuv-3xo",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 6,
+                "formattedMinPrice": "10 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 9,
+                "rootId": 2607,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Mahindra Bolero",
+                "minimumPrice": 300000,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0",
+                "price": "5.92 Lakh",
+                "url": "/used/ahmedabad/mahindra-bolero/",
+                "rootName": "Bolero",
+                "makeMaskingName": "mahindra",
+                "rootMaskingName": "bolero",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 8,
+                "formattedMinPrice": "3 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 9,
+                "rootId": 53,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Tata Nexon",
+                "minimumPrice": 368600,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg",
+                "price": "7.77 Lakh",
+                "url": "/used/ahmedabad/tata-nexon/",
+                "rootName": "Nexon",
+                "makeMaskingName": "tata",
+                "rootMaskingName": "nexon",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 77,
+                "formattedMinPrice": "3.69 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 16,
+                "rootId": 378,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Mahindra Scorpio",
+                "minimumPrice": 225000,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/31883/scorpio-exterior-right-front-three-quarter-2.jpeg",
+                "price": "11.83 Lakh",
+                "url": "/used/ahmedabad/mahindra-scorpio/",
+                "rootName": "Scorpio",
+                "makeMaskingName": "mahindra",
+                "rootMaskingName": "scorpio",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 14,
+                "formattedMinPrice": "2.25 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 9,
+                "rootId": 266,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Hyundai Venue",
+                "minimumPrice": 452600,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/141113/venue-exterior-right-front-three-quarter-19.png?isig=0",
+                "price": "7.48 Lakh",
+                "url": "/used/ahmedabad/hyundai-venue/",
+                "rootName": "Venue",
+                "makeMaskingName": "hyundai",
+                "rootMaskingName": "venue",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 47,
+                "formattedMinPrice": "4.53 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 8,
+                "rootId": 515,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            },
+            {
+                "carName": "Kia Sonet",
+                "minimumPrice": 590000,
+                "mainImageurl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/144185/sonet-exterior-right-front-three-quarter-3.jpeg?isig=0",
+                "price": "8.94 Lakh",
+                "url": "/used/ahmedabad/kia-sonet/",
+                "rootName": "Sonet",
+                "makeMaskingName": "kia",
+                "rootMaskingName": "sonet",
+                "cityMaskingName": "ahmedabad",
+                "cityName": "Ahmedabad",
+                "maximumPrice": 0,
+                "stockCount": 47,
+                "formattedMinPrice": "5.9 Lakh",
+                "formattedMaxPrice": "N/A",
+                "makeId": 70,
+                "rootId": 546,
+                "cityId": 128,
+                "formattedAveragePrice": "N/A"
+            }
+        ],
+        "nearbyCities": [
+            {
+                "Id": 145,
+                "Name": "Vadodara",
+                "MaskingName": "vadodara",
+                "Link": "/used/vadodara/",
+                "Count": 0
+            },
+            {
+                "Id": 141,
+                "Name": "Rajkot",
+                "MaskingName": "rajkot",
+                "Link": "/used/rajkot/",
+                "Count": 0
+            },
+            {
+                "Id": 143,
+                "Name": "Surat",
+                "MaskingName": "surat",
+                "Link": "/used/surat/",
+                "Count": 0
+            }
+        ],
+        "breadcrumbList": [
+            {
+                "title": "Used Cars",
+                "url": "/used/",
+                "text": "Used",
+                "isLink": false
+            },
+            {
+                "title": "Second Hand Cars in Ahmedabad",
+                "url": "/used/ahmedabad/",
+                "text": "Ahmedabad",
+                "isLink": false
+            },
+            {
+                "title": "Second Hand Mahindra Marazzo Cars in Ahmedabad",
+                "url": "/used/ahmedabad/mahindra-marazzo/",
+                "text": "Mahindra Marazzo",
+                "isLink": false
+            },
+            {
+                "title": "M4 7 STR",
+                "url": "",
+                "text": "M4 7 STR",
+                "isLink": false
+            }
+        ],
+        "absureFaqs": [],
+        "priceGuideSlugDetails": {
+            "onRoadPrice": 1299207,
+            "valuationPrice": 784607,
+            "carPrice": 825000,
+            "formattedOnRoadPrice": "Rs. 12.99 Lakh",
+            "formattedValuationPrice": "Rs. 7.85 Lakh",
+            "formattedCarPrice": "Rs. 8.25 Lakh",
+            "title": "Price Guide for Resale Cars",
+            "description": "CarWale AccuPrice guides you with the average listing price for the current vehicle which is derived from thousands of similar vehicle listings in your area on our platform.",
+            "priceType": 2,
+            "priceTypeText": {
+                "greatPrice": "Great Price",
+                "fairPrice": "Fair Price",
+                "highPrice": "High Price",
+                "onRoadPrice": "New car On-Road Price (Last recorded)",
+                "valuationPrice": "Average Market Price"
+            },
+            "mainPoint": "This car has “Fair Price”, which can be due to:",
+            "subPoints": [
+                "Appropriate market pricing of the vehicle",
+                "Average popularity or demand of vehicle"
+            ],
+            "formattedValuationPriceRange": "Rs. 7.06 - 7.85 Lakh"
+        },
+        "dealerBenefitsSlugDetails": {
+            "ctaText": "",
+            "ctaSubText": "",
+            "highlightedText": "",
+            "benefitsTotalQuotation": "",
+            "title": "",
+            "subTitle": "",
+            "freeBenefits": [],
+            "disclaimerText": ""
+        },
+        "sellPremiumOfferings": [],
+        "vehicleType": 0,
+        "seller": {
+            "area": "Makarba",
+            "city": "Ahmedabad",
+            "cityMaskingName": "ahmedabad",
+            "address": "SHOP 1 2, Solitaire Connect, B S MAYUR PANKH HOTEL, Makarba, S.G HIGHWAY, A Ahmedabad, Ahmedabad, Gujarat, 380051",
+            "stateName": "Gujarat",
+            "pincode": "380051",
+            "name": "Jolly Motors",
+            "seoName": "jolly-motors",
+            "isDealerPageAvailable": false,
+            "logo": "https://d9qgigtestb1c.cloudfront.net/thumbs/p-certprog-ver1/certprogs_images/jollymotors_1531485596741.jpg",
+            "description": "",
+            "googleRating": 0,
+            "years": 0,
+            "carsCount": 129,
+            "additionalPackageType": 0
+        },
+        "highlights": [],
+        "interestedLinks": [
+            {
+                "url": "/used/ahmedabad/",
+                "description": "All used cars in Ahmedabad",
+                "title": "Used cars in Ahmedabad - Second hand cars in Ahmedabad"
+            }
+        ],
+        "shouldAddNoIndexAttr": false,
+        "MetaTagFaqs": [],
+        "mightBeInterested": {
+            "stockCount": 4,
+            "minPrice": "4.00 Lakh",
+            "averagePrice": "7.56 Lakh"
+        },
+        "shouldShowInspectionSecondaryLeadFlow": false,
+        "isInspectionActiveCity": false,
+        "keyFeatures": [
+            {
+                "itemValue": "",
+                "itemName": "Manual Air Conditioner (Front AC: Fan speed control, Second row AC: Fan speed control with vents, Third row AC: vents)"
+            },
+            {
+                "itemValue": "",
+                "itemName": "1 x 12V Power Outlet"
+            },
+            {
+                "itemValue": "",
+                "itemName": "Cabin Lamp (Front and Rear)"
+            },
+            {
+                "itemValue": "",
+                "itemName": "Black Finish on Exterior Door Handles"
+            },
+            {
+                "itemValue": "",
+                "itemName": "Front & Rear Power Windows"
+            },
+            {
+                "itemValue": "",
+                "itemName": "4 Speakers"
+            }
+        ],
+        "liveModel": {
+            "id": 1365,
+            "name": "Marazzo",
+            "maskingName": "marazzo",
+            "makeId": 9,
+            "makeName": "Mahindra",
+            "makeMaskingName": "mahindra",
+            "status": 2,
+            "rootId": 471,
+            "imagePath": "/n/cw/ec/49114/marazzo-exterior-right-front-three-quarter-2.png?isig=0",
+            "rootName": "Marazzo",
+            "rootMaskingName": "marazzo",
+            "segmentId": 4
+        },
+        "shouldShowUserReviews": false,
+        "shouldShowDesktopUserReviews": false,
+        "shouldShowUsedCarLoanOfferSlug": false,
+        "shouldShowFinanceInterestSlug": false,
+        "newCarImagePath": "",
+        "specificationsV2": [
+            {
+                "name": "Engine & Transmission",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "484",
+                        "name": "Engine",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines the engine’s size, layout, and supporting systems that affect performance, efficiency, and reliability.",
+                        "tip": "Engine configuration and displacement strongly influence power delivery and fuel efficiency.",
+                        "values": [
+                            "1497 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "1497 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "13",
+                        "name": "Engine Type",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines the engine technology, such as petrol, diesel, hybrid, or electric.",
+                        "tip": "Choose the engine type based on driving needs and fuel preference.",
+                        "values": [
+                            "D15 1.5 Litre"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "D15 1.5 Litre",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "501",
+                        "name": "Turbocharger/ Supercharger",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Uses either exhaust gases (turbocharger) or engine power (supercharger) to boost engine performance.",
+                        "tip": "Boost systems improve acceleration without increasing engine size.",
+                        "values": [
+                            "Turbocharged (Variable Geometry)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Turbocharged (Variable Geometry)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "26",
+                        "name": "Fuel Type",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Indicates whether the vehicle uses petrol, diesel, CNG, electric, or hybrid power.",
+                        "tip": "Select fuel type based on running cost and usage pattern.",
+                        "values": [
+                            "Diesel"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Diesel",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "249",
+                        "name": "Max Power (bhp@rpm)",
+                        "sortOrder": 13,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Shows the maximum power the engine generates and the engine speed at which it is achieved.",
+                        "tip": "Higher power improves acceleration and performance.",
+                        "values": [
+                            "121 bhp @ 3500 rpm"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "121 bhp @ 3500 rpm",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "250",
+                        "name": "Max Torque (Nm@rpm)",
+                        "sortOrder": 14,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Shows the maximum torque output and the engine speed range where it is available.",
+                        "tip": "Higher torque improves pulling power and low-speed performance.",
+                        "values": [
+                            "300 Nm @ 1750 rpm"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "300 Nm @ 1750 rpm",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "34",
+                        "name": "Alternate Fuel",
+                        "sortOrder": 21,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Allows the vehicle to run on an alternative fuel such as CNG or electric mode.",
+                        "tip": "Helps reduce running costs and fuel dependency.",
+                        "values": [
+                            "Not Applicable"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Not Applicable",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "520",
+                        "name": "Emission Standard",
+                        "sortOrder": 25,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Set by the Indian Government, this governs the amount of air pollutants released by cars to make the atmosphere safer for humans.",
+                        "tip": "Higher standards help reduce environmental impact.",
+                        "values": [
+                            "BS 4"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "BS 4",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1706",
+                        "name": "Mileage",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Shows how far the vehicle can travel per unit of fuel under different conditions.",
+                        "tip": "Actual mileage may vary based on driving style and road conditions.",
+                        "values": [
+                            "ARAI: 17.3 kmpl"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "ARAI: 17.3 kmpl",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "273",
+                        "name": "Idle Start/Stop",
+                        "sortOrder": 41,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Shuts off the engine at traffic stops and restarts it when driving resumes to save fuel.",
+                        "tip": "Helps improve fuel efficiency in city driving.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "31",
+                        "name": "Drivetrain",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Cars come with different drivetrain configurations depending on the segment.",
+                        "tip": "Front-wheel drive (FWD) is most common in mainstream cars while expensive cars or SUVs come with rear-wheel drive (RWD) or all-wheel drive (AWD). ",
+                        "values": [
+                            "FWD"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "FWD",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "500",
+                        "name": "Transmission",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Type of transmission used to transfer power from the engine to the wheels ",
+                        "tip": "A manually operated transmission is the most popular type, thanks to its simplicity and low cost. Varied types of automatic transmissions are also available.",
+                        "values": [
+                            "Manual - 6 Gears"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Manual - 6 Gears",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Dimensions & Weight",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1645",
+                        "name": "Length *Width *Height",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Shows the vehicle’s length, width, and height, indicating its size and road presence.",
+                        "tip": "Shows the vehicle’s length, width, and height, indicating its size and road presence.",
+                        "values": [
+                            "4585 mm * 1866 mm * 1774 mm"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "4585 mm * 1866 mm * 1774 mm",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "4",
+                        "name": "Wheelbase",
+                        "sortOrder": 5,
+                        "unitType": "mm",
+                        "dataTypeId": 3,
+                        "description": "The space between the center of the front and rear wheels.",
+                        "tip": "The longer the wheelbase, the more space there is inside the cabin. ",
+                        "values": [
+                            "2760"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "2760",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "6",
+                        "name": "Kerb Weight",
+                        "sortOrder": 15,
+                        "unitType": "kg",
+                        "dataTypeId": 3,
+                        "description": "The total weight of the vehicle with all the standard equipment and all the required fluids.",
+                        "tip": "A lightweight car will always be more efficient and easier to manoeuvre whereas a heavy car would give you a sense of solidity while driving. ",
+                        "values": [
+                            "1680"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "1680",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Capacity",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1589",
+                        "name": "Seating Capacity",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines how many occupants the vehicle is designed to carry comfortably.",
+                        "tip": "Choose seating capacity based on family and usage needs.",
+                        "values": [
+                            "7 Seats and 3 Rows"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "7 Seats and 3 Rows",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "11",
+                        "name": "Doors",
+                        "sortOrder": 14,
+                        "unitType": "Doors",
+                        "dataTypeId": 4,
+                        "description": "The number of doors define the category of car. For example – four door means sedan, two-door means coupe while five-doors usually refer to a hatchback, MPV or an SUV.",
+                        "tip": "",
+                        "values": [
+                            "5"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "5",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1663",
+                        "name": "Bootspace ",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Indicates the luggage capacity of the vehicle under different seat configurations.",
+                        "tip": "Folding seats increases usable boot space for larger items.",
+                        "values": [
+                            "190 L"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "190 L",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "10",
+                        "name": "Fuel Tank Capacity",
+                        "sortOrder": 18,
+                        "unitType": "litres",
+                        "dataTypeId": 3,
+                        "description": "The official volume of the fuel tank of a car, usually denoted in litres.",
+                        "tip": "If a car has a large fuel tank, it can cover long distances without refuelling. ",
+                        "values": [
+                            "45"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "45",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Suspensions, Brakes, Steering & Tyres",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "39",
+                        "name": "Front Suspension",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Absorbs road shocks and helps maintain steering control and comfort.",
+                        "tip": "A well-tuned front suspension improves handling and ride quality.",
+                        "values": [
+                            "Double wishbone with shock absorber and coil spring"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Double wishbone with shock absorber and coil spring",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "40",
+                        "name": "Rear Suspension",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Supports vehicle load and improves ride stability and comfort.",
+                        "tip": "Good rear suspension helps maintain balance on rough roads.",
+                        "values": [
+                            "Rear Twist Beam with coil spring"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Rear Twist Beam with coil spring",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1938",
+                        "name": "Advanced Suspension Features ",
+                        "sortOrder": 0,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "",
+                        "tip": "",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1519",
+                        "name": "Steering",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Allows the driver to steer the vehicle smoothly and accurately.",
+                        "tip": "Allows the driver to steer the vehicle smoothly and accurately.",
+                        "values": [
+                            "Power assisted (Electric) steering"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Power assisted (Electric) steering",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1665",
+                        "name": "Tyres",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines how the tyres are built and what type they are, influencing ride quality, handling, and usage.",
+                        "tip": "Choosing the right tyre type improves safety and driving comfort.",
+                        "values": [
+                            "Radial - Tubeless Tyres"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Radial - Tubeless Tyres",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1667",
+                        "name": "Spare Wheel & Tyre",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Includes details of the spare wheel size, tyre dimensions, and storage position.",
+                        "tip": "A full-size spare offers better usability than a space-saver.",
+                        "values": [
+                            "Steel"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Steel",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "46",
+                        "name": "Minimum Turning Radius",
+                        "sortOrder": 21,
+                        "unitType": "metres",
+                        "dataTypeId": 3,
+                        "description": "The official kerb-to-kerb minimum radius a car takes to complete a 180-degree turn.",
+                        "tip": "Shorter the turning radius, the lesser space you need to make a tight turn or to take a U-turn.",
+                        "values": [
+                            "5.25"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "5.25",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "255",
+                        "name": "Front Tyres",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines the size and proportions of the front tyres, affecting grip, comfort, and handling.",
+                        "tip": "Correct tyre size helps maintain ride quality and steering performance.",
+                        "values": [
+                            " 215 / 65 R16"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": " 215 / 65 R16",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "256",
+                        "name": "Rear Tyres",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines the size and proportions of the rear tyres, affecting traction, comfort, and stability.",
+                        "tip": "Proper rear tyre size helps maintain balance and ride comfort.",
+                        "values": [
+                            "215 / 65 R16"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "215 / 65 R16",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "276",
+                        "name": "Wheels",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Holds the tyres and connects them to the suspension and drivetrain.",
+                        "tip": "Alloy wheels are lighter and improve handling and appearance.",
+                        "values": [
+                            "Steel Rims"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Steel Rims",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            }
+        ],
+        "featuresV2": [
+            {
+                "name": "Exterior",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1601",
+                        "name": "Sunroof ",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "A roof-mounted glass panel that can be fixed or openable",
+                        "tip": "Panoramic sunroofs make the cabin feel more spacious.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1207",
+                        "name": "Spoiler",
+                        "sortOrder": 13,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Rear or roof-mounted spoiler.",
+                        "tip": "Adds sporty styling and slight aero benefit.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "111",
+                        "name": "Roof Rails",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "A set of bars fastened to a car's roof to carry items such as carriers/containers, bicycles and skis",
+                        "tip": "Functional rails carry load; decorative rails are for style.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "107",
+                        "name": "Body-coloured Bumpers",
+                        "sortOrder": 9,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Bumpers matching vehicle colour",
+                        "tip": "Having parking sensors will save your bumper paint if it brushes by obstacles",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "291",
+                        "name": "Rub-strips",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A strip of rubber fitted to the sides of the car's doors or bumpers to prevent dents and dings",
+                        "tip": "Opt for quality strips because the cheaper ones tend to come off too soon/look shabby.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "290",
+                        "name": "Body Kit",
+                        "sortOrder": 18,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Functional or purely aesthetic parts added to the car's body such as side skirts and roof/bonnet scoops",
+                        "tip": "Body-coloured kits look more premium.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1135",
+                        "name": "Antenna",
+                        "sortOrder": 44,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Helps the vehicle maintain communication for audio, GPS, and connected features.",
+                        "tip": "Roof-mounted and shark fin designs offer better signal reception and a cleaner look.",
+                        "values": [
+                            "Roof-Mounted Antenna"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Roof-Mounted Antenna",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Safety",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "643",
+                        "name": "Airbags",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Safety cushions that inflate during a collision to reduce injury and impact to occupants.",
+                        "tip": "More airbags mean wider coverage and greater protection for all passengers.",
+                        "values": [
+                            "2 Airbags (Driver, Front Passenger)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "2 Airbags (Driver, Front Passenger)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "267",
+                        "name": "Tyre Pressure Monitoring System",
+                        "sortOrder": 18,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Monitors tyre pressure in real time and warns the driver if any tyre is under-inflated.",
+                        "tip": "Helps prevent punctures, improves fuel efficiency, and keeps the car stable at high speeds.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1597",
+                        "name": "Second Row Middle Seat Safety",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": " Middle-seat specific safety.",
+                        "tip": " Prefer cars with 3-point middle belt.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "286",
+                        "name": "Child Seat Anchor Points",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Anchor points or strap systems built into car seats to keep child seats in place, especially during a crash",
+                        "tip": "ISOFIX is an international standard for child seat anchor points, but not all car manufacturers follow this standard",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "120",
+                        "name": "Seat Belt Warning",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Mandatory fitment in cars sold in India, emits loud beeps when it detects that occupants are not wearing their seatbelts.",
+                        "tip": "Seat belt warning is mandatory for front-seat occupants, but it is recommended that all occupants wear seat belts.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Comfort & Convenience",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1615",
+                        "name": "Air Conditioner",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "System that cools and regulates cabin temperature.",
+                        "tip": "Multi-zone AC gives separate temperature settings for passengers.",
+                        "values": [
+                            "Manual (Front AC: Fan speed control, Second row AC: Fan speed control with Vents on Roof, Third row AC: Vents on Roof)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Manual (Front AC: Fan speed control, Second row AC: Fan speed control with Vents on Roof, Third row AC: Vents on Roof)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "63",
+                        "name": "Heater",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "This feature allows warm air to pass through the air-con vents for heating the cabin",
+                        "tip": "Useful for defogging windshields in winter.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "210",
+                        "name": "Cruise Control",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A system that automatically controls the speed of the car",
+                        "tip": "",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "227",
+                        "name": "Parking Assist",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A feature that aids drivers park with ease and greater precision using sensors/cameras",
+                        "tip": "It comes as a boon for drivers who are not used to parking in tight spots",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "309",
+                        "name": "Parking Sensors",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Alerts the driver with beeps or warnings when objects are close to the vehicle.",
+                        "tip": "Helps prevent scratches and minor parking damage.",
+                        "values": [
+                            "Rear"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Rear",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "74",
+                        "name": "Steering Adjustment",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A function where the steering wheel moves up/down, in/out as per the driver's requirement",
+                        "tip": "When both rake and reach adjustments are incorporated, it makes for a tailormade driving position",
+                        "values": [
+                            "Tilt"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Tilt",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "71",
+                        "name": "Keyless Start/ Button Start",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "When fitted, this system allows the car to be switched on without removing the key from the driver’s pocket or vicinity. ",
+                        "tip": "Keyless entry and start/stop (KESS) systems in some cars also include operation via a smartphone.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "75",
+                        "name": "Vanity Mirrors on Sun Visors",
+                        "sortOrder": 20,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Small visor-mounted mirrors for daily use.",
+                        "tip": "Versions with light help in low-light conditions.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "238",
+                        "name": "Extendable Sun Visor",
+                        "sortOrder": 22,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "",
+                        "tip": "",
+                        "values": [
+                            "Co-Driver"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Co-Driver",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "70",
+                        "name": "Headlight and Ignition on Reminder",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "An alert that warns one from leaving the car with the headlight and ignition switched on",
+                        "tip": "Prevents battery drain.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1301",
+                        "name": "Charging Ports",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Includes different types of power and USB ports to charge electronic devices.",
+                        "tip": "USB Type-C ports offer faster charging for modern devices.",
+                        "values": [
+                            "1 x 12V Power Outlet"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "1 x 12V Power Outlet",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "310",
+                        "name": "Cabin Boot Access",
+                        "sortOrder": 38,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Allows passengers to reach the luggage area without opening the tailgate.",
+                        "tip": "Useful for quick access while seated inside.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Lighting",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "223",
+                        "name": "Headlights",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Provides visibility at night or in low-light conditions.",
+                        "tip": "LED and projector types offer brighter, clearer vision.",
+                        "values": [
+                            "Halogen"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Halogen",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "216",
+                        "name": "Cornering Headlights",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "These lights turn left and right based on steering inputs to illuminate the sides of the car",
+                        "tip": "Enhances safety on winding roads and sharp turns.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "123",
+                        "name": "Headlight Height Adjuster",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Allows adjustment to the height of the headlight beams via a switch on the dashboard",
+                        "tip": "Adjustable headlight beam level.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "124",
+                        "name": "Automatic Headlamps",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Such headlights automatically switch on and off when they sense bright or dark driving conditions",
+                        "tip": "Useful when entering tunnels or during sudden rain.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "288",
+                        "name": "Taillights",
+                        "sortOrder": 18,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "",
+                        "tip": "LED taillights improve safety.",
+                        "values": [
+                            "LED"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "LED",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "503",
+                        "name": "Daytime Running Lights (DRL)",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Lights that automatically switch on during the day for increased visibility",
+                        "tip": "LED DRLs are brighter and look premium.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "519",
+                        "name": "Fog Lights",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "A type of lamp that improves driver visibility while driving through fog",
+                        "tip": "LED fog lamps offer best clarity.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "128",
+                        "name": "Follow Me Home Headlamps",
+                        "sortOrder": 9,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "The headlamps remain lit for sometime when the car is locked/unlocked to aid user visibility in dark surroundings",
+                        "tip": "Useful in dark parking areas.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1425",
+                        "name": "Interior Lamps",
+                        "sortOrder": 21,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Cabin lighting options.",
+                        "tip": "LED lamps consume less power and shine brighter.",
+                        "values": [
+                            "Front and Rear"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Front and Rear",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "245",
+                        "name": "Puddle Lamps",
+                        "sortOrder": 12,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Under-mirror door area lighting.",
+                        "tip": "Helps avoid stepping in puddles or obstacles at night.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Braking & Traction",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1775",
+                        "name": "Brakes",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Uses braking components on the front and rear wheels to provide safe and controlled stopping power.",
+                        "tip": "Uses braking components on the front and rear wheels to provide safe and controlled stopping power.",
+                        "values": [
+                            "Disc (Front & Rear)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Disc (Front & Rear)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "260",
+                        "name": "Anti-Lock Braking System (ABS)",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "An electronic system that prevents the tyres from locking and skidding in emergency braking situations by pulsing the brakes (quickly releasing and reapplying the brakes)",
+                        "tip": "ABS is a great accident prevention technology, allowing drivers to steer while braking hard",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "56",
+                        "name": "Brake Assist (BA)",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A system that increases brake pressure to help the car stop quicker",
+                        "tip": "Even when emergency braking, it is observed that drivers don’t apply maximum brake pressure through the pedal, the BA system provides additional pressure to help stop the car quicker",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "57",
+                        "name": "Electronic Brake-force Distribution (EBD)",
+                        "sortOrder": 5,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "An electronic system that redirects braking forces among the four brakes to stop the car as quickly and stably as possible",
+                        "tip": "Provides extra braking force in emergencies.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "58",
+                        "name": "Electronic Stability Program (ESP)",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "System designed to improve car stability and control, especially when the car is accelerating.",
+                        "tip": "ESP or ESC cannot increase traction but rather improve control or help regain control in slippery conditions.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "59",
+                        "name": "Traction Control System (TC/TCS)",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "This system cuts power to those wheels that are spinning without grip/traction",
+                        "tip": "Given the option, keep traction control on all the time.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "60",
+                        "name": "Hill Hold Control",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A feature that prevents the car from rolling backwards when stopped on a slope",
+                        "tip": "Holds brakes briefly while moving off uphill.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "217",
+                        "name": "Hill Descent Control",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Automatically controls braking on steep descents.",
+                        "tip": "",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "225",
+                        "name": "Limited Slip Differential",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "This function prevents wheelspin and maximises traction by shuffling torque between wheels",
+                        "tip": "It is also a nifty safety feature since it offers more control over a vehicle's power delivery",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "226",
+                        "name": "Differential Lock",
+                        "sortOrder": 9,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Locking differentials split power/torque evenly among both tyres on an axle.",
+                        "tip": "Useful in extreme off-road conditions.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "280",
+                        "name": "Four-Wheel-Drive",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A system that sends the car's power to all the four wheels at the same time",
+                        "tip": "Improves grip on rough, wet, or slippery roads.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Locks & Security",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "151",
+                        "name": "Engine Immobiliser",
+                        "sortOrder": 14,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A security device that prevents the engine from being started unless the key is present",
+                        "tip": "App-based version adds remote lock control.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "149",
+                        "name": "Central Locking",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "This feature let's one unlock all the doors remotely or with a key",
+                        "tip": "Improves convenience and vehicle security.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "150",
+                        "name": "Child Safety Lock",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Such locks are built into the rear doors to prevent rear seat occupants from opening the doors",
+                        "tip": "Always activate when kids sit in the back.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "153",
+                        "name": "Speed Sensing Door Lock",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Locks all doors after the vehicle reaches a certain speed.",
+                        "tip": "Locks all doors after the vehicle reaches a certain speed",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Doors, Windows, Mirrors & Wipers",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1827",
+                        "name": "Anti-glare ORVMs",
+                        "sortOrder": 24,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "",
+                        "tip": "",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1439",
+                        "name": "Exterior Door ",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Defines the design and finish of the exterior door handles.",
+                        "tip": "Flush or body-coloured handles enhance styling and aerodynamics.",
+                        "values": [
+                            "Black Door Handles Finish"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Black Door Handles Finish",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "240",
+                        "name": "Interior Door Handles Finish",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "",
+                        "tip": "",
+                        "values": [
+                            "Unpainted"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Unpainted",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1677",
+                        "name": "Power Windows",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Allows windows to be controlled using switches, keys, or voice commands.",
+                        "tip": "One-touch and remote features improve convenience and safety.",
+                        "values": [
+                            "Front & Rear Power Windows"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Front & Rear Power Windows",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1445",
+                        "name": "Window Sunshade",
+                        "sortOrder": 23,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Reduces heat and glare inside the cabin by covering the window.",
+                        "tip": "Reduces heat and glare inside the cabin by covering the window.",
+                        "values": [
+                            ""
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "76",
+                        "name": "Door Pockets",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": " Door storage compartments.",
+                        "tip": " Larger pockets can hold 1–2L bottles.",
+                        "values": [
+                            "Front & Rear"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Front & Rear",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "80",
+                        "name": "ORVM (Outside Rear View Mirrors)",
+                        "sortOrder": 15,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Mounted outside the vehicle to improve visibility and driving safety.",
+                        "tip": "Well-adjusted ORVMs reduce blind spots.",
+                        "values": [
+                            "Body-Coloured finish, Turn Indicators on ORVMs"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Body-Coloured finish, Turn Indicators on ORVMs",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "77",
+                        "name": "Adjustable ORVMs",
+                        "sortOrder": 16,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Different ways of adjusting the door mirror to suit the driver's requirement",
+                        "tip": "Tremendously aids driving judgement in a variety of tight situations.",
+                        "values": [
+                            "Electrically Adjustable"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Electrically Adjustable",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "82",
+                        "name": "Rain-sensing Wipers",
+                        "sortOrder": 31,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "When the system detects water droplets on the windshield, it activates the wipers to improve driver visibility",
+                        "tip": "This feature can be intrusive especially while you are negotiating a tricky bend at a higher speed",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "84",
+                        "name": "Rear Wiper",
+                        "sortOrder": 32,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Improves rear visibility during rain or dust conditions.",
+                        "tip": "Especially useful for hatchbacks and SUVs.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "78",
+                        "name": "Boot Opener",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Opening type of the rear boot lid.",
+                        "tip": "Gesture tailgates are useful when hands are full.",
+                        "values": [
+                            "Cabin-Release"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Cabin-Release",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "83",
+                        "name": "Rear Defogger",
+                        "sortOrder": 33,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A feature that removes condensed water droplets from the rear windscreen to improve visibility",
+                        "tip": "Turning air recirculation off helps gain faster results.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Entertainment, Information & Communication",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1391",
+                        "name": "Infotainment Screen",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Includes front and rear display screens used for navigation, media, vehicle info, and passenger entertainment.",
+                        "tip": "Larger screens with higher resolution offer better clarity and usability.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1383",
+                        "name": "Audio System",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Includes speakers, amplifiers, and audio components that define sound quality and output.",
+                        "tip": "Higher speaker count and a subwoofer improve overall audio experience.",
+                        "values": [
+                            "4 Speakers"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "4 Speakers",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "97",
+                        "name": "AM/FM Radio",
+                        "sortOrder": 13,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": " Radio support in infotainment.",
+                        "tip": " Still useful in areas without internet.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "237",
+                        "name": "Steering-Mounted Controls",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "The widely-used controls are placed on the steering wheel to ease driver usage",
+                        "tip": "Keeps hands on wheel; safer driving.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "92",
+                        "name": "Integrated (in-dash) Music System",
+                        "sortOrder": 18,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Factory-fitted music system.",
+                        "tip": "Integrates better with car controls.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "230",
+                        "name": "Bluetooth Compatibility",
+                        "sortOrder": 22,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Enables audio streaming and calls without cables.",
+                        "tip": "Provides easy and quick device pairing.",
+                        "values": [
+                            "Phone Calls & Audio Streaming"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Phone Calls & Audio Streaming",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "621",
+                        "name": "Smart Connectivity",
+                        "sortOrder": 25,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "The ability to connect to the internet and communicate with smart devices to perform various functions",
+                        "tip": "Useful for monitoring and controlling the vehicle remotely.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "318",
+                        "name": "Voice Command",
+                        "sortOrder": 27,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Allows the driver to operate features like calls, music, navigation, or climate using voice input.",
+                        "tip": "Helps keep hands on the steering wheel while driving.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "515",
+                        "name": "Gesture Control",
+                        "sortOrder": 29,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Uses sensors or cameras to recognise hand gestures for operating features like media or infotainment.",
+                        "tip": "Useful for quick control without touching the screen.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1405",
+                        "name": "Input Methods ",
+                        "sortOrder": 30,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Shows the different sources used to play music, videos, or connect devices to the infotainment system.",
+                        "tip": "Multiple input options offer better compatibility with different devices.",
+                        "values": [
+                            "Bluetooth Compatibility (Phone Calls & Audio Streaming), AUX Compatibility"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Bluetooth Compatibility (Phone Calls & Audio Streaming), AUX Compatibility",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "91",
+                        "name": "GPS Navigation System",
+                        "sortOrder": 31,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "On-board navigation system.",
+                        "tip": " Live traffic support is highly recommended.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Seats & Upholstery",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "176",
+                        "name": "Seat Upholstery",
+                        "sortOrder": 9,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "",
+                        "tip": "Seat Upholstery: The fabric or leather finish that gives your seats their comfort, appearance, and character.",
+                        "values": [
+                            "Fabric"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Fabric",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "614",
+                        "name": "Driver Seat Adjustment",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Allows changing seat position for comfort and driving posture.",
+                        "tip": "Proper adjustment improves control and reduces fatigue.",
+                        "values": [
+                            "8 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down, seat height: up / down)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "8 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down, seat height: up / down)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "615",
+                        "name": "Front Passenger Seat Adjustment",
+                        "sortOrder": 4,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Helps passengers set a comfortable seating position.",
+                        "tip": "Improves comfort on long journeys.",
+                        "values": [
+                            "6 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "6 way manually adjustable (seat: forward / back, backrest tilt: forward / back, headrest: up / down)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "617",
+                        "name": "Third Row Seat Adjustment",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Helps optimise seating comfort in multi-row vehicles.",
+                        "tip": "",
+                        "values": [
+                            ""
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "668",
+                        "name": "Fourth Row Seat Adjustment",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Allows limited adjustment for additional seating rows.",
+                        "tip": "Typically used in large people movers or buses.",
+                        "values": [
+                            ""
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1609",
+                        "name": "Ventilated Seats ",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "",
+                        "tip": "",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1673",
+                        "name": "Interior",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Overall look and feel of the cabin.",
+                        "tip": "Well-designed interiors improve comfort and driving experience.",
+                        "values": [
+                            "Dual Tone (Grey and Black)"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Dual Tone (Grey and Black)",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "164",
+                        "name": "Headrests",
+                        "sortOrder": 25,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "The portion extending from or fixed to the seat that supports the head",
+                        "tip": "Proper adjustment improves comfort and safety.",
+                        "values": [
+                            "Front & Rear"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Front & Rear",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "165",
+                        "name": "Front Seatback Pockets",
+                        "sortOrder": 11,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Rear seat storage pockets.",
+                        "tip": "Useful for kids in the back seat.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "161",
+                        "name": "Driver Armrest",
+                        "sortOrder": 32,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "The armrest located between the front passengers which helps comfort the driver's arm while driving",
+                        "tip": "Reduces fatigue on long drives.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "169",
+                        "name": "Rear Armrest",
+                        "sortOrder": 35,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Often includes cup holders for convenience.",
+                        "tip": "Often includes cup holders for convenience.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "172",
+                        "name": "Split Rear Seat",
+                        "sortOrder": 26,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Sections of the rear seat are capable of being folded down separately",
+                        "tip": "This function bumps up practicality as the boot space increases when required.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "163",
+                        "name": "Folding Rear Seat",
+                        "sortOrder": 28,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Some rear seats have the option to be be folded to offer more practicality",
+                        "tip": "Useful for carrying large luggage.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "173",
+                        "name": "Split Third Row Seat",
+                        "sortOrder": 27,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Sections of the third-row seat are capable of being folded down separately",
+                        "tip": "Helpful in multi-row vehicles.",
+                        "values": [
+                            "60:40"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "60:40",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "177",
+                        "name": "Active headrest",
+                        "sortOrder": 28,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "A safety feature that automatically moves the headrest forward during a rear collision to protect the head and neck.",
+                        "tip": "Helps reduce neck injuries and offers better comfort and safety for occupants.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "306",
+                        "name": "Rear Passenger Seat Type",
+                        "sortOrder": 29,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Defines seat design, cushioning, and support.",
+                        "tip": "Comfortable rear seats improve long-distance travel.",
+                        "values": [
+                            "Captain Seats"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Captain Seats",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "307",
+                        "name": "Third Row Seat Type",
+                        "sortOrder": 30,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "This row could either be a bench or a pair of jump/captain seats",
+                        "tip": "When the need arises, the last row can double up as space for luggage.",
+                        "values": [
+                            "Bench"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Bench",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Instrumentation",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1423",
+                        "name": "Fuel Consumption",
+                        "sortOrder": 15,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Fuel consumption data.",
+                        "tip": "Helps adjust driving for better mileage.",
+                        "values": [
+                            "Low Fuel Level Warning"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Low Fuel Level Warning",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "1675",
+                        "name": "Instrument Cluster Screen",
+                        "sortOrder": 1,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Presents key data like speed, warnings, and alerts directly in front of the driver.",
+                        "tip": "Digital clusters improve readability and information clarity.",
+                        "values": [
+                            "Analogue Instrument Cluster"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Analogue Instrument Cluster",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "122",
+                        "name": "Trip Meter",
+                        "sortOrder": 7,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": " Distance counter for trips.",
+                        "tip": "Reset before long trips.",
+                        "values": [
+                            "2 Trips Electronic"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "2 Trips Electronic",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "118",
+                        "name": "Door Ajar Warning",
+                        "sortOrder": 2,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "A warning light that pops up on the instrument cluster when the doors are not shut properly",
+                        "tip": "Important for child safety.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "115",
+                        "name": "Average Speed",
+                        "sortOrder": 20,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "The total distance traveled divided by the time taken to cover that distance",
+                        "tip": "The higher the average speed, the quicker you were on that journey/trip",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "324",
+                        "name": "Heads Up Display (HUD)",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "This function allows specific data like 'speed' to reflect/project on the windscreen in the driver's line-of-sight",
+                        "tip": "Helps keep eyes focused on the road.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "320",
+                        "name": "Tachometer",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "An instrument that measures engine speed in revolutions-per-minute (rpm)",
+                        "tip": "Ideally, the tachometer helps a driver know when to shift gears in a manual gearbox.",
+                        "values": [
+                            "Analogue"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Analogue",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "321",
+                        "name": "Gear Indicator",
+                        "sortOrder": 9,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Displays the current gear position (manual or automatic).",
+                        "tip": "Shows engaged gear.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "322",
+                        "name": "Gear Shift Indicator",
+                        "sortOrder": 10,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Shows engaged gear.",
+                        "tip": "Helps new drivers shift correctly.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "116",
+                        "name": "Clock",
+                        "sortOrder": 8,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": "Time display on cluster. ",
+                        "tip": "Digital is easier to read while driving.",
+                        "values": [
+                            "Digital"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Digital",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Storage",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1435",
+                        "name": "Cup Holders",
+                        "sortOrder": 3,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": " Cup holder availability.",
+                        "tip": "More cup holders improve passenger convenience.",
+                        "values": [
+                            "Cupholders in Front Only"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Cupholders in Front Only",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "198",
+                        "name": "Cooled Glovebox",
+                        "sortOrder": 14,
+                        "unitType": "",
+                        "dataTypeId": 4,
+                        "description": " Air-cooled glove compartment.",
+                        "tip": " Great in summer.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "200",
+                        "name": "Sunglass Holder",
+                        "sortOrder": 16,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Overhead sunglass compartment.",
+                        "tip": "Prevents lens scratches.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "292",
+                        "name": "Driver Armrest Storage",
+                        "sortOrder": 12,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Armrest storage box.",
+                        "tip": "Good for wallets and keys.",
+                        "values": [
+                            "No"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "No",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    },
+                    {
+                        "itemMasterId": "234",
+                        "name": "Third Row Cup Holders",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 2,
+                        "description": "Third-row drink holder.",
+                        "tip": "Important for 7-seater comfort.",
+                        "values": [
+                            "Yes"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Yes",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            },
+            {
+                "name": "Manufacturer Warranty",
+                "id": 0,
+                "sortOrder": 0,
+                "items": [
+                    {
+                        "itemMasterId": "1671",
+                        "name": "Vehicle Warranty",
+                        "sortOrder": 6,
+                        "unitType": "",
+                        "dataTypeId": 5,
+                        "description": "Defines how long and how far the vehicle is covered against manufacturing defects.",
+                        "tip": "Longer warranty coverage reduces ownership worries.",
+                        "values": [
+                            "Not Applicable"
+                        ],
+                        "customTypeId": 0,
+                        "isItemHasAtleastOneValue": true,
+                        "modelImages": [],
+                        "specsImagePaths": [],
+                        "itemValue": "Not Applicable",
+                        "ytShorts": [],
+                        "isDistinct": false
+                    }
+                ],
+                "isCategoryHasAtleastOneValue": true,
+                "categoryYtShorts": []
+            }
+        ],
+        "rootGenMinusOneImageUrl": "/n/cw/ec/26944/marazzo-2018-2020-exterior-right-front-three-quarter-2.jpeg",
+        "model": {
+            "makeId": 9,
+            "makeName": "Mahindra",
+            "subMakeId": 9,
+            "subMakeName": "Mahindra",
+            "fuelTypeId": 0,
+            "defaultVariant": 5904,
+            "topVariant": 0,
+            "confidence": 5,
+            "launchedOn": "09/03/2018 00:00:00",
+            "discontinuedOn": "07/25/2020 00:00:00",
+            "unveiledOn": "",
+            "bodyStyleId": 6,
+            "rootMaskingName": "marazzo",
+            "rootName": "Marazzo",
+            "rootId": 471,
+            "seoName": "",
+            "brochurePath": "",
+            "segmentId": 4,
+            "isElectricVehicle": false,
+            "showFullDate": false,
+            "isBS6Phase2BadgeValid": false,
+            "subStatus": 1,
+            "isBookingCampaignAvailable": false,
+            "showUnveiledOnFullDate": true,
+            "bookingDate": "",
+            "makeMaskingName": "mahindra",
+            "modelId": 1098,
+            "modelName": "Marazzo [2018-2020]",
+            "modelMaskingName": "marazzo-2018-2020",
+            "imagePath": "/n/cw/ec/26944/marazzo-2018-2020-exterior-right-front-three-quarter-2.jpeg",
+            "status": 3,
+            "isFeaturedModel": false
+        },
+        "reasonsToBuy": [
+            {
+                "reason": 4,
+                "value": "1 x 12V Power Outlet"
+            },
+            {
+                "reason": 6,
+                "value": "Verified Seller"
+            }
+        ],
+        "affordableCars": {
+            "viewAllUrl": "/used/ahmedabad/",
+            "stocks": [
+                {
+                    "carName": "Mahindra Marazzo M2 8 STR",
+                    "url": "https://www.carwale.com/used/ahmedabad/mahindra-marazzo/b3ldpyfe/",
+                    "price": "Rs. 4 Lakh",
+                    "priceNumeric": "400000",
+                    "makeYear": "2018",
+                    "mainImageurl": "https://imgd.aeplcdn.com/640X480/vimages/202605/4543977_113509_1_1778156590707.jpg",
+                    "km": "201230",
+                    "fuel": "Diesel",
+                    "profileId": "D6833602",
+                    "stockId": "b3ldpyfe",
+                    "cwBasePackageId": 0,
+                    "isCertified": false,
+                    "cityName": "Ahmedabad",
+                    "transmission": "Manual",
+                    "slicerPriceType": 0,
+                    "certificationScore": 0,
+                    "additionalTags": [
+                        {
+                            "id": 2,
+                            "name": "Great Price"
+                        }
+                    ],
+                    "suggestedPrice": 632771,
+                    "onRoadPrice": 1119096
+                },
+                {
+                    "carName": "Mahindra Marazzo M6 Plus 8 STR [2020]",
+                    "url": "https://www.carwale.com/used/ahmedabad/mahindra-marazzo/pbsahytj/",
+                    "price": "Rs. 8 Lakh",
+                    "priceNumeric": "800000",
+                    "makeYear": "2020",
+                    "mainImageurl": "https://imgd.aeplcdn.com/640X480/image/used/oqby7s16yd30.jpg",
+                    "km": "194000",
+                    "fuel": "Diesel",
+                    "profileId": "S4951610",
+                    "stockId": "pbsahytj",
+                    "cwBasePackageId": 0,
+                    "isCertified": false,
+                    "cityName": "Ahmedabad",
+                    "transmission": "Manual",
+                    "slicerPriceType": 0,
+                    "certificationScore": 0,
+                    "additionalTags": [],
+                    "suggestedPrice": 595000,
+                    "onRoadPrice": 1802631
+                }
+            ]
+        },
+        "shouldShowScrollSpyDesktop": false,
+        "isPricingInfoOnImageCarouselAbTestActive": true,
+        "isFitImagesAbTestActive": true,
+        "shouldShowOverViewPopupV2": true,
+        "isLoans24AbTestActive": false,
+        "metaKeyWords": {
+            "pageTitle": "Used 2019 Mahindra Marazzo [2018-2020] M4 7 STR for sale in Ahmedabad at Rs.8,25,000",
+            "canonical": "https://www.carwale.com/used/ahmedabad/mahindra-marazzo/ud3j2bx3/",
+            "pageSchema": "{\"@context\":\"https://schema.org/\",\"@type\":\"Car\",\"name\":\"Mahindra Marazzo [2018-2020]\",\"brand\":[{\"@type\":\"Brand\",\"name\":\"Mahindra\",\"url\":\"Mahindra\"}],\"model\":\"Marazzo [2018-2020]\",\"mileageFromOdometer\":[{\"@type\":\"QuantitativeValue\",\"value\":22000,\"unitCode\":\"KMT\"}],\"fuelType\":\"Diesel\",\"vehicleTransmission\":\"Manual - 6 Gears\",\"offers\":[{\"@type\":\"Offer\",\"price\":825000,\"priceCurrency\":\"INR\",\"availability\":\"https://schema.org/InStock\"}],\"description\":\"CLEAN TITLE\\nEXCELLENCE CONDITION \\nSERVICE HISTORY AVAILABLE \\nABS:\\nPower Windows:\\nIntegrated (In-Dash) Music System:\\nLeather Seats:\\nPower Steering:\\nCentral Locking:\\nRear AC Vent:\\nChild Safety Locks:\\nAirbags:\\nRear Parking Sensor:\\nElectrically Adjustable ORVMs:\\nLED Tail Light:\\nTilt steering:\\nRear Spoiler:\",\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164503.jpg?qp=80&fit=true\"}],\"url\":\"https://www.carwale.com/used/ahmedabad/mahindra-marazzo/ud3j2bx3/\",\"itemCondition\":\"https://schema.org/UsedCondition\",\"location\":{\"@type\":\"Place\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"SHOP 1 2, Solitaire Connect, B S MAYUR PANKH HOTEL, Makarba, S.G HIGHWAY, A Ahmedabad, Ahmedabad, Gujarat, 380051\",\"addressLocality\":\"Ahmedabad\",\"addressRegion\":\"Gujarat\",\"postalCode\":\"380051\"}},\"vehicleIdentificationNumber\":\"000000000ud3j2bx3\"}",
+            "shouldAddNoIndexAttr": false
+        }
+    },
+    "usedCarLeads": {
+        "isUserVerifiedCookieAvailable": false,
+        "rank": "",
+        "slot": "",
+        "deliveryCity": ""
+    },
+    "metaKeyWords": {
+        "canonical": "https://www.carwale.com/used/ahmedabad/mahindra-marazzo/ud3j2bx3/",
+        "pageSchema": "{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Car\",\n  \"name\": \"Mahindra Marazzo [2018-2020]\",\n  \"brand\": [\n    {\n      \"@type\": \"Brand\",\n      \"name\": \"Mahindra\",\n      \"url\": \"Mahindra\"\n    }\n  ],\n  \"model\": \"Marazzo [2018-2020]\",\n  \"productionDate\": \"2019-01-01T00:00:00\",\n  \"mileageFromOdometer\": [\n    {\n      \"@type\": \"QuantitativeValue\",\n      \"value\": 22000,\n      \"unitCode\": \"KMT\"\n    }\n  ],\n  \"fuelType\": \"Diesel\",\n  \"vehicleTransmission\": \"Manual - 6 Gears\",\n  \"color\": \"Silver\",\n  \"numberOfPreviousOwners\": 1,\n  \"offers\": [\n    {\n      \"@type\": \"Offer\",\n      \"price\": 825000,\n      \"priceCurrency\": \"INR\",\n      \"availability\": \"https://schema.org/InStock\"\n    }\n  ],\n  \"description\": \"CLEAN TITLE\\nEXCELLENCE CONDITION \\nSERVICE HISTORY AVAILABLE \\nABS:\\nPower Windows:\\nIntegrated (In-Dash) Music System:\\nLeather Seats:\\nPower Steering:\\nCentral Locking:\\nRear AC Vent:\\nChild Safety Locks:\\nAirbags:\\nRear Parking Sensor:\\nElectrically Adjustable ORVMs:\\nLED Tail Light:\\nTilt steering:\\nRear Spoiler:\",\n  \"image\": [\n    {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://imgd.aeplcdn.com/640X480/vimages/202606/4645342_3609_1782722164503.jpg?qp=80&fit=true\"\n    }\n  ],\n  \"url\": \"https://www.carwale.com/used/ahmedabad/mahindra-marazzo/ud3j2bx3/\",\n  \"vehicleModelDate\": 2019,\n  \"modelDate\": 2019,\n  \"itemCondition\": \"https://schema.org/UsedCondition\",\n  \"location\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"streetAddress\": \"SHOP 1 2, Solitaire Connect, B S MAYUR PANKH HOTEL, Makarba, S.G HIGHWAY, A Ahmedabad, Ahmedabad, Gujarat, 380051\",\n      \"addressLocality\": \"Ahmedabad\",\n      \"addressRegion\": \"Gujarat\",\n      \"postalCode\": \"380051\"\n    }\n  },\n  \"bodyType\": \"SUV\",\n  \"vehicleIdentificationNumber\": \"000000000ud3j2bx3\"\n}",
+        "pageTitle": "Used 2019 Mahindra Marazzo [2018-2020] M4 7 STR for sale in Ahmedabad at Rs.8,25,000"
+    },
+    "flag": {
+        "isWebView": false
+    },
+    "isVernacularPopupVisible": false,
+    "isVernacularPopupClosed": true,
+    "isSecureCookieBrowserSupported": true,
+    "platform": 1,
+    "selectedLanguageShortName": "en",
+    "filtersDesignChange": false,
+    "isNewAdLayout": false,
+    "isUsedWeb": true,
+    "header": {
+        "isVisible": true,
+        "isNavDrawerActive": false,
+        "isSticky": false,
+        "hasLocation": true,
+        "isLocationActive": true,
+        "hasGlobalSearch": true,
+        "hasNavigationBar": true,
+        "showLocationToolTip": false,
+        "showLanguageSelectionPopup": false,
+        "hasLogo": true,
+        "hasBackButton": false,
+        "showLoginIcon": false,
+        "showLogoutIcon": false,
+        "showRetailHeading": false,
+        "isUserLoggedIn": false,
+        "isUsedQuickSearchActive": true
+    },
+    "theme": "light",
+    "appDownloadBanner": {
+        "isIos": false,
+        "isAndroid": false,
+        "isVisible": false
+    },
+    "showPwaInstallBanner": true,
+    "showCustomPwaInstallBanner": false,
+    "shouldShowAppInstallBanner": true,
+    "shouldChangeHideCustomPwaBannerTimeout": false,
+    "pageContext": {
+        "pageId": 0,
+        "newPageId": 0,
+        "pageName": "",
+        "pathName": "",
+        "search": "",
+        "makeMaskingName": "",
+        "modelMaskingName": ""
+    },
+    "globalMediaCampaign": {
+        "adTargetingData": [],
+        "ticker": {
+            "templateId": 0,
+            "campaignId": 0,
+            "bhriguTrackingProperties": {}
+        },
+        "skin": {
+            "templateId": 0,
+            "campaignId": 0,
+            "bhriguTrackingProperties": {}
+        },
+        "doodle": {
+            "templateId": 0,
+            "campaignId": 0,
+            "bhriguTrackingProperties": {}
+        },
+        "isChatOn": false,
+        "availableMediaProperties": [],
+        "isFetching": true,
+        "mediaTrackingCounter": 0,
+        "isInitialPageLoad": true,
+        "mediaProperties": {},
+        "isTickerClosed": false,
+        "isAppBannerClosed": false
+    },
+    "navigationDrawer": {
+        "popularMakes": []
+    },
+    "skipServerRender": false,
+    "shouldShowAutoExpoLink": false,
+    "shouldShowBookingCampaign": false,
+    "cachedComponentsFromServer": {},
+    "enableComponentCaching": false,
+    "componentsReceivedFromCache": 0,
+    "cacheObjectSize": 0,
+    "cacheHits": "0",
+    "isNodeJsServer": true
+}
